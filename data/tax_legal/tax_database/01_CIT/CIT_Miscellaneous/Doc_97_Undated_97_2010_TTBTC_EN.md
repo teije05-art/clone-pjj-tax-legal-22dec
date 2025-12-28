@@ -1,0 +1,791 @@
+---
+title: "Tax Document: Doc_97_Undated_97_2010_TTBTC_EN"
+original_title: "Doc 97 Undated 97 2010 TTBTC EN"
+document_type: "Doc"
+reference_number: "97"
+date_issued: "Undated_97_2010"
+authority_issued: "Tax Authority"
+category: "CIT"
+subcategory: "CIT_Miscellaneous"
+language: "Vietnamese"
+keywords: "CIT, Vietnam Tax, CIT_Miscellaneous, Regulations"
+source_folder: "General Master Resource Folder/CIT/Luat ND TT"
+conversion_date: "2025-11-21"
+original_format: "doc"
+pages_or_size: "N/A"
+has_sections: "yes"
+---
+
+<html xmlns:v='urn:schemas-microsoft-com:vml'
+                        xmlns:o='urn:schemas-microsoft-com:office:office'
+                        xmlns:w='urn:schemas-microsoft-com:office:word'><head>
+                        <!--[if gte mso 9]>
+                        <xml>
+                        <w:WordDocument>
+                        <w:View>Print</w:View>
+                        <w:Zoom>100</w:Zoom>
+                        <w:DoNotOptimizeForBrowser/>
+                        </w:WordDocument>
+                        </xml>
+                        <![endif]-->
+                        <meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=ProgId content=Word.Document></head><body>
+
+
+<div>
+
+<table border=0 cellspacing=0 cellpadding=0 width=592
+ style='width:444.0pt;border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=244 valign=top style='width:183.0pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p align=center style='margin-bottom:6.0pt;text-align:center'><b>THE
+  MINISTRY OF FINANCE<br>
+  -------</b></p>
+  </td>
+  <td width=348 valign=top style='width:261.0pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p align=center style='margin-bottom:6.0pt;text-align:center'><b>SOCIALIST</b>
+  <b>REPUBLIC OF VIET NAM<br>
+  Independence - Freedom     Happiness<br>
+  ---------</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td width=244 valign=top style='width:183.0pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p align=center style='margin-bottom:6.0pt;text-align:center'>No.
+  97/2010/TT-BTC</p>
+  </td>
+  <td width=348 valign=top style='width:261.0pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p align=right style='margin-bottom:6.0pt;text-align:right'><i>Hanoi,
+  July 06, 2010</i></p>
+  </td>
+ </tr>
+</table>
+
+<p style='margin-bottom:6.0pt'>&nbsp;</p>
+
+<p align=center style='margin-bottom:6.0pt;text-align:center'><b><span
+style='font-size:12.0pt'>CIRCULAR </span></b></p>
+
+<p align=center style='margin-bottom:6.0pt;text-align:center'>ON
+WORK-TRIP ALLOWANCES AND CONFERENCE EXPENDITURES APPLICABLE TO STATE AGENCIES
+AND PUBLIC NON-BUSINESS UNITS</p>
+
+<p style='margin-bottom:6.0pt'><i>Pursuant to the Government's
+Decree No. 60/ 2003/ND-CP of June 6, 2003, detailing and guiding the
+implementation of the Law on the State Budget;<br>
+Pursuant to the Government's Decree No. 118/2008/ND-CP of November 27, 2008,
+defining the functions, tasks, powers and organizational structure of the
+Ministry of Finance;<br>
+In furtherance of the Political Bureau's Conclusion No. 40-KUTW of March 6,
+2009, redressing irrationalities in salaries of and allowances for cadres,
+civil servants and public employees within Party, State and Vietnam Fatherland
+Front agencies, mass organizations and armed forces;<br>
+To practice thrift, combat waste and meet practical requirements, the Ministry
+of Finance provides for work-trip allowances and conference expenditures
+applicable to state agencies, public non-business units, sociopolitical
+organizations, socio-political-professional organizations, social
+organizations, socio-professional organizations and armed forces units funded
+with the state budget (below referred to as agencies and units) as follows:</i></p>
+
+<p style='margin-bottom:6.0pt'><b>Part I </b></p>
+
+<p align=center style='margin-bottom:6.0pt;text-align:center'><b><span
+style='font-size:12.0pt'>WORK-TRIP ALLOWANCES</span></b></p>
+
+<p style='margin-bottom:6.0pt'><b>Article 1. General provisions
+on work-trip allowances</b></p>
+
+<p style='margin-bottom:6.0pt'>1. Scope and beneficiaries of
+work-trip allowances:</p>
+
+<p style='margin-bottom:6.0pt'>Cadres, civil servants, public
+employees and contractual employees defined by law who work in agencies and
+units; officers and soldiers on termed service, workers, public employees and
+contractual employees in people's armed forces units (below referred to as
+cadres and civil servants) who are sent on domestic work trips by competent
+authorities; and deputies to People's Councils at all levels who participate in
+activities of People's Councils.</p>
+
+<p style='margin-bottom:6.0pt'>Cadres and civil servants who
+are invited by procedure-conducting agencies as witnesses in cases involving
+their expertise.</p>
+
+<p style='margin-bottom:6.0pt'>2. Work-trip allowances, which
+are expenses payable to those on domestic work trips, include travel expense,
+stay allowance, rent for lodgings in work-trip destinations, luggage charge,
+and document-carrying charge (if any).</p>
+
+<p style='margin-bottom:6.0pt'>3. Conditions for cadres and
+civil servants to receive work-trip allowances:</p>
+
+<p style='margin-bottom:6.0pt'>- They perform their assigned
+tasks;</p>
+
+<p style='margin-bottom:6.0pt'>- They are sent on work trips by
+heads of their agencies or units; or they are invited by procedure-conducting
+agencies as witnesses in cases involving their expertise;</p>
+
+<p style='margin-bottom:6.0pt'>- They have adequate supporting
+documents for payment under this Circular (except cases entitled to package
+payment).</p>
+
+<p style='margin-bottom:6.0pt'>4. The following cases are
+ineligible for work- trip allowances:</p>
+
+<p style='margin-bottom:6.0pt'>- Treatment or convalescence
+time at health establishments or sanatoria;</p>
+
+<p style='margin-bottom:6.0pt'>- Time at long- or short-term
+training courses during which trainees have enjoyed entitlements;</p>
+
+<p style='margin-bottom:6.0pt'>- Time for private business
+during work trips;</p>
+
+<p style='margin-bottom:6.0pt'>- Time on resident or dispatched
+assignment in another locality or agency under a decision of a competent
+authority.</p>
+
+<p style='margin-bottom:6.0pt'>5. Heads of agencies and units
+shall consider sending their staff on work trips (regarding the number and
+work-trip duration) efficiently and economically within their allocated annual
+state budget estimates.</p>
+
+<p style='margin-bottom:6.0pt'>6. Agencies and units shall pay
+allowances to their staff on work trips, except the case specified in Clause 6.
+Article 2 of this Circular.</p>
+
+<p style='margin-bottom:6.0pt'>7. During work trips, if work
+requires extra time, cadres or civil servants may, in addition to stay
+allowances, enjoy extra-time pay under current regulations. Heads of agencies
+and units shall specify in their internal spending regulations procedures for
+certification of extra working time as a basis for payment and work trips
+eligible for extra-time pay, on the principle that payment may be made only in
+case such extra working time is required by a competent authority, not for
+cases in which cadres or civil servants on work trips concurrently settle their
+personal matters during days-off.</p>
+
+<p style='margin-bottom:6.0pt'><b>Article 2. Contents and
+levels of spending on work-trip allowances</b></p>
+
+<p style='margin-bottom:6.0pt'>1. Payment of travel expenses:</p>
+
+<p style='margin-bottom:6.0pt'>a/ Those on work trips may
+receive travel expenses they have paid, including rent for vehicles from their
+homes to airports, railway stations or car terminals and vice versa; airfares,
+train tickets or tickets of mass transit vehicles from their agencies to
+work-trip destinations and vice versa; expense for travel within localities of
+work-trip destinations, such as from lodgings to workplaces, from airports,
+railway stations or car terminals to lodgings and vice versa; charge for ferry
+boats for themselves and vehicles; road toll and document-carrying charge (if
+any). In case sending and receiving agencies or units have arranged vehicles
+for cadres and civil servants, they will not have such expenses paid.</p>
+
+<p style='margin-bottom:6.0pt'>Documents for and levels of
+payment are based on prices indicated in tickets, ticketing invoices or
+receipts of vehicle owners. The ticket price is exclusive of other service
+charges like those for sightseeing or special services on request. Particularly
+for documents for payment of airfares, boarding cards are required in addition
+to ticket counterfoils (or electronic tickets).</p>
+
+<p style='margin-bottom:6.0pt'>b/ Based on agencies' or units'
+internal spending regulations, the nature of work trips and allocated funds,
+heads of agencies or units shall approve cadres' or civil servants' request for
+payment of expenses for travel by air. train, car or rudimentary vehicles,
+ensuring thrift and efficiency.</p>
+
+<p style='margin-bottom:6.0pt'>c/ Regulations on airfares for
+persons on domestic work trips:</p>
+
+<p style='margin-bottom:6.0pt'>- For high-ranking leaders
+(holding titles higher than ministerial level or equivalent), state current
+regulations apply;</p>
+
+<p style='margin-bottom:6.0pt'>- Business-class or class-C
+airfares are applicable to leading officials who enjoy salaries for leadership
+posts or enjoy leadership post-based allowances under the National Assembly
+Standing Committee's Resolution No. 730/NQ-UBTVQH of September 30, 2004. the
+Party Central Committee Secretariat's Decision No. 128-QD-TW of December 14.
+2004. or the Government's Decree No. 204/2004/ND-CP of December 14. 2004,
+including ministers and equivalent: deputy ministers and leading officials who
+enjoy post-based allowance coefficient of 1.3 or higher; deputy heads of
+central socio-political organizations; and the Standing Secretary of the
+central Ho Chi Minh Communist Youth Union;</p>
+
+<p style='margin-bottom:6.0pt'>- Economy-class airfares are
+applicable to cadres and civil servants holding other titles.</p>
+
+<p style='margin-bottom:6.0pt'>d/ For regions in which vehicles
+of mass transit dealers are unavailable and those on work trips have to hire
+other vehicles, heads of their agencies or units shall decide to approve
+payment of vehicle rents based on vehicle rent contracts or receipts of vehicle
+owners (taking into account freights of other vehicles at the same time in
+these regions).</p>
+
+<p style='margin-bottom:6.0pt'>2. Package payment of car rents:</p>
+
+<p style='margin-bottom:6.0pt'>a/ Leading officials who are
+entitled to cars arranged under the Prime Minister's regulations but have to
+pay car rents themselves because their agencies or units cannot arrange cars
+for them when they go to localities 10 km or more (in highland, island,
+difficulty-hit mountainous or deep-lying areas) or 15 km or more (in other
+areas) away from their working offices are entitled to package payment of car
+rents by their agencies or units, based on the actual distance (kilometer) and
+rent rate, Heads of agencies or units shall set rent rates based on popular
+rent rates applicable to medium-grade vehicles in localities and include such
+rent rates in their internal spending regulations.</p>
+
+<p style='margin-bottom:6.0pt'>b/ Cadres and civil servants who
+are not entitled to be arranged cars and who go on work trips on their own cars
+to localities 10 km or more (in highland, island, difficulty-hit mountainous or
+deep-lying areas) or 15 km or more (in other areas) away from their working
+offices are entitled to package payment of car rents based on the actual distance
+(kilometer) multiplied by the presumptive rent rate (including fuel cost and
+car depreciation).</p>
+
+<p style='margin-bottom:6.0pt'>c/ Bases for package payment of
+car rents include a travel warrant of cadres or civil servants on work trips,
+certified by the receiving agency (or hotel or guesthouse), and a table listing
+travel distances, which shall be submitted to heads of agencies or units for
+payment approval and included in internal spending regulations of agencies or
+units.</p>
+
+<p style='margin-bottom:6.0pt'>3. Stay allowances:</p>
+
+<p style='margin-bottom:6.0pt'>a/ Stay allowances mean amounts
+paid by agencies or units to their staff on work trips in addition to their
+salaries, to ensure meal expenses and pocket money for them, for a period from
+the date they begin until they finish their work trips and return to their
+agencies or units (including time of journey and stay in work-trip
+destinations).</p>
+
+<p style='margin-bottom:6.0pt'>The stay allowance payable to a
+cadre or civil servant on a work trip must not exceed VND 150.000/day. For a
+work trip within a day. the head of an agency or unit shall decide on the level
+of stay allowance based on the actual number of hours of the work trip, the
+work time outside working hours (including the time of journey) and the
+distance from the agency or unit to the work-trip destination, which must be
+included it in internal spending regulations of the agency or unit.</p>
+
+<p style='margin-bottom:6.0pt'>b/ Cadres and civil servants
+working on the mainland who are sent on work trips at sea or on islands are
+entitled to the maximum stay allowance of VND 200.000/person/day of actual work
+trip (applicable to days during which they work on islands and travel days at
+sea). In specific sectors for which allowances for work trips at sea or on
+islands have been stipulated by competent authorities, the highest allowance
+level may be applied to payment to cadres and civil servants.</p>
+
+<p style='margin-bottom:6.0pt'>c/ Supporting documents for
+payment of stay allowances include a document or work plan approved by the head
+of an agency or unit; and a travel warrant appended with the seal of the
+sending agency or unit and signed by and appended with the seal of the
+receiving agency (or hotel or guesthouse) certifying dates of arrival and
+departure.</p>
+
+<p style='margin-bottom:6.0pt'>4. Payment of rents for lodgings
+in work-trip destinations:</p>
+
+<p style='margin-bottom:6.0pt'>For high-ranking leaders,
+current state regulations apply; Other cadres and civil servants may have
+lodging rents paid by their agencies or units by:</p>
+
+<p style='margin-bottom:6.0pt'>a/ Package payment:</p>
+
+<p style='margin-bottom:6.0pt'>- For work trips to urban
+districts of Hanoi, Ho Chi Minh, Hai Phong, Can Tho and Da Nang cities, and
+provincial grade-I urban centers, the package allowance must not exceed VND
+350,000/day/person;</p>
+
+<p style='margin-bottom:6.0pt'>- For work trips to rural
+districts of centrally run cities and other towns and provincial cities, the
+package allowance must not exceed VND 250,000/day/person;</p>
+
+<p style='margin-bottom:6.0pt'>- For work trips to other areas,
+the package allowance must not exceed VND 200,000/day/person:</p>
+
+<p style='margin-bottom:6.0pt'>- For holders of ministerial,
+deputy- ministerial or other equivalent titles who receive package payment, the
+package allowance must not exceed VND 900,000/day/person. regardless of their
+work-trip destinations.</p>
+
+<p style='margin-bottom:6.0pt'>Cadres on work trips who have to
+complete their tasks until the day-end or who can buy airfares, train or car
+tickets only from 18:00 hours to 24:00 hours of the same day may receive
+payment for an additional half-a-day rent not exceeding 50% of the relevant
+package level of lodging rent.</p>
+
+<p style='margin-bottom:6.0pt'>b/ Invoice-based payment:</p>
+
+<p style='margin-bottom:6.0pt'>Cadres or civil servants on work
+trips who refuse to receive package payment under Point a above may receive
+payment based on actual lodging rents (accompanied with lawful invoices) as
+approved by heads of their agencies or units, specifically as follows:</p>
+
+<p style='margin-bottom:6.0pt'>- Holders of ministerial or
+equivalent titles are entitled to the lodging rent not exceeding VND 2.5
+million/day/room;</p>
+
+<p style='margin-bottom:6.0pt'>- For work trips to urban
+districts of Hanoi. Ho Chi Minh, Hai Phong, Can Tho and Da Nang cities, and
+provincial grade-I urban centers:</p>
+
+<p style='margin-bottom:6.0pt'>+ Leaders who enjoy a post-based
+allowance coefficient of 1.25-1.3 in administrative agencies or non-business
+units and holders of equivalent titles in Party or Vietnam Fatherland Front
+agencies or mass organizations arc entitled to the lodging rent not exceeding
+VND 1.2 million/day/ room;</p>
+
+<p style='margin-bottom:6.0pt'>+ Other cadres and civil
+servants are entitled to the lodging rent not exceeding VND 0.9
+million/day/room with 2 persons/room;</p>
+
+<p style='margin-bottom:6.0pt'>- For work trips to other areas:</p>
+
+<p style='margin-bottom:6.0pt'>+ Leaders who enjoy a post-based
+allowance coefficient of 1.25-1.3 in administrative agencies or non-business
+units and holders of equivalent titles in Party or Vietnam Fatherland Front
+agencies or mass organizations are entitled to the lodging rent not exceeding
+VND 1 million/day/ room;</p>
+
+<p style='margin-bottom:6.0pt'>+ Other cadres and civil servants
+arc entitled to the lodging rent not exceeding VND 0.6 million/day/room with 2
+persons/room;</p>
+
+<p style='margin-bottom:6.0pt'>- A cadre or civil servant who
+goes on a work trip alone or odd persons or odd persons of different sexes in a
+delegation (for other cadres and civil servants) may rent a separate room at
+the actual rent rate not exceeding the rent applicable to other cadres or civil
+servants in the delegation (with 2 persons/room);</p>
+
+<p style='margin-bottom:6.0pt'>- Cadres and civil servants on
+work trips in the same delegations with holders of leading titles who are
+entitled to hotel room norms higher than those for such cadres and civil
+servants may receive payments based on actual rents of standard rooms in hotels
+in which such holders of leading titles stay with 2 persons/room.</p>
+
+<p style='margin-bottom:6.0pt'>c/ Supporting documents for payment
+of lodging rents include a document or work plan indicating the number of
+work-trip days approved by the head of an agency or unit; a travel warrant
+appended with the sending agency's or unit's seal and signed by and appended
+with the seal of the receiving agency (or hotel or guesthouse) certifying the
+dates of arrival and departure and a lawful invoice (in case payment is made
+based on actual lodging rents).</p>
+
+<p style='margin-bottom:6.0pt'>d/ Cadres and civil servants on
+work trips to agencies or units that have arranged free lodgings are not
+entitled to package payment of lodging rents. If requesting and receiving
+package payment of lodging rents, they shall refund the rents to their agencies
+or units and be disciplined under the law on cadres and civil servants.</p>
+
+<p style='margin-bottom:6.0pt'>5. Package payment of monthly
+work-trip allowances:</p>
+
+<p style='margin-bottom:6.0pt'>For commune-level cadres and
+cadres of other agencies or units who have to regularly go on work trips for
+over 10 days a month (such as correspondence clerks, accountants, forest
+rangers, officers of procedural agencies who conduct investigation, procuracy
+or verification or send legal notices), heads of agencies or units shall,
+depending on entities, task characteristics and financial capacity, set the
+package level of monthly work-trip allowance to support these cadres and civil
+servants in covering car-parking and fuel expenses, which must not exceed VND
+300,000/person/month and shall be included in their internal spending
+regulations.</p>
+
+<p style='margin-bottom:6.0pt'>These cadres who are sent by
+competent authorities to go on specific work trips may receive payments for
+travel expenses and stay allowances under Clauses 1, 2 and 3 of this Article
+together with monthly package work-trip allowances if they go on work trips for
+over 10 days a month.</p>
+
+<p style='margin-bottom:6.0pt'>6. For cadres and civil servants
+going on work trips with inter-branch or -agency delegations</p>
+
+<p style='margin-bottom:6.0pt'>a/ In case an agency or unit
+wishes to requisition cadres, civil servants and public employees of another
+agency or unit for an inter-branch work trip to perform its political tasks or
+for fundamental research projects, that agency or unit shall pay all expenses
+for the delegation, including travel expenses, luggage charge,
+document-carrying charge, stay allowance, and lodging rent in work-trip
+destinations at the levels specified in its internal spending regulations.</p>
+
+<p style='margin-bottom:6.0pt'>b/ In case cadres and civil
+servants join an inter-branch or -agency delegation on a work trip under the
+requisition of a superior state management agency or coordinate with one
+another in performing jobs within political tasks of each agency or unit, the agency
+or unit in charge of the delegation shall pay travel expenses, luggage charge,
+and document-carrying charge (if any) to these cadres and civil servants. A
+delegation member who goes to the work-trip destination alone may have travel
+expenses, luggage charge, and document-carrying charge (if any) paid by his/her
+agency or unit.</p>
+
+<p style='margin-bottom:6.0pt'>In addition, the sending agency
+or unit shall pay stay allowances and lodging rents to their staff on work
+trips.</p>
+
+<p style='margin-bottom:6.0pt'>c/ Payment documents: In
+addition to the documents specified in Clauses 1.2 and 3, Article 2, there must
+be official letters (letters or official letters of invitation) requisitioning
+cadres, civil servants and public employees of other agencies or units for work
+trips. Such an official letter must indicate each agency's and unit's
+responsibility to pay work-trip expenses.</p>
+
+<p style='margin-bottom:6.0pt'>7. Deputies to People's Councils
+at all levels on work trips to perform their tasks (attending meetings of
+People's Councils or of committees of People's Councils, conducting supervisory
+activities or meeting with voters) may receive payments for work-trip
+allowances from operating funds of People's Councils.</p>
+
+<p style='margin-bottom:6.0pt'>8. Cadres and civil servants who
+are invited by procedure-conducting agencies as witnesses in cases involving
+their expertise may receive payments for work-trip allowances from operating
+funds of these agencies.</p>
+
+<p style='margin-bottom:6.0pt'><b>Part II </b></p>
+
+<p align=center style='margin-bottom:6.0pt;text-align:center'><b><span
+style='font-size:12.0pt'>CONFERENCE EXPENDITURES</span></b></p>
+
+<p style='margin-bottom:6.0pt'><b>Article 3. General provisions
+on conference expenditures</b></p>
+
+<p style='margin-bottom:6.0pt'>1. Subjects and scope of
+application:</p>
+
+<p style='margin-bottom:6.0pt'>Conference expenditures under
+this Circular are applicable to thematic review conferences, annual review
+conferences, and task performance training conferences held by state
+administrative agencies as prescribed in the Prime Minister's Decision No.
+114/2006/QD-TTg of May 25. 2006. promulgating regulations on meetings in the
+operation of state administrative agencies.</p>
+
+<p style='margin-bottom:6.0pt'>Sessions of People's Councils
+and their standing boards and committees, socio-political organizations,
+socio-political-professional organizations, social organizations,
+socio-professional organizations and public non-business units funded with the
+state budget must comply with regulations on conference expenditures under this
+Circular.</p>
+
+<p style='margin-bottom:6.0pt'>Particularly, the National
+Congress of the Communist Party of Vietnam, congresses of Party committees at
+all levels in preparation for the National Congress, conferences of Party
+agencies, National Assembly sessions, sessions of the Ethnic Council or other
+committees of the National Assembly, and sessions of the National Assembly
+Standing Committee must comply with specific regulations of competent
+authorities.</p>
+
+<p style='margin-bottom:6.0pt'>2. Before holding conferences to
+grasp and implement nationwide the Party's and State's major, important and
+urgent guidelines and policies in their assigned management domains; thematic
+review conferences; or conferences reviewing annual work programs, ministries,
+ministerial-level agencies or government-attached agencies shall obtain the
+Prime Minister's written approval under the Prime Minister's Decision No.
+114/2006/QD-TTg of May 25, 2006, promulgating regulations on meetings in the
+operation of state administrative agencies. Before organizing national
+conferences, the Party's central committees shall obtain written approval of
+the Secretariat's Standing Committee.</p>
+
+<p style='margin-bottom:6.0pt'>Before convening the whole
+sector's meetings in localities to review the performance of annual tasks or
+training meetings attended by chairpersons or vice chairpersons of
+district-level People's Committees or heads of other district-level specialized
+agencies, heads of specialized agencies of provincial-level People's Committees
+shall obtain approval of chairpersons of provincial-level People's Committees
+under regulations.</p>
+
+<p style='margin-bottom:6.0pt'>Before convening the whole
+sector's meetings in districts to review the performance of annual tasks or
+training meetings attended by chair-persons or vice chairpersons of
+commune-level People's Committees or heads of other commune-level specialized
+agencies, heads of specialized agencies of district-level People's Committees
+shall obtain approval of chairpersons of district-level People's Committees
+under regulations.</p>
+
+<p style='margin-bottom:6.0pt'>3. When holding conferences,
+heads of concerned agencies or units shall arrange appropriate locations and
+increase online meetings, especially for national conferences, while meeting
+specific requirements of each conference; combine matters and problems to be
+addressed; rationally combine different meetings; make careful preparations for
+meetings. Depending on characteristics, contents, purposes and requirements of
+a meeting, the person convening the meeting shall carefully consider and decide
+on the appropriate composition and number of participants, ensuring thrift and
+efficiency.</p>
+
+<p style='margin-bottom:6.0pt'>Conference organizers shall
+comply with regulations on conference expenditures under this Circular,
+preventing ostentation. They may not hold reception parties or pay for
+sightseeing activities, presents or souvenirs and restrict hiring art
+performances. Funds for conferences shall be included in agencies' or units'
+annual state budget estimates approved by competent authorities.</p>
+
+<p style='margin-bottom:6.0pt'>Conference organizers shall
+provide conference delegates with convenient accommodations.</p>
+
+<p style='margin-bottom:6.0pt'>Deputies to People's Councils at
+all levels and deputies invited by standing boards of People's Councils at all
+levels to attend sessions or meetings of committees of People's Councils may
+receive payments for work-trip allowances from operating funds of People's
+Councils.</p>
+
+<p style='margin-bottom:6.0pt'>4. The duration of a conference
+complies with the Prime Minister's Decision No. 114/2006/QD-TTg of May 25.
+2006, promulgating regulations on meetings in the operation of state
+administrative agencies, which must:</p>
+
+<p style='margin-bottom:6.0pt'>- Not exceed one day. for annual
+review conferences;</p>
+
+<p style='margin-bottom:6.0pt'>- Be 1 -2 days, for thematic
+review meetings, depending on the theme characteristics and contents;</p>
+
+<p style='margin-bottom:6.0pt'>- Be 1-3 days, for task
+performance training meetings, depending on characteristics and contents of
+concerned issues;</p>
+
+<p style='margin-bottom:6.0pt'>The duration of a training
+course with funds for training and retraining state cadres and civil servants
+or funds under programs or projects depends on the training program approved by
+a competent authority;</p>
+
+<p style='margin-bottom:6.0pt'>- Not exceed 2 days, for other
+meetings, depending on their characteristics and contents.</p>
+
+<p style='margin-bottom:6.0pt'>- The duration of a session of
+People's Councils or a meeting of committees of People's Councils is not regulated
+by this Circular.</p>
+
+<p style='margin-bottom:6.0pt'><b>Article 4. Spending contents
+and levels for conferences</b></p>
+
+<p style='margin-bottom:6.0pt'>1. The conference organizer may
+pay for the following:</p>
+
+<p style='margin-bottom:6.0pt'>a/ Rents for meeting halls
+during conference days (in case the organizer has no venue or a venue is not
+large enough); projectors and equipment for the conference.</p>
+
+<p style='margin-bottom:6.0pt'>b/ Documents; pens and paper (if
+any) for participants; hiring of lecturers; allowances for rapporteurs.</p>
+
+<p style='margin-bottom:6.0pt'>c/ Rents of vehicles for
+transporting delegates from their lodgings to the conference venue, in case the
+organizer has no vehicles or not enough vehicles.</p>
+
+<p style='margin-bottom:6.0pt'>d/ Drinks during the conference.</p>
+
+<p style='margin-bottom:6.0pt'>e/ Supports for meal, lodging
+and travel expenses for guest delegates who are not salaried by the state
+budget.</p>
+
+<p style='margin-bottom:6.0pt'>An additional amount shall be
+paid for the difference (between the actual expense for meals provided to all
+delegates and the amount already deducted from work-trip allowance) for state
+budget-salaried delegates and delegates of public non-business units (including
+non-business units that wholly or partly self-finance their operating expenses)
+and delegates of enterprises.</p>
+
+<p style='margin-bottom:6.0pt'>f/ Other expenses for extra-time
+work, ordinary curative medicines or decoration of meeting halls, etc.</p>
+
+<p style='margin-bottom:6.0pt'>Reward expenses at annual review
+meetings and expenses for public information work shall not be included in
+conference expenditures but in the organizer's commendation and public
+information expenses.</p>
+
+<p style='margin-bottom:6.0pt'>2. Specific spending levels:</p>
+
+<p style='margin-bottom:6.0pt'>a/ Support for meal expense for
+guest delegates who are not salaried by the state budget, which must not
+exceed:</p>
+
+<p style='margin-bottom:6.0pt'>- VND 150.000/day/person, for
+meetings held in inner areas of centrally run cities;</p>
+
+<p style='margin-bottom:6.0pt'>- VND 100,000/day/person, for
+meetings held in inner areas of provincial cities or in rural districts and
+towns of provinces;</p>
+
+<p style='margin-bottom:6.0pt'>- VND 60.000/day/person, for
+meetings held by administrations of communes, wards or townships (regardless of
+meeting venues).</p>
+
+<p style='margin-bottom:6.0pt'>The above support for meal
+expense serves as a basis for provision of package supports in cash to guest
+delegates who are not salaried by the state budget. In cases of providing meals
+to all delegates while the above package sum is insufficient, the head of the
+conference organizer shall, based on the characteristics of each conference and
+allocated state budget funds, decide on a higher level of support for meal
+expense for guest delegates, which must not exceed 130% of this package sum.
+The organizer shall deduct the meal expense from the work-trip allowance of
+state budget-salaried delegates at a level not exceeding the stay allowance
+specified in its internal spending regulations and may offset the difference
+between the actual expense for meals provided to all delegates and the amount
+already deducted from the work-trip allowance of state budget-salaried
+delegates, delegates from public non-business units or delegates from
+enterprises.</p>
+
+<p style='margin-bottom:6.0pt'>b/ Support for lodging rents for
+guests not salaried by the state budget shall be paid at the package payment
+level or real invoice as stipulated in Clause 4, Article 2 of this Circular.</p>
+
+<p style='margin-bottom:6.0pt'>c/ Allowances for lecturers and
+rapporteurs at professional training meetings and courses to disseminate and
+implement the Party's and State's mechanisms and policies; and allowances for
+reports presented at conferences shall be paid at the levels specified in the
+Finance Ministry's current regulations on management and use of funds for
+training and retraining state cadres and civil servants.</p>
+
+<p style='margin-bottom:6.0pt'>d/ Expense for drinks during a
+conference must not exceed VND 30,000/day (2 sessions)/ delegate.</p>
+
+<p style='margin-bottom:6.0pt'>e/ Support for travel expense
+for guest delegates not salaried by the state budget shall be paid under
+regulations on payment of work-trip allowances specified in this Circular.</p>
+
+<p style='margin-bottom:6.0pt'>f/ Other expenses for hiring
+meeting halls, vehicles or lecturers and copying documents, which must be
+accompanied by contracts, receipts or invoices (in case of hiring services).</p>
+
+<p style='margin-bottom:6.0pt'><b>Part III </b></p>
+
+<p align=center style='margin-bottom:6.0pt;text-align:center'><b><span
+style='font-size:12.0pt'>ORGANIZATION OF IMPLEMENTATION</span></b></p>
+
+<p style='margin-bottom:6.0pt'><b>Article 5. Implementation
+responsibility</b></p>
+
+<p style='margin-bottom:6.0pt'>1. Funds used for payment of
+work-trip allowances and conference expenditures shall be managed and used according
+to norms, criteria and regulations issued by competent state agencies and
+within allocated annual state budget spending estimates.</p>
+
+<p style='margin-bottom:6.0pt'>2. Based on the state budget
+capacity and actual prices, ministers, heads of ministerial-level agencies or
+government-attached agencies shall specify levels of work-trip allowances and
+conference expenditures for their attached agencies and units. Provincial-level
+People's Committees shall submit to provincial-level People's Councils for
+stipulation appropriate levels of work-trip allowances and conference
+expenditures for local agencies and units, which must not exceed 20% of the
+maximum spending level specified in this Circular, and shall include them in
+regular spending estimates allocated at the beginning of a year for
+implementation.</p>
+
+<p style='margin-bottom:6.0pt'>In case no specific spending
+levels are issued by ministries, branches and localities, heads of agencies and
+units shall, based on the maximum spending level specified in this Circular,
+decide on actual spending levels (accompanied by lawful and valid invoices) not
+higher than the spending level, ensuring thrift and preventing waste within
+their allocated state budget estimates. These spending levels must be included
+in their internal spending regulations.</p>
+
+<p style='margin-bottom:6.0pt'>3. In special cases which require
+work-trip allowances and conference expenditures higher than the levels
+specified in this Circular, heads of agencies or units shall make consideration
+and decision on a case-by-case basis and take responsibility for their
+decisions. They shall publicize at the year-end such special cases in their
+agencies and use their regular spending estimates allocated at the beginning of
+a year for implementation.</p>
+
+<p style='margin-bottom:6.0pt'>4. Provincial-level People's
+Councils shall, pursuant to the National Assembly Standing Committee's Resolution
+No. 773/2009/NQ-UBTVQH12 of March 31, 2009. on spending for the operation of
+the National Assembly, National Assembly agencies, the National Assembly
+Office, agencies attached to the National Assembly Standing Committee,
+delegations of National Assembly deputies and National Assembly deputies,
+promulgate a resolution applicable to People's Councils at all levels to suit
+local situation, ensuring practical and effective operation of People's
+Councils at all levels with regard to relevant spending tasks.</p>
+
+<p style='margin-bottom:6.0pt'>5. The Ministry of Public
+Security and the Ministry of National Defense shall guide their attached
+agencies and units in implementing regulations on work-trip allowances and
+conference expenditures to suit their specific characteristics.</p>
+
+<p style='margin-bottom:6.0pt'>6. Public non-business units
+that wholly or partly self-finance their operating funds under the Government's
+Decree No. 43/2006/ND-CP of April 25, 2006, providing for the autonomy and
+accountability for task performance, organizational apparatus, payroll and
+finance for public non-business units; and public science and technology
+organizations that have implemented autonomy and accountability mechanisms
+under the Government's Decree No. 115/2005/ND-CP of September 5, 2005, may
+decide on the levels of work-trip allowances and conference expenditures
+different from the levels specified by ministers, heads of ministerial-level
+agencies or government-attached agencies or provincial-level People's
+Committees under this Circular, which shall be included in their internal spending
+regulations, ensuring thrift, efficiency and suitability with their state
+budget capacity and operation characteristics. For irregular expenditures
+(non-package funds), work-trip allowances and conference expenditures shall be
+paid at the levels specified by ministries, branches and localities under this
+Circular.</p>
+
+<p style='margin-bottom:6.0pt'>Conferences funded by
+organizations and individuals are encouraged to apply this Circular to ensure
+thrift and efficiency and suitability to the state budget capacity of concerned
+units.</p>
+
+<p style='margin-bottom:6.0pt'>State enterprises may apply
+regulations on work-trip allowances and conference expenditures under this
+Circular to ensure thrift, efficiency and suitability to their production and
+business characteristics. State enterprises allocated with state budget funds
+for implementation of specific programs or projects which require payment of
+work-trip allowances or conference expenditures shall pay such allowances or
+expenditures at the levels specified by competent authorities under approved
+programs or projects.</p>
+
+<p style='margin-bottom:6.0pt'>7. For work-trip allowances or
+conference expenditures which are detected through inspection as contrary to
+this Circular, superior managing agencies, finance agencies at all levels,
+inspectorates and stale audit offices may cancel their payment and request responsible
+agencies or units to recover and remit them into public funds. Makers of
+improper payment orders shall compensate the improperly paid sums to concerned
+agencies or units and shall, depending on the severity of their violations, be
+handled under current regulations.</p>
+
+<p style='margin-bottom:6.0pt'><b>Article 6. Organization of
+implementation</b></p>
+
+<p style='margin-bottom:6.0pt'>1. This Circular takes effect 45
+days from the date of its signing and supersedes the Finance Ministry's
+Circular No. 23/2007/TT-BTC of March 21, 2007, on work-trip allowances and
+conference expenditures applicable to state agencies and public non-business
+units; Section I of the Finance Ministry's Circular No. 127/ 2007/TT-BTC of
+October 31, 2007, amending and supplementing Circular No. 23/2007/TT-BTC of
+March 21, 2007, and Circular No. 57/ 2007/TT-BTC of June 11, 2007; and Article
+1 of the Finance Ministry's Circular No. 142/2009/ TT-BTC of July 14, 2009,
+amending and supplementing Circular No. 23/2007/TT-BTC and Circular No.
+91/2005/TT-BTC of October 18,2005, on work-trip allowances for state cadres and
+civil servants on short-term overseas work trips funded with the state budget.</p>
+
+<p style='margin-bottom:6.0pt'>Particularly in 2010. agencies
+and units shall pay work-trip allowances and conference expenditures from their
+allocated state budget estimates and other lawful funding sources under this
+Circular.</p>
+
+<p style='margin-bottom:6.0pt'>2. Any problems arising in the
+course of implementation should be reported to the Ministry of Finance for
+guidance.-</p>
+
+<p style='margin-bottom:6.0pt'>&nbsp;</p>
+
+<table border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=249 valign=top style='width:186.6pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p style='margin-bottom:6.0pt'>&nbsp;</p>
+  </td>
+  <td width=370 valign=top style='width:277.75pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p align=center style='margin-bottom:6.0pt;text-align:center'><b>FOR
+  THE MINISTER OF FINANCE<br>
+  DEPUTY MINISTER<br>
+  <br>
+  <br>
+  <br>
+  <br>
+  Pham Sy Danh</b></p>
+  </td>
+ </tr>
+</table>
+
+<p style='margin-bottom:6.0pt'>&nbsp;</p>
+
+</div>
+
+
+<!--LdABoAHUAdgBpAGUAbgBwAGgAYQBwAGwAdQBhAHQALgB2AG4A--></body></html>

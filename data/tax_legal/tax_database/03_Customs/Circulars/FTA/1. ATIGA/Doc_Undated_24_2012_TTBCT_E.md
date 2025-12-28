@@ -1,0 +1,10 @@
+---
+title: "Doc Undated 24 2012 TTBCT E"
+category: "Customs"
+subcategory: "Customs & FTA"
+source_folder: "Circulars/FTA/1. ATIGA"
+conversion_date: "2025-11-21"
+original_format: "doc"
+---
+
+*File: General Master Resource Folder/Customs/Circulars/FTA/1. ATIGA/24_2012_TT-BCT_E.doc*

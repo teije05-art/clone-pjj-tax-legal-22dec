@@ -1,0 +1,25 @@
+{
+  "session_id": "78fe4933-4d64-4805-b029-ed1c5bf0fbfe",
+  "user_id": "user",
+  "created_at": "2025-12-08T15:50:08.770852",
+  "original_request": "\nVingroup exports software services to clients in the United States. What conditions must be satisfied to apply 0% VAT\n",
+  "suggested_categories": [
+    "VAT",
+    "DTA"
+  ],
+  "confirmed_categories": [
+    "VAT",
+    "DTA"
+  ],
+  "past_responses_found": [],
+  "selected_past_response": null,
+  "past_responses_suggested_files": [],
+  "documents_found": [],
+  "selected_documents": [],
+  "synthesized_response": "",
+  "verification_report": {},
+  "response_with_citations": "",
+  "citations": [],
+  "approval_status": "pending",
+  "current_step": 4
+}

@@ -1,0 +1,11 @@
+CorrelationId: abf1ad04-f710-4a72-a1b5-0955beee888e
+UTC DateTime: 11/20/2025 04:33:50
+
+The following files/folders have not been downloaded
+0. Draft regulations/du thao sua doi luat KNCN/phulucxiii1703bc-bkhcnsigned.zip
+1. Immigration/Covid19 related guidances/10943_BYT-MT_v H??ng d?n pc  COVID-19 -ng??i nh?p c?nh v?o Vi?t Nam l?m vi?c ng?n ng?y (d??i 14 ng?y)-E.doc
+2. Immigration/Covid19 related guidances/10943_BYT-MT_v H??ng d?n y t? ph?ng, ch?ng d?ch COVID-19 ??i v?i ng??i ???c ph?p nh?p c?nh v?o Vi?t Nam l?m vi?c ng?n ng?y (d??i 14 ng?y)..doc
+3. VAT/CV 2023/OL10225 IRC truoc ND18 thi input VAT truoc thoi diem EPE status duoc hoan thue.pdf
+4. VAT/E-Invoice/CV1316-2022-CTBNI-TTHT Thoi diem xuat hoa don DT XK cua EPE la thoi diem hoan thanh thu tuc hai quan.pdf
+5. VAT/E-Invoice/CV1882-2022-CTTNG-TTHT Thoi diem xuat hoa don DT XK cua EPE la thoi diem chuyen giao so huu.pdf
+6. VAT/E-Invoice/CV4267_D7TD_220715_Hoa don cua FB ko dc khau tru VAT.pdf

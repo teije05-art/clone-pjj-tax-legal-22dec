@@ -1,0 +1,8 @@
+{
+  "track_id": "vertex_ai_auth_20251227",
+  "type": "refactor",
+  "status": "new",
+  "created_at": "2025-12-28T08:53:50.089Z",
+  "updated_at": "2025-12-28T08:53:50.089Z",
+  "description": "Refactor agent.py and settings.py to use Vertex AI Authentication."
+}

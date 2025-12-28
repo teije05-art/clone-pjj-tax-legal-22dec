@@ -1,0 +1,5 @@
+"""PJJ Tax Legal Advisory System"""
+# from pjj_tax_legal.agent import Agent
+
+__version__ = "1.0.0"
+# __all__ = ["Agent"]

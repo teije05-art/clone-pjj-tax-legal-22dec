@@ -1,0 +1,112 @@
+{
+  "session_id": "c49b6ad6-e610-46fa-8835-a61ef88d791d",
+  "user_id": "user",
+  "created_at": "2025-12-28T09:04:14.065168",
+  "original_request": "Vingroup exports software services to clients in the United States. What conditions must be satisfied to apply 0% VAT?",
+  "suggested_categories": [
+    "VAT",
+    "Customs",
+    "CIT"
+  ],
+  "confirmed_categories": [
+    "VAT",
+    "Customs",
+    "CIT"
+  ],
+  "past_responses_found": [
+    {
+      "filename": "FCT and VAT implications on loaned equipment-PIC Oanh Pham - MIC Nhung Le.md",
+      "content": "The purchase price, in the purchase option stated in Article 15 of the Agreement, will be at a 65% discount from the list price as determined by ABC. No software and/or intellectual property will be transferred by ABC to the distributor upon the disposal of the loaned equipment.\n\nABC assumed all related costs of bringing the loaned equipment physically into Vietnam, including shipping costs, Valued added Tax (“VAT”) and import duties at the import stage, etc. The loaned equipment was delivered by ABC to the distributor in May 2019 with the customs declaration under A11 code for importation procedures (i.e. Import for consumption and for trading). The import VAT was declared and paid to the State Budget based on the list price of the loaned equipment at import stage.\n\nVietnamese Foreign Contractor Tax (“FCT”) and VAT implications on the distributor’s purchase of the loaned equipment; and\n\nThe possibility to apply the relevant tax treaty for tax exemption, where applicable\nPlease advise if any of the above understanding is not correct as it may materially impact our comments hereunder.\nRegulatory basis\nOur comments from tax regulatory perspectives herein have been prepared based on the information and documents provided by you, in accordance with the relevant regulations currently in force in Vietnam as of the reporting date.  Particularly, our comments are mainly based on the legal documents as outlined in Appendix 1.\nImportant note\nWe have been requested to advise on the Vietnamese tax regulatory implications associated with the above arrangements only. Our advice therefore only focuses on current Vietnamese tax and other regulatory regulations of the Socialist Republic of Vietnam and will not take into account (i) legal implications and (ii) tax implications of jurisdictions other than Vietnam. \nOur comments are based on our understanding of the preliminary information that have been provided to us at this stage, in light of the relevant regulations currently in force in Vietnam as of the reporting date. Should there be any changes in the service structure at a later stage, we can assist in updating the comments under a separate engagement.\nOur comments\nFCT and VAT implications\nOverview of Vietnamese taxation\nForeign Contractor Tax (“FCT”) is a comprehensive tax collection regime that applies to, amongst others, foreign business organizations, with or without permanent establishment (“PE”) in Vietnam, doing business in Vietnam or having Vietnam-sourced income on the basis of a contract, agreement or undertaking with Vietnamese organizations. Broadly, FCT is a collection mechanism for Corporate Income Tax (“CIT”) and Value Add Tax (“VAT”).\nConceptually, FCT will not be applied if the goods are supplied with the place of delivery at the border gates, and without accompanied services provided in Vietnam.\nFor goods delivered within the territories of Vietnam, the applicable tax rates for trading activities will be applied at 1% deemed CIT and 1% dee...",
+      "summary": "The purchase price, in the purchase option stated in Article 15 of the Agreement, will be at a 65% discount from the list price as determined by ABC. No software and/or intellectual property will be transferred by ABC to the distributor upon the disp",
+      "categories": [
+        "VAT",
+        "Customs",
+        "CIT"
+      ],
+      "files_used": [
+        "FCT and VAT implications on loaned equipment-PIC Oanh Pham - MIC Nhung Le.md"
+      ],
+      "date_created": "Unknown"
+    },
+    {
+      "filename": "Tax and Customs implication on goods trading via bonded warehouse.md",
+      "content": "Private and confidential\n\nWarranty / Maintenance Work in Vietnam related to the above goods supply\nFor the warranty which is conducted within effective period of the warranty term for free of charge and maintenance services for which ABC Company would charge their customers, ABC Company is considering either of the following options:\nOption 1: ABC Company engages a local ABC company to carry out the warranty / maintenance work and would pay the local ABC company all related expenses, including visa application and salary payments, labor and health insurance expenses for the involved personnel.\nOption 2: ABC Company engages a local agency to carry out the warranty / maintenance work, and would pay the local agency all related expenses, including visa application and salary payments, labor and health insurance expenses for the involved personnel.\nThe involved personnel are directly engaged into the employment relationship with local ABC company / local agency, but not ABC Company.\nLocal ABC company / local agency would issue invoices to charge fees to ABC Company, meanwhile ABC Company would directly issue the invoices to charge maintenance fee to the Vietnam customers.\nKPMG’s comments\nVietnam Tax Perspective\nVietnam tax implications to ABC Company, including but not limited to Vietnam withholding tax (“WHT”), value added tax (“VAT”), personal income tax (“PIT”) obligations\nWHT implications to ABC Company for M&E sales through Vietnam BWH\nVietnam tax system imposes WHT on foreign contractors who do not have a tax presence in Vietnam but earn income from Vietnam. WHT comprise of Corporate Income Tax (“CIT”) and Value Added Tax (“VAT”).\nUnder the current regulations, a foreign contractor shall be subject to Vietnam WHT in certain cases, including but not limited to:\nForeign contractor supplying goods in Vietnam in the form of on-the-spot import and export and having income arising in Vietnam on the basis of a contract signed by such\n\nforeign contractor with a Vietnam party or carrying out distribution of goods in Vietnam or supply of goods on international commercial terms – Incoterms whereby the seller shall bear risks relating to goods entering into the territory of Vietnam.\nForeign contractor conducting all or part of business or distribution activities for goods or provision of services in Vietnam when the foreign contractor remains the owner of the goods delivered to Vietnam party and is responsible for costs of distribution, advertising, marketing, quality of services or quality of goods delivered to Vietnam party; including the case in which a number of Vietnam parties are authorized or hired to carry out part of distribution services or other services relating to the sale of goods in Vietnam.\nPertaining to the contemplated model, we noted that ABC Company would store its goods in a BWH located in Vietnam. Upon demand request from the Vietnam customers, ABC Company would deliver the goods thereafter and the goods ownership would be transferred...",
+      "summary": "Private and confidential\n\nWarranty / Maintenance Work in Vietnam related to the above goods supply\nFor the warranty which is conducted within effective period of the warranty term for free of charge and maintenance services for which ABC Company woul",
+      "categories": [
+        "VAT",
+        "Customs",
+        "CIT"
+      ],
+      "files_used": [
+        "Tax and Customs implication on goods trading via bonded warehouse.md"
+      ],
+      "date_created": "Unknown"
+    },
+    {
+      "filename": "Vietnamese tax implications on flash-title transfer transactions inside bonded warehouse.md",
+      "content": "No. 2389/TCT-CS for Canon Singapore’s case, OL No. 3997/TCT-CS for Sagawa’s case and OL No. 1474/TCT-DNL for Sabic’s case);\nThe risk of exposing to income tax of this flash-title-transfer transaction, therefore, is considered high.\nThere is no clear mechanism on how to declare and pay taxes on this type of transactions under the current tax regulations. However, the taxing mechanism was guided/mentioned under the above OLs;\nIn practice, the policy makers are becoming well aware of this kind of business model and may insist to tax by carrying out tax audits at the bonded warehouse management or the logistics companies, on the basis that the bonded warehouse managers are required to notify the Customs Office regarding the transfer of ownership of goods stored at the bonded warehouse for management and supervision under the Customs regulations.2\nThe “substance over form principle” was enacted under the Law on Tax Administration 2019 which is effective from 01 July 2020, being the principle applied in tax administration to analyze transactions and business activities of taxpayers to determine the corresponding tax obligations.3\nGiven the above, the absence of taxing mechanism would not reduce the level of tax risk since (i) the transaction is taxable in principle and (ii) a number of OLs have confirmed taxing mechanism in practice. Since the responsibilities to withhold, declare and pay taxes rests with income payment organization (i.e.\nClient TW) in practice, it is recommended that a private ruling should be obtained from the local tax authorities to confirm the tax position of the transaction and the mechanism to declare and pay taxes in Vietnam.",
+      "summary": "No. 2389/TCT-CS for Canon Singapore’s case, OL No. 3997/TCT-CS for Sagawa’s case and OL No. 1474/TCT-DNL for Sabic’s case);\nThe risk of exposing to income tax of this flash-title-transfer transaction, therefore, is considered high.\nThere is no clear ",
+      "categories": [
+        "VAT",
+        "Customs",
+        "CIT"
+      ],
+      "files_used": [
+        "Vietnamese tax implications on flash-title transfer transactions inside bonded warehouse.md"
+      ],
+      "date_created": "Unknown"
+    },
+    {
+      "filename": "CIT for share subscription at premium-[Nguyen Thanh Tam]-[Nguyen Duc Thanh].md",
+      "content": "Based on another private ruling which was not made public issued by Ho Chi Minh City Tax Department dated 29 January 2021, Investor 1 (Singapore) invested in Investee (Vietnam) with premium. The premium was shared to Investor 2 (BVI), and Investor 2 duly paid tax in Vietnam. Subsequently, Investor 2 contributed such money back into capital contribution in the Investee. The ruling stated that the capital cost when Investor 2 disposes its investment would include such premium value.",
+      "summary": "Based on another private ruling which was not made public issued by Ho Chi Minh City Tax Department dated 29 January 2021, Investor 1 (Singapore) invested in Investee (Vietnam) with premium. The premium was shared to Investor 2 (BVI), and Investor 2 ",
+      "categories": [
+        "VAT",
+        "Customs",
+        "CIT"
+      ],
+      "files_used": [
+        "CIT for share subscription at premium-[Nguyen Thanh Tam]-[Nguyen Duc Thanh].md"
+      ],
+      "date_created": "Unknown"
+    },
+    {
+      "filename": "CIT incentive for expansion project in IZ - Conditions and requirements.md",
+      "content": "Background\nABC Co., Ltd (“the Company”) was incorporated in Vietnam under the Enterprise Registration Certificate (“ERC”) No. xxx dated 28 May 2008 issued by the Business Registration Office of Vinh Phuc Department of Planning and Investment and licensed to carry out the project under Investment Registration Certificate (“IRC”) No. xxx dated 28 May 2008 issued by the Management Board of Vinh Phuc Industrial Zones (the “Original Investment Project” or “OIP”).\nThe OIP’s objectives include (a) manufacturing and selling automotive components and parts for automobiles and motorcycles, and (b) trading raw materials, machines and tools for manufacturing automotive components and parts for automobiles and motorcycles. \nActivity (a) is entitled to Corporate Income Tax (“CIT”) at the preferential rate of 15% in 12 years from the first year it operates (FY08), CIT exemption for 03 years from the first year it generates a taxable profit (FY09-11) and 50% CIT reduction for the 07 succeeding years (FY12-18). That said, no CIT incentive is available for OIP after FY18. \nThe Company applied for the 5th amended IRC dated 1 August 2022 for the increase in the investment capital and the charter capital, changes in project’s objectives and increase in production capacity (the “Expansion Investment Project” or “EIP”).\nThe changes in the project’s objectives include (i) removal of “Trading automotive components and parts for automobiles and motorcycle; Trading raw materials for manufacturing automotive components and parts for automobiles and motorcycles”; and (ii) supplementation of “Exercising the right to import, export, wholesale distribution (without setting up the wholesale outlet), products include: indicators, license plate lights, 4-wheel ceiling lights”.\nThe increase in investment capital, charter capital and production capacity is summarised as follows:\nPer the Company’s confirmation, the increased investment capital is for construction of a new factory (Factory 2), new machinery and technology for manufacturing components and parts for motorcycles. The budgeted value for the EIP is estimated at VND87,707,515,448 with detailed break-down below. In which, In which, the value of buildings and factory per the construction contract No 01/CC105 signed between the Company and the contractor dated 28 June 2022 is VND56,938,680,000.\nBased on the above information, the increase in historical cost of fixed assets of the EIP as compared to that before expansion investment (e.g. the fixed asset value at year-end FY2021 is VND76,176,748,994) would likely be more than 20%.\nOn the above background, the Company is considering whether it can avail the possible CIT incentive applicable to the EIP under the current Vietnamese tax regulations.\nPlease let us know if any of the above information is not correct as it may materially impact our comments hereunder.\nOur comments\nPossible CIT incentive for the Company’s EIP\nOverview of the CIT regulations\nUnder the current CIT regulat...",
+      "summary": "Background\nABC Co., Ltd (“the Company”) was incorporated in Vietnam under the Enterprise Registration Certificate (“ERC”) No. xxx dated 28 May 2008 issued by the Business Registration Office of Vinh Phuc Department of Planning and Investment and lice",
+      "categories": [
+        "VAT",
+        "Customs",
+        "CIT"
+      ],
+      "files_used": [
+        "CIT incentive for expansion project in IZ - Conditions and requirements.md"
+      ],
+      "date_created": "Unknown"
+    },
+    {
+      "filename": "Real Estate-Vietnam tax implications in relation to the contemplated plan-Nguyen Thanh Tam-To Huu Minh.md",
+      "content": "In case of sale/transfer of the assets, JVC is required to declare and pay Value Added Tax (“VAT”) (at the rate of from 5% or 10% depending on the type of assets sold/transferred) and Corporate Income Tax (“CIT”) (at the standard rate of 20%) on the revenue/taxable income generated from the sale/transfer of assets (if any) in accordance with the prevailing laws.\n\nFulfilling tax liabilities and deactivating JVC’s tax code\n\nJVC is required to conduct the following procedure to deactivate the company’s tax code for the purpose of terminating its operations:\n\nNotification on the deactivation of the tax code: JVC shall submit to the tax authority a dossier for deactivation of its tax code which comprises document requesting deactivation of tax code and a copy of the dissolution resolution.\n\nWithin two (2) working days from receipt of required documents for the dissolution of the Company, the tax authority shall issue a written Notification acknowledging that the Company has ceased its operations and is conducting the procedure for deactivating its tax code.\n\nPreparing and submitting the VAT declaration returns\n\nJVC shall submit its VAT declaration returns to the local tax authority till the last periods of its operation.\n\nSame as CIT matters as aforementioned, JVC should make all supporting documents related to its input VAT available before the dissolution date to avoid risk of input VAT being treated non-creditable.\n\nTax audit: When receiving of the sufficient tax finalisation dossiers from JVC, the tax authority is responsible to carry out the procedure for tax audit at the JVC’s premises for the purpose of dissolution of JVC and deactivation of the tax code of JVC. In practice, the actual timing for tax audit depends on the working schedule of the local tax authority and delay is always anticipated in this procedure.\n\nThe transfer of capital in JVC by J-SPC is not subject to VAT and registration fee in Vietnam.",
+      "summary": "In case of sale/transfer of the assets, JVC is required to declare and pay Value Added Tax (“VAT”) (at the rate of from 5% or 10% depending on the type of assets sold/transferred) and Corporate Income Tax (“CIT”) (at the standard rate of 20%) on the ",
+      "categories": [
+        "VAT",
+        "Customs",
+        "CIT"
+      ],
+      "files_used": [
+        "Real Estate-Vietnam tax implications in relation to the contemplated plan-Nguyen Thanh Tam-To Huu Minh.md"
+      ],
+      "date_created": "Unknown"
+    }
+  ],
+  "selected_past_response": null,
+  "past_responses_suggested_files": [],
+  "documents_found": [],
+  "selected_documents": [],
+  "synthesized_response": "",
+  "verification_report": {},
+  "response_with_citations": "",
+  "citations": [],
+  "approval_status": "pending",
+  "current_step": 2
+}

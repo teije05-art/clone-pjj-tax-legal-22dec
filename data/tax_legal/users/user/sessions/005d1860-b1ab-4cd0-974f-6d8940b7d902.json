@@ -1,0 +1,36 @@
+{
+  "session_id": "005d1860-b1ab-4cd0-974f-6d8940b7d902",
+  "user_id": "user",
+  "created_at": "2025-12-08T18:00:54.520841",
+  "original_request": "Vingroup exports software services to clients in the United States. What conditions must be satisfied to apply 0% VAT",
+  "suggested_categories": [
+    "VAT"
+  ],
+  "confirmed_categories": [
+    "VAT"
+  ],
+  "past_responses_found": [
+    {
+      "filename": "FCT and VAT implications on loaned equipment-PIC Oanh Pham - MIC Nhung Le.md",
+      "content": "Only ABC or its authorized service providers may provide installation, maintenance or support services on the loaned equipment.\n\nThe purchase price, in the purchase option stated in Article 15 of the Agreement, will be at a 65% discount from the list price as determined by ABC. No software and/or intellectual property will be transferred by ABC to the distributor upon the disposal of the loaned equipment.\n\nABC assumed all related costs of bringing the loaned equipment physically into Vietnam, including shipping costs, Valued added Tax (\u201cVAT\u201d) and import duties at the import stage, etc. The loaned equipment was delivered by ABC to the distributor in May 2019 with the customs declaration under A11 code for importation procedures (i.e. Import for consumption and for trading). The import VAT was declared and paid to the State Budget based on the list price of the loaned equipment at import stage.\n\nVietnamese Foreign Contractor Tax (\u201cFCT\u201d) and VAT implications on the distributor\u2019s purchase of the loaned equipment; and\n\nThe possibility to apply the relevant tax treaty for tax exemption, where applicable\nPlease advise if any of the above understanding is not correct as it may materially impact our comments hereunder.\nRegulatory basis\nOur comments from tax regulatory perspectives herein have been prepared based on the information and documents provided by you, in accordance with the relevant regulations currently in force in Vietnam as of the reporting date.  Particularly, our comments are mainly based on the legal documents as outlined in Appendix 1.\nImportant note\nWe have been requested to advise on the Vietnamese tax regulatory implications associated with the above arrangements only. Our advice therefore only focuses on current Vietnamese tax and other regulatory regulations of the Socialist Republic of Vietnam and will not take into account (i) legal implications and (ii) tax implications of jurisdictions other than Vietnam. \nOur comments are based on our understanding of the preliminary information that have been provided to us at this stage, in light of the relevant regulations currently in force in Vietnam as of the reporting date. Should there be any changes in the service structure at a later stage, we can assist in updating the comments under a separate engagement.\nOur comments\nFCT and VAT implications\nOverview of Vietnamese taxation\nForeign Contractor Tax (\u201cFCT\u201d) is a comprehensive tax collection regime that applies to, amongst others, foreign business organizations, with or without permanent establishment (\u201cPE\u201d) in Vietnam, doing business in Vietnam or having Vietnam-sourced income on the basis of a contract, agreement or undertaking with Vietnamese organizations. Broadly, FCT is a collection mechanism for Corporate Income Tax (\u201cCIT\u201d) and Value Add Tax (\u201cVAT\u201d).\nConceptually, FCT will not be applied if the goods are supplied with the place of delivery at the border gates, and without accompanied services provided in Vietnam.\nFor goods deliver",
+      "summary": "Only ABC or its authorized service providers may provide installation, maintenance or support services on the loaned equipment.\n\nThe purchase price, in the purchase option stated in Article 15 of the Agreement, will be at a 65% discount from the list",
+      "categories": [
+        "VAT"
+      ],
+      "files_used": [
+        "FCT and VAT implications on loaned equipment-PIC Oanh Pham - MIC Nhung Le.md"
+      ],
+      "date_created": "Unknown"
+    }
+  ],
+  "selected_past_response": null,
+  "past_responses_suggested_files": [],
+  "documents_found": [],
+  "selected_documents": [],
+  "synthesized_response": "",
+  "verification_report": {},
+  "response_with_citations": "",
+  "citations": [],
+  "approval_status": "pending",
+  "current_step": 4
+}

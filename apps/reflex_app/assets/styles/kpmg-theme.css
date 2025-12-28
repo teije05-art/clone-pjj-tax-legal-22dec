@@ -1,0 +1,438 @@
+/* KPMG Brand Theme - Professional SaaS Dashboard Styling */
+
+/* ============================================================================
+   GOOGLE FONTS IMPORT
+   ============================================================================ */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap');
+
+/* ============================================================================
+   CSS CUSTOM PROPERTIES - KPMG BRAND COLORS
+   ============================================================================ */
+:root {
+  /* Primary Brand Colors */
+  --kpmg-navy: #191E62;
+  --kpmg-blue: #00338D;
+  --kpmg-pink: #E6007E;
+  --kpmg-purple: #6D2077;
+
+  /* Neutral Palette (Slate) */
+  --kpmg-white: #FFFFFF;
+  --kpmg-slate-50: #F8FAFC;
+  --kpmg-slate-100: #F1F5F9;
+  --kpmg-slate-200: #E2E8F0;
+  --kpmg-slate-300: #CBD5E1;
+  --kpmg-slate-400: #94A3B8;
+  --kpmg-slate-500: #64748B;
+  --kpmg-slate-600: #475569;
+  --kpmg-slate-700: #334155;
+  --kpmg-slate-800: #1E293B;
+  --kpmg-slate-900: #0F172A;
+
+  /* Semantic Colors */
+  --kpmg-success: #10B981;
+  --kpmg-success-light: #D1FAE5;
+  --kpmg-warning: #F59E0B;
+  --kpmg-warning-light: #FEF3C7;
+  --kpmg-error: #EF4444;
+  --kpmg-error-light: #FEE2E2;
+
+  /* Gradient Definitions */
+  --gradient-navy-blue: linear-gradient(135deg, #191E62 0%, #00338D 100%);
+  --gradient-pink-purple: linear-gradient(135deg, #E6007E 0%, #6D2077 100%);
+  --gradient-header: linear-gradient(90deg, #191E62 0%, #00338D 50%, #191E62 100%);
+
+  /* Mesh Gradient (for header overlay) */
+  --gradient-mesh:
+    radial-gradient(at 40% 20%, rgba(230, 0, 126, 0.12) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, rgba(109, 32, 119, 0.12) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, rgba(0, 51, 141, 0.08) 0px, transparent 50%);
+
+  /* Glassmorphism */
+  --glass-bg: rgba(255, 255, 255, 0.85);
+  --glass-bg-light: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.3);
+  --glass-shadow: 0 8px 32px rgba(25, 30, 98, 0.12);
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(25, 30, 98, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(25, 30, 98, 0.1), 0 2px 4px -2px rgba(25, 30, 98, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(25, 30, 98, 0.1), 0 4px 6px -4px rgba(25, 30, 98, 0.1);
+  --shadow-xl: 0 20px 25px -5px rgba(25, 30, 98, 0.1), 0 8px 10px -6px rgba(25, 30, 98, 0.1);
+
+  /* Typography */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-heading: 'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif;
+}
+
+/* ============================================================================
+   BASE TYPOGRAPHY
+   ============================================================================ */
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--kpmg-slate-700);
+}
+
+/* ============================================================================
+   GLASSMORPHISM UTILITIES
+   ============================================================================ */
+.glass-card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+}
+
+.glass-card-dark {
+  background: var(--glass-bg-light);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* ============================================================================
+   GRADIENT UTILITIES
+   ============================================================================ */
+.bg-gradient-header {
+  background: var(--gradient-header);
+}
+
+.bg-gradient-navy-blue {
+  background: var(--gradient-navy-blue);
+}
+
+.bg-gradient-pink-purple {
+  background: var(--gradient-pink-purple);
+}
+
+.bg-mesh-overlay {
+  background: var(--gradient-mesh);
+}
+
+/* ============================================================================
+   BUTTON STYLES
+   ============================================================================ */
+.btn-primary {
+  background: linear-gradient(135deg, #E6007E 0%, #6D2077 100%);
+  color: white;
+  font-weight: 500;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 14px rgba(230, 0, 126, 0.3);
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #6D2077 0%, #E6007E 100%);
+  box-shadow: 0 6px 20px rgba(230, 0, 126, 0.4);
+  transform: translateY(-1px);
+}
+
+.btn-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.btn-secondary {
+  background: var(--kpmg-navy);
+  color: white;
+  font-weight: 500;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-md);
+}
+
+.btn-secondary:hover {
+  background: var(--kpmg-blue);
+  box-shadow: var(--shadow-lg);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--kpmg-navy);
+  font-weight: 500;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  border: 2px solid var(--kpmg-navy);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-outline:hover {
+  background: var(--kpmg-navy);
+  color: white;
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--kpmg-slate-600);
+  font-weight: 500;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-ghost:hover {
+  background: var(--kpmg-slate-100);
+}
+
+/* ============================================================================
+   CALLOUT STYLES
+   ============================================================================ */
+.callout-info {
+  background: rgba(0, 51, 141, 0.08);
+  border: 1px solid rgba(0, 51, 141, 0.2);
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.callout-warning {
+  background: var(--kpmg-warning-light);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.callout-error {
+  background: var(--kpmg-error-light);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.callout-success {
+  background: var(--kpmg-success-light);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+/* ============================================================================
+   INPUT STYLES
+   ============================================================================ */
+.input-styled {
+  border: 2px solid var(--kpmg-slate-200);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  font-size: 1rem;
+  transition: all 0.2s ease;
+  background: white;
+}
+
+.input-styled:focus {
+  outline: none;
+  border-color: var(--kpmg-blue);
+  box-shadow: 0 0 0 4px rgba(0, 51, 141, 0.15);
+}
+
+.input-styled::placeholder {
+  color: var(--kpmg-slate-400);
+}
+
+/* ============================================================================
+   CARD STYLES
+   ============================================================================ */
+.card-elevated {
+  background: white;
+  border-radius: 1rem;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--kpmg-slate-200);
+  transition: all 0.2s ease;
+}
+
+.card-elevated:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+
+/* ============================================================================
+   BADGE STYLES
+   ============================================================================ */
+.badge-pink {
+  background: var(--kpmg-pink);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.badge-navy {
+  background: var(--kpmg-navy);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.badge-success {
+  background: var(--kpmg-success);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+/* ============================================================================
+   ANIMATION UTILITIES
+   ============================================================================ */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes pulse-ring {
+  0% {
+    box-shadow: 0 0 0 0 rgba(230, 0, 126, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(230, 0, 126, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(230, 0, 126, 0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.animate-pulse-ring {
+  animation: pulse-ring 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Hover lift effect */
+.hover-lift {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+/* ============================================================================
+   PROGRESS STEP STYLES
+   ============================================================================ */
+.step-completed {
+  background: var(--kpmg-success);
+  color: white;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 9999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-md);
+}
+
+.step-current {
+  background: linear-gradient(135deg, #E6007E 0%, #6D2077 100%);
+  color: white;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 9999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 0 4px rgba(230, 0, 126, 0.25);
+}
+
+.step-future {
+  background: var(--kpmg-slate-100);
+  color: var(--kpmg-slate-400);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 9999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--kpmg-slate-300);
+}
+
+.step-connector-complete {
+  width: 3rem;
+  height: 2px;
+  background: var(--kpmg-success);
+}
+
+.step-connector-incomplete {
+  width: 3rem;
+  height: 2px;
+  background: var(--kpmg-slate-200);
+}
+
+/* ============================================================================
+   SCROLLBAR STYLING
+   ============================================================================ */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--kpmg-slate-100);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--kpmg-slate-300);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--kpmg-slate-400);
+}
+
+/* ============================================================================
+   TYPOGRAPHY UTILITIES
+   ============================================================================ */
+.font-heading {
+  font-family: var(--font-heading);
+}
+
+.text-kpmg-navy {
+  color: var(--kpmg-navy);
+}
+
+.text-kpmg-blue {
+  color: var(--kpmg-blue);
+}
+
+.text-kpmg-pink {
+  color: var(--kpmg-pink);
+}
+
+.text-kpmg-purple {
+  color: var(--kpmg-purple);
+}

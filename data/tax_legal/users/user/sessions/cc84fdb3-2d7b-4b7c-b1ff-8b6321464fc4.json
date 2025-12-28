@@ -1,0 +1,36 @@
+{
+  "session_id": "cc84fdb3-2d7b-4b7c-b1ff-8b6321464fc4",
+  "user_id": "user",
+  "created_at": "2025-12-18T12:23:10.526443",
+  "original_request": "Vingroup exports software services to clients in the United States. What vietnamese conditions must be satisfied to apply 0% VAT?",
+  "suggested_categories": [
+    "VAT"
+  ],
+  "confirmed_categories": [
+    "VAT"
+  ],
+  "past_responses_found": [
+    {
+      "filename": "FCT and VAT implications on loaned equipment-PIC Oanh Pham - MIC Nhung Le.md",
+      "content": "Vietnamese Foreign Contractor Tax and Value Added Tax implications\nBackground\nABC Company  (“the Company” or “ABC”) is a company incorporated in Singapore. The Company wholesales and distributes electrical industrial machinery and equipment for measurement and chemical analysis.\n\nXYZ Company (“the distributor” or “XYZ”) is a Vietnamese company, having its registered office at Hoang Mai District, Hanoi, Vietnam. The main business activity of XYZ is to wholesales machinery, equipment, and spare parts.\n\nABC does not have a legal presence in Vietnam and sells its equipment through the distributor to customers in Vietnam. In order for Vietnamese customers (or prospective customers) to better understand ABC’s equipment and their capabilities, the Company has an arrangement whereby certain equipment is loaned to XYZ as for demonstration purposes.\n\nThe purchase price, in the purchase option stated in Article 15 of the Agreement, will be at a 65% discount from the list price as determined by ABC. No software and/or intellectual property will be transferred by ABC to the distributor upon the disposal of the loaned equipment.\n\nABC assumed all related costs of bringing the loaned equipment physically into Vietnam, including shipping costs, Valued added Tax (“VAT”) and import duties at the import stage, etc. The loaned equipment was delivered by ABC to the distributor in May 2019 with the customs declaration under A11 code for importation procedures (i.e. Import for consumption and for trading). The import VAT was declared and paid to the State Budget based on the list price of the loaned equipment at import stage.\n\nVietnamese Foreign Contractor Tax (“FCT”) and VAT implications on the distributor’s purchase of the loaned equipment; and\n\nThe possibility to apply the relevant tax treaty for tax exemption, where applicable\nPlease advise if any of the above understanding is not correct as it may materially impact our comments hereunder.\nRegulatory basis\nOur comments from tax regulatory perspectives herein have been prepared based on the information and documents provided by you, in accordance with the relevant regulations currently in force in Vietnam as of the reporting date.  Particularly, our comments are mainly based on the legal documents as outlined in Appendix 1.\nImportant note\nWe have been requested to advise on the Vietnamese tax regulatory implications associated with the above arrangements only. Our advice therefore only focuses on current Vietnamese tax and other regulatory regulations of the Socialist Republic of Vietnam and will not take into account (i) legal implications and (ii) tax implications of jurisdictions other than Vietnam. \nOur comments are based on our understanding of the preliminary information that have been provided to us at this stage, in light of the relevant regulations currently in force in Vietnam as of the reporting date. Should there be any changes in the service structure at a later stage, we can assist in updating the comme...",
+      "summary": "Vietnamese Foreign Contractor Tax and Value Added Tax implications\nBackground\nABC Company  (“the Company” or “ABC”) is a company incorporated in Singapore. The Company wholesales and distributes electrical industrial machinery and equipment for measu",
+      "categories": [
+        "VAT"
+      ],
+      "files_used": [
+        "FCT and VAT implications on loaned equipment-PIC Oanh Pham - MIC Nhung Le.md"
+      ],
+      "date_created": "Unknown"
+    }
+  ],
+  "selected_past_response": null,
+  "past_responses_suggested_files": [],
+  "documents_found": [],
+  "selected_documents": [],
+  "synthesized_response": "",
+  "verification_report": {},
+  "response_with_citations": "",
+  "citations": [],
+  "approval_status": "pending",
+  "current_step": 4
+}

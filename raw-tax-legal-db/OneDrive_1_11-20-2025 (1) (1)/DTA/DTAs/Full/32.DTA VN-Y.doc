@@ -1,0 +1,537 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff15\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New{\*\falt Courier};}
+{\f15\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnTime;}{\f17\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnArial;}{\f18\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnTimeH;}
+{\f19\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnArialH;}{\f133\fswiss\fcharset162\fprq2 .VnArial Tur;}{\f139\fswiss\fcharset162\fprq2 .VnTimeH Tur;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid \snext0 Normal;}{\s1\sb240\sa60\keepn\nowidctlpar\widctlpar\adjustright \b\f17\fs36\lang2057\kerning28\cgrid \sbasedon0 \snext0 
+heading 1;}{\s2\sb360\sa60\keepn\nowidctlpar\widctlpar\adjustright \b\f17\fs28\lang2057\cgrid \sbasedon0 \snext0 heading 2;}{\s3\sb240\sa60\keepn\nowidctlpar\widctlpar\adjustright \b\f17\fs32\lang2057\cgrid \sbasedon0 \snext0 heading 3;}{
+\s4\sb240\sa60\keepn\nowidctlpar\widctlpar\adjustright \b\f17\fs28\lang2057\cgrid \sbasedon0 \snext0 heading 4;}{\s5\sb240\sa60\nowidctlpar\widctlpar\adjustright \b\f17\fs26\lang2057\cgrid \sbasedon0 \snext0 heading 5;}{
+\s6\sb240\sa60\nowidctlpar\widctlpar\adjustright \b\i\f15\fs26\lang2057\cgrid \sbasedon0 \snext0 heading 6;}{\*\cs10 \additive Default Paragraph Font;}{\s15\qc\sb240\sa120\nowidctlpar\widctlpar\adjustright \b\f18\lang2057\cgrid \sbasedon0 \snext15 
+Chuong;}{\s16\nowidctlpar\widctlpar\tqc\tx1701\tqc\tx6379\adjustright \b\f18\fs22\lang2057\cgrid \sbasedon0 \snext16 CH-XH-CN-VN;}{\s17\qc\sb480\sa240\nowidctlpar\widctlpar\adjustright \b\f18\fs22\lang2057\cgrid \sbasedon0 \snext17 CQ ban hanh;}{
+\s18\li567\sb60\sa60\nowidctlpar\widctlpar\adjustright \b\f15\lang2057\cgrid \sbasedon0 \snext18 Dieu;}{\s19\nowidctlpar\widctlpar\tqc\tx6379\adjustright \b\f15\lang2057\cgrid \sbasedon0 \snext19 DL-TD-HP;}{
+\s20\fi-1008\li2304\sa60\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid \sbasedon0 \snext20 DS Kinh gui;}{\s21\qr\sa120\nowidctlpar\widctlpar\adjustright \i\f15\lang2057\cgrid \sbasedon0 \snext21 Ha Noi ngay;}{\s22\sb1080\nowidctlpar\widctlpar
+\tqc\tx6237\adjustright \b\f15\fs26\lang2057\cgrid \sbasedon0 \snext22 Ho ten Nguoi ky;}{\s23\li1134\sa60\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid \sbasedon0 \snext23 Kinh gui;}{\s24\qc\sb480\sa240\nowidctlpar\widctlpar\adjustright 
+\b\f18\fs22\lang2057\cgrid \sbasedon0 \snext24 Loai VB;}{\s25\qc\sb360\sa120\nowidctlpar\widctlpar\adjustright \b\f18\lang2057\cgrid \sbasedon0 \snext25 Muc;}{\s26\sb360\nowidctlpar\widctlpar\tqc\tx6237\adjustright \b\f18\fs22\lang2057\cgrid 
+\sbasedon0 \snext26 Nguoi ky;}{\s27\sa120\nowidctlpar\widctlpar\tqc\tx1701\adjustright \f15\lang2057\cgrid \sbasedon0 \snext27 So VB;}{\s28\qj\fi567\sb120\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid \sbasedon0 \snext28 Than;}{
+\s29\qc\sb480\sa120\nowidctlpar\widctlpar\adjustright \b\f18\fs22\lang2057\cgrid \sbasedon0 \snext31 Tieu de chinh;}{\s30\qc\sb60\sa360\nowidctlpar\widctlpar\adjustright \b\f18\lang2057\cgrid \sbasedon0 \snext30 Tieu de Chuong;}{
+\s31\qc\sa120\nowidctlpar\widctlpar\adjustright \b\f15\fs26\expndtw4\lang2057\cgrid \sbasedon0 \snext31 Tieu de phu;}{\s32\qc\ri5670\sa600\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid \sbasedon0 \snext32 V/v;}{\s33\sb360\nowidctlpar\widctlpar
+\tqc\tx1800\tqc\tx7200\adjustright \b\f18\fs22\lang2057\cgrid \sbasedon26 \snext33 2 Nguoi ky;}{\s34\li360\sa120\sl480\slmult1\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid \sbasedon0 \snext34 Body Text Indent 2;}{\s35\sb1080\nowidctlpar\widctlpar
+\tqc\tx1800\tqc\tx7200\adjustright \b\f15\fs26\lang2057\cgrid \sbasedon22 \snext35 Ho ten 2 Nguoi ky;}{\s36\nowidctlpar\widctlpar\tqc\tx1440\tqc\tx1701\tqc\tx6379\adjustright \b\f18\fs22\lang2057\cgrid \sbasedon16 \snext36 CH-XH-CN-VN xa hon;}{
+\s37\qj\fi-720\li720\sb60\nowidctlpar\widctlpar\adjustright \f15\fs23\cgrid \sbasedon0 \snext37 Cau;}{\*\cs38 \additive \f18\fs24 \sbasedon10 Hoa;}{\s39\sb240\nowidctlpar\widctlpar\tqr\tx8100\adjustright \b\f17\fs28\lang2057\cgrid \sbasedon0 \snext39 
+Title1;}{\s40\qj\fi-1701\li1701\sb120\nowidctlpar\widctlpar\adjustright \b\f15\fs28\cgrid \sbasedon0 \snext40 Chapter;}{\s41\qc\nowidctlpar\widctlpar\adjustright \i\f15\lang2057\cgrid \sbasedon0 \snext41 Tieude2;}{
+\s42\sb240\sa120\nowidctlpar\widctlpar\adjustright \b\f19\fs28\lang2057\cgrid \sbasedon0 \snext42 Daude;}{\s43\qj\fi567\sb120\nowidctlpar\widctlpar\adjustright \f15\fs26\lang2057\cgrid \sbasedon0 \snext43 MyParagraph;}{
+\s44\sb120\nowidctlpar\widctlpar\adjustright \f2\fs20\lang2057\cgrid \sbasedon43 \snext44 Code;}{\s45\qj\li284\sb120\nowidctlpar\widctlpar\adjustright \f2\fs22\cgrid \sbasedon0 \snext45 Command;}{\*\cs46 \additive \b\f2\fs22\lang1033 \sbasedon10 
+Command Name;}{\*\cs47 \additive \f15\fs24\ulnone\cf0 \sbasedon10 Comment;}{\s48\qc\sb120\sa120\nowidctlpar\widctlpar\adjustright \b\f17\lang2057\cgrid \sbasedon0 \snext48 \sautoupd Figure;}{\s49\qj\fi-851\li851\sb240\sa240\nowidctlpar\widctlpar\brdrt
+\brdrs\brdrw15\brsp20 \brdrb\brdrs\brdrw15\brsp20 \adjustright \shading3000 \f15\fs26\lang2057\cgrid \sbasedon43 \snext49 Note;}{\s50\sb120\sa120\nowidctlpar\widctlpar\adjustright \b\f18\lang2057\cgrid \sbasedon0 \snext0 \sautoupd toc 1;}{
+\s51\li240\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid \sbasedon0 \snext0 \sautoupd toc 2;}{\s52\li480\nowidctlpar\widctlpar\adjustright \i\f15\lang2057\cgrid \sbasedon0 \snext0 \sautoupd toc 3;}{\s53\li720\nowidctlpar\widctlpar\adjustright 
+\f15\fs22\lang2057\cgrid \sbasedon0 \snext0 \sautoupd toc 4;}{\s54\li960\nowidctlpar\widctlpar\adjustright \i\f15\fs22\lang2057\cgrid \sbasedon0 \snext0 \sautoupd toc 5;}{\s55\qc\nowidctlpar\widctlpar\adjustright \f15\fs26\lang2057\cgrid 
+\sbasedon0 \snext55 Body Text;}{\s56\fi-1418\li1418\nowidctlpar\widctlpar\adjustright \f15\cgrid \sbasedon0 \snext56 Parameter;}{\s57\li1418\nowidctlpar\widctlpar\adjustright \f15\cgrid \sbasedon0 \snext57 Const;}{
+\s58\qj\fi567\sb120\nowidctlpar\widctlpar\adjustright \f18\lang2057\cgrid \sbasedon28 \snext58 ThanHoa;}{\s59\sb240\sa120\keepn\nowidctlpar\widctlpar\adjustright \b\f17\fs27\cgrid \sbasedon0 \snext59 tr_head1;}{
+\s60\qj\sb120\nowidctlpar\widctlpar\adjustright \f15\cgrid \sbasedon0 \snext60 tr_body;}{\s61\qr\sb240\keepn\nowidctlpar\widctlpar\adjustright \b\f19\cgrid \sbasedon0 \snext61 tr_Phan;}{\s62\qc\sb120\nowidctlpar\widctlpar\adjustright \f15\cgrid 
+\sbasedon60 \snext62 tr_hinh;}{\s63\qr\sb360\sa240\keepn\nowidctlpar\widctlpar\adjustright \b\f19\fs32\cgrid \sbasedon61 \snext63 tr_chuong;}{\s64\qc\sb240\sa360\keepn\nowidctlpar\widctlpar\adjustright \b\f17\fs36\cgrid \sbasedon59 \snext64 tr_loigido;}{
+\s65\qj\sb120\sl360\slmult1\nowidctlpar\widctlpar\tx851\tqr\tldot\tx7541\adjustright \f15\fs26\cgrid \sbasedon60 \snext65 tr_mltab;}{\s66\qc\sb120\nowidctlpar\widctlpar\adjustright \f17\fs26\cgrid \sbasedon62 \snext66 Style1;}{
+\s67\qj\nowidctlpar\widctlpar\adjustright \f15\fs26\cf9\cgrid \sbasedon0 \snext67 Body Text 2;}}{\info
+{\title Hi\'d6p \'ae\'denh gi\'f7a Ch\'ddnh ph\'f1 n\'ad\'edc c\'abng ho\'b5 x\'b7 h\'e9i ch\'f1 ngh\'dca Vi\'d6t Nam v\'b5 Ch\'ddnh ph\'f1  n\'ad\'edc c\'e9ng ho\'b5 I-ta-li-a v\'d2 tr\'b8nh \'ae\'b8nh thu\'d5 hai l\'c7n \'ae\'e8i v\'edi c\'b8c lo\'b9
+i thu\'d5 \'ae\'b8nh v\'b5o thu nh\'cbp v\'b5 ng\'a8n ng\'f5a vi\'d6c tr\'e8n l\'cbu thu\'d5}{\author Le Hoang Minh}{\operator Hoang Truc Lam}{\creatim\yr2000\mo3\dy27\hr15\min55}{\revtim\yr2000\mo3\dy27\hr15\min55}{\version2}{\edmins1}{\nofpages2}
+{\nofwords7055}{\nofchars40218}{\*\company KSoft}{\nofcharsws49390}{\vern71}}\paperw11907\paperh16840\margl1440\margr1440 \widowctrl\ftnbj\aenddoc\hyphcaps0\formshade\viewkind1\viewscale95\pgbrdrhead\pgbrdrfoot \fet0\sectd 
+\psz9\linex0\headery1440\footery1440\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \s29\qc\sb480\sa120\nowidctlpar\widctlpar\adjustright \b\f18\fs22\lang2057\cgrid {Hi\'d6
+p \'ae\'denh gi\'f7a Ch\'ddnh ph\'f1 n\'ad\'edc c\'e9ng ho\'b5 x\'b7 h\'e9i ch\'f1 ngh\'dca Vi\'d6t Nam v\'b5 Ch\'ddnh ph\'f1  n\'ad\'edc c\'e9ng ho\'b5 I-ta-li-a v\'d2 tr\'b8nh \'ae\'b8nh thu\'d5 hai l\'c7n \'ae\'e8i v\'edi c\'b8c lo\'b9i thu\'d5 \'ae
+\'b8nh v\'b5o thu nh\'cbp v\'b5 ng\'a8n ng\'f5a vi\'d6c tr\'e8n l\'cbu thu\'d5
+\par Ch\'ddnh ph\'f1 n\'ad\'edc c\'e9ng ho\'b5 x\'b7 h\'e9i ch\'f1 ngh\'dca Vi\'d6t nam \line v\'b5 Ch\'ddnh ph\'f1 n\'ad\'edc c\'e9ng ho\'b5 I-ta-li-a
+\par }\pard\plain \s28\qj\fi567\sb120\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid {Mong mu\'e8n k\'fd k\'d5t m\'e9t Hi\'d6p \'ae\'denh v\'d2 vi\'d6c tr\'b8nh \'ae\'b8nh thu\'d5 hai l\'c7n \'ae\'e8i v\'edi c\'b8c lo\'b9i thu\'d5 \'ae\'b8nh v\'b5
+o thu nh\'cbp v\'b5 ng\'a8n ng\'f5a vi\'d6c tr\'e8n l\'cbu thu\'d5,
+\par \'a7\'b7 tho\'b6 thu\'cbn d\'ad\'edi \'ae\'a9y:
+\par }{\b \'a7i\'d2u 1
+\par }{Ph\'b9m vi \'b8p d\'f4ng:
+\par Hi\'d6p \'ae\'denh n\'b5y \'ae\'ad\'eec \'b8p d\'f4ng cho c\'b8c \'ae\'e8i t\'ad\'eeng l\'b5 nh\'f7ng \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t ho\'c6c c\'f1a c\'b6 hai N\'ad\'edc k\'fd k\'d5t.
+\par }{\b \'a7i\'d2u 2
+\par }{C\'b8c lo\'b9i thu\'d5 bao g\'e5m trong hi\'d6p \'ae\'denh:
+\par 1/ Hi\'d6p \'ae\'denh n\'b5y s\'cf \'b8p d\'f4ng \'ae\'e8i v\'edi c\'b8c lo\'b9i thu\'d5 do t\'f5ng N\'ad\'edc k\'fd k\'d5t ho\'c6c c\'b8c c\'ac quan ch\'ddnh quy\'d2n c\'ac s\'eb, hay c\'ac quan h\'b5nh ch\'ddnh hay ch\'ddnh quy\'d2n \'ae\'dea ph\'ad\'ac
+ng c\'b8c N\'ad\'edc \'ae\'e3, \'ae\'b8nh v\'b5o thu nh\'cbp, b\'cat k\'d3 h\'d7nh th\'f8c \'b8p d\'f4ng c\'f1a c\'b8c lo\'b9i thu\'d5 \'ae\'e3 nh\'ad th\'d5 n\'b5o.
+\par 2/ T\'cat c\'b6 c\'b8c lo\'b9i thu\'d5 thu tr\'aan t\'e6ng thu nh\'cbp, ho\'c6c nh\'f7ng ph\'c7n c\'f1a thu nh\'cbp, bao g\'e5m c\'b8c kho\'b6n thu\'d5 \'ae\'e8i v\'edi l\'eei t\'f8c t\'f5 vi\'d6c chuy\'d3n nh\'ad\'eeng \'ae\'e9ng s\'b6n ho\'c6c b\'cat 
+\'ae\'e9ng s\'b6n, thu\'d5 \'ae\'b8nh v\'b5o t\'e6ng s\'e8 ti\'d2n l\'ad\'acng ho\'c6c ti\'d2n c\'abng do c\'b8c x\'dd nghi\'d6p tr\'b6 c\'f2ng nh\'ad c\'b8c lo\'b9i thu\'d5 \'ae\'b8nh v\'b5o ph\'c7n v\'e8n t\'a8ng th\'aam \'ae\'d2u \'ae\'ad\'eec coi l
+\'b5 c\'b8c lo\'b9i thu\'d5 \'ae\'b8nh v\'b5o thu nh\'cbp.
+\par 3/ C\'b8c lo\'b9i thu\'d5 hi\'d6n h\'b5nh \'ae\'ad\'eec \'b8p d\'f4ng trong Hi\'d6p \'ae\'denh n\'b5y l\'b5:
+\par a. Trong tr\'ad\'eang h\'eep c\'f1a Vi\'d6t Nam:
+\par (i) Thu\'d5 thu nh\'cbp c\'b8 nh\'a9n;
+\par (ii) Thu\'d5 l\'eei t\'f8c; v\'b5
+\par (iii) Thu\'d5 chuy\'d3n l\'eei nhu\'cbn ra n\'ad\'edc ngo\'b5i;
+\par Cho d\'ef c\'b8c lo\'b9i thu\'d5 n\'b5y c\'e3 \'ae\'ad\'eec thu b\'bbng bi\'d6n ph\'b8p kh\'cau tr\'f5 t\'b9i ngu\'e5n hay kh\'abng,
+\par (D\'ad\'edi \'ae\'a9y \'ae\'ad\'eec g\'e4i l\'b5 \ldblquote thu\'d5 Vi\'d6t Nam\rdblquote );
+\par b. Trong tr\'ad\'eang h\'eep c\'f1a I-ta-li-a:
+\par (i) Thu\'d5 thu nh\'cbp c\'b8 nh\'a9n
+\par (ii) Thu\'d5 thu nh\'cbp c\'abng ty; v\'b5
+\par (iii) Thu\'d5 thu nh\'cbp \'ae\'dea ph\'ad\'acng; cho d\'ef c\'b8c lo\'b9i thu\'d5 n\'b5y c\'e3 \'ae\'ad\'eec thu b\'bbng bi\'d6n ph\'b8p kh\'cau tr\'f5 t\'b9i ngu\'e5n hay kh\'abng,
+\par (D\'ad\'edi \'ae\'a9y \'ae\'ad\'eec g\'e4i l\'b5 \ldblquote thu\'d5 I-ta-li-a).
+\par 4/ Hi\'d6p \'ae\'denh n\'b5y c\'f2ng s\'cf \'ae\'ad\'eec \'b8p d\'f4ng cho c\'b8c lo\'b9i thu\'d5 c\'e3 t\'ddnh ch\'cat t\'ad\'acng t\'f9 hay v\'d2 c\'a8n b\'b6n gi\'e8ng nh\'ad c\'b8c lo\'b9i thu\'d5 \'ae\'ad\'eec ban h\'b5nh sau ng\'b5y k\'fd k\'d5t Hi
+\'d6p \'ae\'denh n\'b5y \'ae\'d3 b\'e6 sung, ho\'c6c thay th\'d5 c\'b8c lo\'b9i thu\'d5 hi\'d6n h\'b5nh. C\'b8c nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a hai N\'ad\'edc k\'fd k\'d5t s\'cf th\'abng b\'b8o cho nhau bi\'d5t b\'cat k\'fa thay \'ae
+\'e6i quan tr\'e4ng n\'b5o trong lu\'cbt thu\'d5 c\'f1a t\'f5ng N\'ad\'edc.
+\par }{\b \'a7i\'d2u 3
+\par }{C\'b8c \'ae\'denh ngh\'dca chung:
+\par 1/ Trong Hi\'d6p \'ae\'denh n\'b5y, tr\'f5 tr\'ad\'eang h\'eep ng\'f7 c\'b6nh \'ae\'dfi h\'e1i c\'e3 s\'f9 gi\'b6i th\'ddch kh\'b8c:
+\par a) T\'f5 \ldblquote Vi\'d6t Nam\rdblquote  c\'e3 ngh\'dca l\'b5 n\'ad\'edc C\'e9ng ho\'b5 x\'b7 h\'e9i ch\'f1 ngh\'dca Vi\'d6t Nam; khi \'ae\'ad\'eec d\'efng theo ngh\'dca \'ae\'dea l\'fd, t\'f5 \'ae\'e3 c\'e3 ngh\'dca l\'b5 to\'b5n b\'e9 l\'b7nh th\'e6
+ qu\'e8c gia Vi\'d6t Nam, k\'d3 c\'b6 l\'b7nh h\'b6i, v\'b5 m\'e4i v\'efng \'eb ngo\'b5i v\'b5 \'aei li\'d2n v\'edi l\'b7nh h\'b6i Vi\'d6t Nam m\'b5 t\'b9i \'ae\'e3 theo lu\'cbt ph\'b8p Vi\'d6t Nam v\'b5 ph\'ef h\'eep v\'edi Lu\'cbt ph\'b8p qu\'e8c t\'d5
+, Vi\'d6t Nam c\'e3 quy\'d2n ch\'f1 quy\'d2n \'ae\'e8i v\'edi vi\'d6c th\'a8m d\'df v\'b5 khai th\'b8c t\'b5i nguy\'aan thi\'aan nhi\'aan c\'f1a \'ae\'b8y bi\'d3n, l\'dfng \'ae\'cat d\'ad\'edi \'ae\'b8y bi\'d3n v\'b5 c\'b8c kh\'e8i n\'ad\'edc \'eb tr\'aa
+n;
+\par b) T\'f5 \ldblquote I-ta-li-a\rdblquote  c\'e3 ngh\'dca l\'b5 n\'ad\'edc C\'e9ng ho\'b5 I-ta-li-a v\'b5 bao g\'e5m b\'cat k\'fa v\'efng n\'b5o \'eb ngo\'b5i l\'b7nh h\'b6i c\'f1a I-ta-li-a m\'b5 theo c\'b8c lu\'cbt c\'f1a I-ta-li-a v\'b5 lu\'cbt ph\'b8
+p qu\'e8c t\'d5 v\'d2 vi\'d6c th\'a8m d\'df v\'b5 khai th\'b8c t\'b5i nguy\'aan thi\'aan nhi\'aan, c\'e3 th\'d3 \'ae\'ad\'eec ch\'d8 \'ae\'denh l\'b5 v\'efng t\'b9i \'ae\'e3 I-ta-li-a c\'e3 th\'d3 th\'f9c hi\'d6n c\'b8c quy\'d2n v\'d2 \'ae\'b8y bi\'d3n, l
+\'dfng \'ae\'cat d\'ad\'edi \'ae\'b8y bi\'d3n v\'b5 c\'b8c t\'b5i nguy\'aan thi\'aan nhi\'aan.
+\par c) Thu\'cbt ng\'f7 \ldblquote N\'ad\'edc k\'fd k\'d5t\rdblquote  v\'b5 \ldblquote N\'ad\'edc k\'fd k\'d5t kia\rdblquote  c\'e3 ngh\'dca l\'b5 Vi\'d6t Nam ho\'c6c I-ta-li-a t\'efy theo ng\'f7 c\'b6nh \'ae\'dfi h\'e1i;
+\par d) Thu\'cbt ng\'f7 \ldblquote \'ae\'e8i t\'ad\'eeng\rdblquote  bao g\'e5m c\'b8 nh\'a9n, c\'abng ty v\'b5 b\'cat k\'fa t\'e6 ch\'f8c n\'b5o kh\'b8c;
+\par e) Thu\'cbt ng\'f7 \ldblquote c\'abng ty\rdblquote  \'ae\'d3 ch\'d8 b\'cat k\'fa m\'e9t t\'e6 ch\'f8c c\'abng ty n\'b5o ho\'c6c b\'cat k\'fa m\'e9t th\'f9c th\'d3 n\'b5o \'ae\'ad\'eec coi l\'b5 t\'e6 ch\'f8c c\'abng ty d\'ad\'edi gi\'b8c \'ae\'e9 thu\'d5;
+
+\par f) Thu\'cbt ng\'f7 \ldblquote x\'dd nghi\'d6p c\'f1a N\'ad\'edc k\'fd k\'d5t\rdblquote  v\'b5 \ldblquote x\'dd nghi\'d6p c\'f1a N\'ad\'edc k\'fd k\'d5t kia\rdblquote  theo th\'f8 t\'f9 c\'e3 ngh\'dca l\'b5 m\'e9t x\'dd nghi\'d6p \'ae\'ad\'eec \'aei\'d2u h
+\'b5nh b\'ebi \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t v\'b5 m\'e9t x\'dd nghi\'d6p \'ae\'ad\'eec \'aei\'d2u h\'b5nh b\'ebi \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t kia;
+\par g) Thu\'cbt ng\'f7 \ldblquote v\'cbn t\'b6i qu\'e8c t\'d5\rdblquote  c\'e3 ngh\'dca l\'b5 b\'cat c\'f8 s\'f9 v\'cbn chuy\'d3n n\'b5o b\'bbng t\'c7u th\'f1y ho\'c6c m\'b8y bay \'ae\'ad\'eec th\'f9c hi\'d6n b\'ebi m\'e9t x\'dd nghi\'d6p c\'e3 tr\'f4 s\'eb 
+\'aei\'d2u h\'b5nh t\'b9i m\'e9t n\'ad\'edc k\'fd k\'d5t, tr\'f5 tr\'ad\'eang h\'eep khi chi\'d5c t\'b5u th\'f1y ho\'c6c m\'b8y bay \'ae\'e3 ch\'d8 ho\'b9t \'ae\'e9ng gi\'f7a nh\'f7ng \'ae\'dea \'aei\'d3m trong N\'ad\'edc k\'fd k\'d5t kia;
+\par h) Thu\'cbt ng\'f7 \ldblquote c\'b8c \'ae\'e8i t\'ad\'eeng mang qu\'e8c t\'dech c\'f1a m\'e9t N\'ad\'edc\rdblquote  c\'e3 ngh\'dca:
+\par (i) T\'cat c\'b6 c\'b8c c\'b8 nh\'a9n mang qu\'e8c t\'dech c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t;
+\par (ii) T\'cat c\'b6 c\'b8c ph\'b8p nh\'a9n, t\'e6 ch\'f8c h\'efn v\'e8n v\'b5 c\'b8c hi\'d6p h\'e9i c\'e3 t\'ad c\'b8ch \'ae\'ad\'eec ch\'cap nh\'cbn theo c\'b8c lu\'cbt c\'e3 hi\'d6u l\'f9c t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t;
+\par i) Thu\'cbt ng\'f7 \ldblquote nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n\rdblquote  c\'e3 ngh\'dca:
+\par (i) Trong tr\'ad\'eang h\'eep \'ae\'e8i v\'edi Vi\'d6t Nam, l\'b5 B\'e9 B\'e9 T\'b5i ch\'ddnh;
+\par (ii) Trong tr\'ad\'eang h\'eep \'ae\'e8i v\'edi I-ta-li-a, l\'b5 B\'e9 T\'b5i ch\'ddnh;
+\par 2/ Trong khi m\'e9t N\'ad\'edc k\'fd k\'d5t \'b8p d\'f4ng Hi\'d6p \'ae\'denh n\'b5y, b\'cat k\'fa thu\'cbt ng\'f7 n\'b5o ch\'ada \'ae\'ad\'eec \'ae\'denh ngh\'dca trong lu\'cbt c\'f1a N\'ad\'edc \'ae\'e3 \'ae\'e8i v\'edi c\'b8c lo\'b9i thu\'d5 m\'b5 Hi
+\'d6p \'ae\'denh n\'b5y \'b8p d\'f4ng, tr\'f5 tr\'ad\'eang h\'eep ng\'f7 c\'b6nh \'ae\'dfi h\'e1i c\'e3 s\'f9 gi\'b6i th\'ddch kh\'b8c.
+\par }{\b \'a7i\'d2u 4
+\par }{\'a7\'e8i t\'ad\'eeng c\'ad tr\'f3:
+\par 1. Theo n\'e9i dung c\'f1a Hi\'d6p \'ae\'denh n\'b5y, thu\'cbt ng\'f7 \ldblquote \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t\rdblquote  c\'e3 ngh\'dca l\'b5 b\'cat c\'f8 \'ae\'e8i t\'ad\'eeng n\'b5o, m\'b5 theo c\'b8c lu\'cb
+t c\'f1a N\'ad\'edc \'ae\'e3, l\'b5 \'ae\'e8i t\'ad\'eeng ch\'deu thu\'d5 c\'a8n c\'f8 v\'b5o nh\'b5 \'eb, n\'aci c\'ad tr\'f3, tr\'f4 s\'eb \'aei\'d2u h\'b5nh, tr\'f4 s\'eb \'ae\'a8ng k\'fd ho\'c6c b\'cat c\'f8 ti\'aau chu\'c8n n\'b5o kh\'b8c c\'e3 t\'dd
+nh ch\'cat t\'ad\'acng t\'f9. Tuy nhi\'aan thu\'cbt ng\'f7 n\'b5y kh\'abng bao g\'e5m b\'cat k\'fa \'ae\'e8i t\'ad\'eeng n\'b5o l\'b5 \'ae\'e8i t\'ad\'eeng ch\'deu thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3 ch\'d8 \'ae\'e8i v\'edi thu nh\'cbp t\'f5 c\'b8c ngu\'e5
+n t\'b9i N\'ad\'edc \'ae\'e3.
+\par 2. Tr\'ad\'eang h\'eep theo nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1, khi m\'e9t c\'b8 nh\'a9n l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a c\'b6 hai N\'ad\'edc k\'fd k\'d5t, th\'d7 th\'a9n ph\'cbn c\'ad tr\'f3 c\'f1a c\'b8 nh\'a9n \'ae\'e3 s\'cf \'ae
+\'ad\'eec x\'b8c \'ae\'denh nh\'ad sau:
+\par a. C\'b8 nh\'a9n \'ae\'e3 s\'cf \'ae\'ad\'eec coi l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t m\'b5 t\'b9i \'ae\'e3 c\'b8 nh\'a9n \'ae\'e3 c\'e3 nh\'b5 \'eb th\'ad\'eang tr\'f3; n\'d5u c\'b8 nh\'a9n \'ae\'e3 c\'e3 nh\'b5 \'eb
+ th\'ad\'eang tr\'f3 \'eb c\'b6 hai N\'ad\'edc k\'fd k\'d5t th\'d7 c\'b8 nh\'a9n \'ae\'e3 s\'cf \'ae\'ad\'eec coi l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc m\'b5 c\'b8 nh\'a9n \'ae\'e3 c\'e3 c\'b8c quan h\'d6 c\'b8 nh\'a9n v\'b5 kinh t
+\'d5 ch\'c6t ch\'cf h\'acn (trung t\'a9m c\'f1a c\'b8c quy\'d2n l\'eei ch\'f1 y\'d5u);
+\par b. N\'d5u nh\'ad kh\'abng th\'d3 x\'b8c \'ae\'denh \'ae\'ad\'eec N\'ad\'edc k\'fd k\'d5t m\'b5 \'eb \'ae\'e3 c\'b8 nh\'a9n \'ae\'e3 c\'e3 trung t\'a9m c\'b8c quy\'d2n l\'eei ch\'f1 y\'d5u, ho\'c6c n\'d5u c\'b8 nh\'a9n \'ae\'e3 kh\'abng c\'e3 nh\'b5 \'eb
+ th\'ad\'eang tr\'f3 \'eb b\'cat k\'fa N\'ad\'edc n\'b5o th\'d7 c\'b8 nh\'a9n \'ae\'e3 s\'cf \'ae\'ad\'eec coi l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t n\'aci c\'b8 nh\'a9n \'ae\'e3 th\'ad\'eang s\'e8ng;
+\par c. N\'d5u c\'b8 nh\'a9n \'ae\'e3 th\'ad\'eang s\'e8ng t\'b9i c\'b6 hai N\'ad\'edc k\'fd k\'d5t hay kh\'abng th\'ad\'eang s\'e8ng t\'b9i N\'ad\'edc n\'b5o th\'d7 c\'b8 nh\'a9n \'ae\'e3 s\'cf \'ae\'ad\'eec coi l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1
+a N\'ad\'edc m\'b5 c\'b8 nh\'a9n \'ae\'e3 mang qu\'e8c t\'dech;
+\par d. N\'d5u c\'b8 nh\'a9n \'ae\'e3 l\'b5 \'ae\'e8i t\'ad\'eeng mang qu\'e8c t\'dech c\'f1a c\'b6 hai N\'ad\'edc k\'fd k\'d5t ho\'c6c kh\'abng mang qu\'e8c t\'dech c\'f1a N\'ad\'edc n\'b5o th\'d7 c\'b8c nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1
+a hai N\'ad\'edc k\'fd k\'d5t s\'cf gi\'b6i quy\'d5t v\'can \'ae\'d2 \'ae\'e3 b\'bbng tho\'b6 thu\'cbn chung.
+\par 3. Tr\'ad\'eang h\'eep do nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1, khi m\'e9t \'ae\'e8i t\'ad\'eeng kh\'abng ph\'b6i l\'b5 c\'b8 nh\'a9n, l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a c\'b6 hai N\'ad\'edc k\'fd k\'d5t, l\'f3c \'ae\'e3, \'ae\'e8i t\'ad
+\'eeng tr\'aan s\'cf \'ae\'ad\'eec coi l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t n\'aci \'ae\'e3ng tr\'f4 s\'eb \'aei\'d2u h\'b5nh th\'f9c t\'d5 c\'f1a \'ae\'e8i t\'ad\'eeng \'ae\'e3.
+\par }{\b \'a7i\'d2u 5
+\par }{C\'ac s\'eb th\'ad\'eang tr\'f3:
+\par 1. Theo n\'e9i dung c\'f1a Hi\'d6p \'ae\'denh n\'b5y, thu\'cbt ng\'f7 \ldblquote c\'ac s\'eb th\'ad\'eang tr\'f3\rdblquote  c\'e3 ngh\'dca l\'b5 m\'e9t c\'ac s\'eb kinh doanh c\'e8 \'ae\'denh m\'b5 qua \'ae\'e3 x\'dd nghi\'d6p th\'f9c hi\'d6n to\'b5n b
+\'e9 hay m\'e9t ph\'c7n ho\'b9t \'ae\'e9ng kinh doanh c\'f1a m\'d7nh.
+\par 2/ Thu\'cbt ng\'f7 \ldblquote c\'ac s\'eb th\'ad\'eang tr\'f3\rdblquote  ch\'f1 y\'d5u bao g\'e5m:
+\par a. Tr\'f4 s\'eb \'aei\'d2u h\'b5nh;
+\par b. Chi nh\'b8nh;
+\par c. V\'a8n ph\'dfng;
+\par d. Nh\'b5 m\'b8y;
+\par e. X\'ad\'ebng;
+\par f. M\'e1, gi\'d5ng d\'c7u ho\'c6c kh\'dd, m\'e1 \'ae\'b8 ho\'c6c b\'cat k\'fa \'ae\'dea \'aei\'d3m khai th\'b8c t\'b5i nguy\'aan thi\'aan nhi\'aan n\'b5o kh\'b8c.
+\par g. M\'e9t \'ae\'dea \'aei\'d3m x\'a9y d\'f9ng, c\'abng tr\'d7nh x\'a9y d\'f9ng, d\'f9 \'b8n, l\'bep r\'b8p ho\'c6c l\'bep \'ae\'c6t hay c\'b8c ho\'b9t \'ae\'e9ng gi\'b8m s\'b8t c\'e3 li\'aan quan \'ae\'d5n \'ae\'dea \'aei\'d3m v\'b5 c\'abng tr\'d7nh tr
+\'aan, nh\'adng ch\'d8 khi c\'b8c \'ae\'dea \'aei\'d3m, c\'abng tr\'d7nh hay c\'b8c ho\'b9t \'ae\'e9ng \'ae\'e3 k\'d0o d\'b5i trong giai \'aeo\'b9n tr\'aan s\'b8u th\'b8ng:
+\par h) Vi\'d6c cung c\'cap c\'b8c d\'dech v\'f4, k\'d3 c\'b6 c\'b8c d\'dech v\'f4 t\'ad v\'can c\'f1a m\'e9t x\'dd nghi\'d6p th\'abng qua nh\'f7ng ng\'ad\'eai l\'b5m c\'abng cho x\'dd nghi\'d6p hay \'ae\'e8i t\'ad\'eeng kh\'b8c th\'f9c hi\'d6n vi\'d6c cung c
+\'cap c\'b8c d\'dech v\'f4 tr\'aan, nh\'adng ch\'d8 trong tr\'ad\'eang h\'eep nh\'f7ng ho\'b9t \'ae\'e9ng mang t\'ddnh ch\'cat n\'e3i tr\'aan k\'d0o d\'b5i (trong c\'efng m\'e9t d\'f9 \'b8n hay m\'e9t d\'f9 \'b8n c\'e3 li\'aan quan) t\'b9i m\'e9t N\'ad
+\'edc trong m\'e9t th\'eai gian hay nhi\'d2u kho\'b6ng th\'eai gian g\'e9p l\'b9i h\'acn s\'b8u th\'b8ng trong b\'cat k\'fa kho\'b6ng th\'eai gian 12 th\'b8ng li\'aan t\'f4c.
+\par 3/ M\'c6c d\'ef c\'e3 nh\'f7ng quy \'ae\'denh tr\'aan c\'f1a \'a7i\'d2u n\'b5y, thu\'cbt \ldblquote c\'ac s\'eb th\'ad\'eang tr\'f3\rdblquote  s\'cf \'ae\'ad\'eec coi l\'b5 kh\'abng bao g\'e5m:
+\par a. Vi\'d6c s\'f6 d\'f4ng c\'b8c ph\'ad\'acng ti\'d6n ri\'aang cho m\'f4c \'ae\'ddch l\'adu kho ho\'c6c tr\'adng b\'b5y h\'b5ng h\'e3a hay t\'b5i s\'b6n c\'f1a x\'dd nghi\'d6p.
+\par b. Vi\'d6c duy tr\'d7 kho h\'b5ng h\'e3a ho\'c6c t\'b5i s\'b6n c\'f1a x\'dd nghi\'d6p ch\'d8 v\'edi m\'f4c \'ae\'ddch l\'adu kho ho\'c6c tr\'adng b\'b5y;
+\par c. Vi\'d6c duy tr\'d7 kho h\'b5ng h\'e3a ho\'c6c t\'b6i s\'b6n c\'f1a x\'dd nghi\'d6p ch\'d8 v\'edi m\'f4c \'ae\'ddch \'ae\'d3 cho x\'dd nghi\'d6p kh\'b8c gia c\'abng.
+\par d. Vi\'d6c duy tr\'d7 m\'e9t c\'ac s\'eb kinh doanh c\'e8 \'ae\'denh ch\'d8 nh\'bbm m\'f4c \'ae\'ddch mua h\'b5ng ho\'b8 ho\'c6c t\'b5i s\'b6n hay \'ae\'d3 thu th\'cbp th\'abng tin cho x\'dd nghi\'d6p \'ae\'e3;
+\par e. Vi\'d6c duy tr\'d7 m\'e9t c\'ac s\'eb kinh doanh c\'e8 \'ae\'denh ch\'d8 v\'edi m\'f4c \'ae\'ddch ti\'d5n h\'b5nh b\'cat k\'fa ho\'b9t \'ae\'e9ng n\'b5o kh\'b8c mang t\'ddnh ch\'cat ph\'f4 tr\'ee ho\'c6c chu\'c8n b\'de cho x\'dd nghi\'d6p.
+\par 4. M\'c6c d\'ef c\'e3 nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 v\'b5 2, tr\'ad\'eang h\'eep m\'e9t \'ae\'e8i t\'ad\'eeng- tr\'f5 \'ae\'b9i l\'fd c\'e3 t\'ad c\'b8ch \'ae\'e9c l\'cbp \'ae\'ad\'eec \'aei\'d2u ch\'d8nh t\'b9i kho\'b6n 5- ho\'b9t \'ae\'e9
+ng t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t thay m\'c6t cho m\'e9t x\'dd nghi\'d6p c\'f1a N\'ad\'edc k\'fd k\'d5t kia, th\'d7 x\'dd nghi\'d6p \'ae\'e3 s\'cf \'ae\'ad\'eec coi l\'b5 c\'ac s\'eb th\'ad\'eang tr\'f3 t\'b9i N\'ad\'edc k\'fd k\'d5t th\'f8 nh\'ca
+t \'ae\'e8i v\'edi b\'cat k\'fa ho\'b9t \'ae\'e9ng n\'b5o m\'b5 \'ae\'e8i t\'ad\'eeng n\'b5y th\'f9c hi\'d6n cho x\'dd nghi\'d6p, n\'d5u \'ae\'e8i t\'ad\'eeng \'ae\'e3: 
+\par a. C\'e3 v\'b5 th\'ad\'eang xuy\'aan th\'f9c hi\'d6n t\'b9i N\'ad\'edc k\'fd k\'d5t c\'e3 th\'c8m quy\'d2n k\'fd k\'d5t c\'b8c h\'eep \'ae\'e5ng \'ae\'f8ng t\'aan x\'dd nghi\'d6p, tr\'f5 khi c\'b8c ho\'b9t \'ae\'e9ng c\'f1a \'ae\'e8i t\'ad\'eeng n\'b5y ch
+\'d8 gi\'edi h\'b9n trong ph\'b9m vi c\'b8c ho\'b9t \'ae\'e9ng n\'aau t\'b9i kho\'b6n 3 m\'b5 nh\'f7ng ho\'b9t \'ae\'e9ng \'ae\'e3 n\'d5u th\'f9c hi\'d6n th\'abng qua m\'e9t c\'ac s\'eb kinh doanh c\'e8 \'ae\'denh s\'cf kh\'abng l\'b5m cho c\'ac s\'eb
+ kinh doanh c\'e8 \'ae\'denh \'ae\'e3 tr\'eb th\'b5nh m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 theo nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n \'ae\'e3; hay
+\par b. Kh\'abng c\'e3 th\'c8m quy\'d2n tr\'aan, nh\'adng th\'ad\'eang xuy\'aan duy tr\'d7 t\'b9i N\'ad\'edc th\'f8 nh\'cat m\'e9t kho h\'b5ng ho\'b8 hay t\'b5i s\'b6n, t\'f5 \'ae\'e3 \'ae\'e8i t\'ad\'eeng tr\'aan th\'ad\'eang xuy\'aan th\'f9c hi\'d6n vi\'d6
+c giao h\'b5ng h\'e3a hay t\'b5i s\'b6n thay m\'c6t cho x\'dd nghi\'d6p.
+\par 5. M\'e9t x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t s\'cf kh\'abng \'ae\'ad\'eec coi l\'b5 c\'e3 c\'ac s\'eb th\'ad\'eang tr\'f3 t\'b9i N\'ad\'edc k\'fd k\'d5t kia n\'d5u x\'dd nghi\'d6p \'ae\'e3 ch\'d8 th\'f9c hi\'d6n ho\'b9t \'ae\'e9
+ng kinh doanh t\'b9i N\'ad\'edc kia th\'abng qua m\'e9t \'ae\'b9i l\'fd m\'abi gi\'edi, m\'e9t \'ae\'b9i l\'fd hoa h\'e5ng ho\'c6c b\'cat k\'fa m\'e9t \'ae\'b9i l\'fd n\'b5o kh\'b8c c\'e3 t\'ad c\'b8ch \'ae\'e9c l\'cbp, v\'edi \'aei\'d2u ki\'d6n nh\'f7ng 
+\'ae\'e8i t\'ad\'eeng n\'b5y ho\'b9t \'ae\'e9ng trong khu\'abn kh\'e6 kinh doanh th\'abng th\'ad\'eang c\'f1a h\'e4.
+\par 6. Vi\'d6c m\'e9t c\'abng ty l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t ki\'d3m so\'b8t ho\'c6c ch\'deu s\'f9 ki\'d3m so\'b8t b\'ebi m\'e9t c\'abng ty l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k
+\'d5t kia ho\'c6c \'aeang ti\'d5n h\'b5nh ho\'b9t \'ae\'e9ng kinh doanh t\'b9i N\'ad\'edc kia (c\'e3 th\'d3 th\'abng qua m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 hay d\'ad\'edi h\'d7nh th\'f8c kh\'b8c), s\'cf kh\'abng l\'b5m cho b\'cat k\'fa c\'abng ty n
+\'b5o tr\'eb th\'b5nh c\'ac s\'eb th\'ad\'eang tr\'f3 c\'f1a c\'abng ty kia.
+\par }{\b \'a7i\'d2u 6
+\par }{Thu nh\'cbp t\'f5 b\'cat \'ae\'e9ng s\'b6n:
+\par 1. Thu nh\'cbp m\'b5 m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t thu \'ae\'ad\'eec t\'f5 b\'cat \'ae\'e9ng s\'b6n (k\'d3 c\'b6 thu nh\'cbp t\'f5 n\'abng nghi\'d6p ho\'c6c l\'a9m nghi\'d6p) n\'bbm t\'b9i N\'ad\'edc k\'fd
+ k\'d5t kia th\'d7 c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc kia.
+\par 2. Thu\'cbt ng\'f7 \ldblquote b\'cat \'ae\'e9ng s\'b6n\rdblquote  s\'cf c\'e3 ngh\'dca theo nh\'ad lu\'cbt c\'f1a N\'ad\'edc k\'fd k\'d5t n\'aci c\'e3 b\'cat \'ae\'e9ng s\'b6n. Trong m\'e4i tr\'ad\'eang h\'eep, thu\'cbt ng\'f7 n\'b5y s\'cf bao g\'e5m c
+\'b6 nh\'f7ng ph\'c7n t\'b5i s\'b6n ph\'f4 k\'ccm theo b\'cat \'ae\'e9ng s\'b6n, \'ae\'b5n gia s\'f3c v\'b5 thi\'d5t b\'de s\'f6 d\'f4ng trong n\'abng nghi\'d6p v\'b5 l\'a9m nghi\'d6p, c\'b8c quy\'d2n l\'eei \'ae\'ad\'eec \'b8p d\'f4ng theo nh\'ad nh\'f7
+ng quy \'ae\'denh t\'b9i lu\'cbt chung v\'d2 \'aei\'d2u s\'b6n. Quy\'d2n s\'f6 d\'f4ng b\'cat \'ae\'e9ng s\'b6n v\'b5 c\'b8c quy\'d2n \'ae\'ad\'eec h\'ad\'ebng c\'b8c kho\'b6n thanh to\'b8n thay \'ae\'e6i hay c\'e8 \'ae\'denh tr\'b6 cho vi\'d6c khai th
+\'b8c hay quy\'d2n khai th\'b8c c\'b8c m\'e1, ngu\'e5n kho\'b8ng s\'b6n v\'b5 c\'b8c t\'b5i nguy\'aan thi\'aan nhi\'aan kh\'b8c c\'f2ng s\'cf \'ae\'ad\'eec coi l\'b5 \ldblquote b\'cat \'ae\'e9ng s\'b6n\rdblquote . C\'b8c t\'b5u th\'f1y, thuy\'d2n v\'b5 m
+\'b8y bay kh\'abng \'ae\'ad\'eec coi l\'b5 b\'cat \'ae\'e9ng s\'b6n.
+\par 3. Nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 s\'cf \'b8p d\'f4ng \'ae\'e8i v\'edi thu nh\'cbp ph\'b8t sinh t\'f5 vi\'d6c tr\'f9c ti\'d5p s\'f6 d\'f4ng, cho thu\'aa hay s\'f6 d\'f4ng c\'b8c lo\'b9i b\'cat \'ae\'e9ng s\'b6n d\'ad\'edi b\'cat k\'fa h\'d7
+nh th\'f8c n\'b5o kh\'b8c.
+\par 4. Nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 v\'b5 3 c\'f2ng s\'cf \'b8p d\'f4ng cho thu nh\'cbp t\'f5 b\'cat \'ae\'e9ng s\'b6n c\'f1a m\'e9t x\'dd nghi\'d6p v\'b5 \'ae\'e8i v\'edi thu nh\'cbp t\'f5 b\'cat \'ae\'e9ng s\'b6n \'ae\'ad\'eec s\'f6 d\'f4ng 
+\'ae\'d3 th\'f9c hi\'d6n c\'b8c ho\'b9t \'ae\'e9ng d\'dech v\'f4 c\'b8 nh\'a9n \'ae\'e9c l\'cbp.
+\par }{\b \'a7i\'d2u 7
+\par }{L\'eei t\'f8c doanh nghi\'d6p:
+\par 1. L\'eei t\'f8c c\'f1a m\'e9t x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3, tr\'f5 tr\'ad\'eang h\'eep x\'dd nghi\'d6p c\'e3 ti\'d5n h\'b5nh ho\'b9t \'ae\'e9ng kinh doanh t\'b9i N
+\'ad\'edc k\'fd k\'d5t kia th\'abng qua m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 t\'b9i N\'ad\'edc kia. N\'d5u x\'dd nghi\'d6p c\'e3 ho\'b9t \'ae\'e9ng kinh doanh theo c\'b8ch tr\'aan, th\'d7 c\'b8c kho\'b6n l\'eei t\'f8c c\'f1a x\'dd nghi\'d6p c\'e3 th\'d3
+ b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc kia, nh\'adng ch\'d8 tr\'aan ph\'c7n l\'eei t\'f8c ph\'a9n b\'e6 cho c\'ac s\'eb th\'ad\'eang tr\'f3 \'ae\'e3.
+\par 2. Th\'d3 theo c\'b8c quy \'ae\'denh t\'b9i kho\'b6n 3, khi m\'e9t x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t ti\'d5n h\'b5nh ho\'b9t \'ae\'e9ng kinh doanh t\'b9i N\'ad\'edc k\'fd k\'d5t kia th\'abng qua m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 t
+\'b9i N\'ad\'edc kia th\'d7 t\'b9i m\'e7i N\'ad\'edc k\'fd k\'d5t s\'cf c\'e3 nh\'f7ng kho\'b6n l\'eei t\'f8c \'ae\'ad\'eec ph\'a9n b\'e6 cho c\'ac s\'eb th\'ad\'eang tr\'f3 n\'e3i tr\'aan m\'b5 c\'ac s\'eb \'ae\'e3 c\'e3 th\'d3 thu \'ae\'ad\'eec, n\'d5u 
+n\'e3 l\'b5 m\'e9t x\'dd nghi\'d6p ri\'aang, t\'b8ch bi\'d6t c\'efng tham gia v\'b5o c\'b8c ho\'b9t \'ae\'e9ng nh\'ad nhau hay t\'ad\'acng t\'f9 trong c\'efng nh\'f7ng \'aei\'d2u ki\'d6n nh\'ad nhau hay t\'ad\'acng t\'f9 v\'b5 c\'e3 quan h\'d6 ho\'b5n to
+\'b5n \'ae\'e9c l\'cbp v\'edi x\'dd nghi\'d6p m\'b5 c\'ac s\'eb \'ae\'e3 \'ae\'ad\'eec coi l\'b5 c\'ac s\'eb th\'ad\'eang tr\'f3.
+\par 3. Trong khi x\'b8c \'ae\'denh l\'eei t\'f8c c\'f1a m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3, c\'ac s\'eb n\'b5y s\'cf \'ae\'ad\'eec ph\'d0p kh\'cau tr\'f5 c\'b8c kho\'b6n chi ph\'dd ph\'b8t sinh ph\'f4c v\'f4 cho ho\'b9t \'ae\'e9ng kinh doanh c\'f1a c\'ac
+ s\'eb th\'ad\'eang tr\'f3 n\'b5y bao g\'e5m c\'b6 chi ph\'dd \'aei\'d2u h\'b5nh v\'b5 chi ph\'dd qu\'b6n l\'fd chung, cho d\'ef chi ph\'dd \'ae\'e3 ph\'b8t sinh t\'b9i N\'ad\'edc n\'aci c\'ac s\'eb th\'ad\'eang tr\'f3 \'ae\'e3 \'ae\'e3ng ho\'c6c \'eb b
+\'cat k\'fa n\'aci n\'b5o kh\'b8c. 
+\par 4. Tr\'ad\'eang h\'eep t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t v\'c9n th\'ad\'eang x\'b8c \'ae\'denh c\'b8c kho\'b6n l\'eei t\'f8c ph\'a9n b\'e6 cho c\'ac s\'eb th\'ad\'eang tr\'f3 tr\'aan c\'ac s\'eb ph\'a9n chia t\'e6ng l\'eei t\'f8c c\'f1a x\'dd nghi\'d6
+p th\'b5nh c\'b8c ph\'c7n kh\'b8c nhau, th\'d7 kh\'abng c\'e3 n\'e9i dung n\'b5o t\'b9i kho\'b6n 2 ng\'a8n c\'b6n N\'ad\'edc k\'fd k\'d5t \'ae\'e3 x\'b8c \'ae\'denh l\'eei t\'f8c ch\'deu thu\'d5 theo c\'b8ch ph\'a9n chia theo th\'abng l\'d6 \'ae\'e3
+; tuy nhi\'aan, ph\'ad\'acng ph\'b8p ph\'a9n chia \'ae\'ad\'eec \'b8p d\'f4ng nh\'ad v\'cby ph\'b6i \'ae\'ada ra k\'d5t qu\'b6 ph\'ef h\'eep v\'edi c\'b8c nguy\'aan t\'bec c\'f1a \'a7i\'d2u n\'b5y.
+\par 5. Kh\'abng m\'e9t kho\'b6n l\'eei t\'f8c n\'b5o s\'cf \'ae\'ad\'eec ph\'a9n b\'e6 cho m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 n\'d5u c\'ac s\'eb th\'ad\'eang tr\'f3 \'ae\'e3 ch\'d8 \'ae\'acn thu\'c7n mua h\'b5ng ho\'b8 ho\'c6c t\'b6i s\'b6n cho x\'dd nghi
+\'d6p.
+\par 6. Theo n\'e9i dung kho\'b6n tr\'aan, c\'b8c kho\'b6n l\'eei t\'f8c \'ae\'ad\'eec ph\'a9n b\'e6 cho c\'ac s\'eb th\'ad\'eang tr\'f3 s\'cf \'ae\'ad\'eec x\'b8c \'ae\'denh theo c\'efng m\'e9t ph\'ad\'acng ph\'b8p qua c\'b8c n\'a8m tr\'f5 khi c\'e3 \'ae\'f1
+ l\'fd do ch\'ddnh \'ae\'b8ng \'ae\'d3 thay \'ae\'e6i ph\'ad\'acng ph\'b8p t\'ddnh.
+\par 7. Khi l\'eei t\'f8c bao g\'e5m c\'b8c kho\'b6n thu nh\'cbp \'ae\'ad\'eec \'ae\'d2 c\'cbp ri\'aang t\'b9i c\'b8c \'a7i\'d2u kh\'b8c c\'f1a Hi\'d6p \'ae\'denh n\'b5y, th\'d7 c\'b8c quy \'ae\'denh c\'f1a c\'b8c \'a7i\'d2u \'ae\'e3 kh\'abng b\'de \'b6nh h
+\'ad\'ebng b\'ebi nh\'f7ng quy \'ae\'denh t\'b9i \'a7i\'d2u n\'b5y.
+\par }{\b \'a7i\'d2u 8
+\par }{V\'cbn t\'b6i bi\'d3n v\'b5 v\'cbn t\'b6i h\'b5ng kh\'abng:
+\par 1. L\'eei t\'f8c thu \'ae\'ad\'eec t\'f5 ho\'b9t \'ae\'e9ng c\'f1a c\'b8c t\'b5u th\'f1y ho\'c6c m\'b8y bay trong v\'cbn t\'b6i qu\'e8c t\'d5 s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t n\'aci c\'e3 tr\'f4 s\'eb \'aei\'d2u h\'b5
+nh th\'f9c t\'d5 c\'f1a x\'dd nghi\'d6p.
+\par 2. N\'d5u tr\'f4 s\'eb \'aei\'d2u h\'b5nh th\'f9c t\'d5 c\'f1a m\'e9t x\'dd nghi\'d6p v\'cbn t\'b6i bi\'d3n \'ae\'c6t tr\'aan m\'e9t chi\'d5c t\'b5u th\'f1y, tr\'f4 s\'eb \'aei\'d2u h\'b5nh th\'f9c t\'d5 \'ae\'e3 s\'cf \'ae\'ad\'eec coi l\'b5 n\'bbm t\'b9
+i N\'ad\'edc k\'fd k\'d5t n\'aci c\'e3 c\'b6ng ch\'ddnh c\'f1a chi\'d5c t\'b5u th\'f1y \'ae\'e3, n\'d5u chi\'d5c t\'b5u \'ae\'e3 kh\'abng c\'e3 c\'b6ng ch\'ddnh, th\'d7 tr\'f4 s\'eb \'aei\'d2u h\'b5nh th\'f9c t\'d5 \'ae\'e3 s\'cf \'ae\'ad\'eec coi l\'b5 n
+\'bbm t\'b9i N\'ad\'edc k\'fd k\'d5t n\'aci \'ae\'e8i t\'ad\'eeng \'aei\'d2u h\'b5nh chi\'d5c t\'b5u th\'f1y \'ae\'e3 l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3.
+\par 3. Nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 c\'f2ng s\'cf \'b8p d\'f4ng cho c\'b8c kho\'b6n l\'eei t\'f8c thu \'ae\'ad\'eec t\'f5 vi\'d6c tham gia v\'b5o m\'e9t t\'e6 h\'eep, m\'e9t li\'aan doanh hay m\'e9t h\'b7ng ho\'b9t \'ae\'e9ng qu\'e8c t\'d5.
+
+\par }{\b \'a7i\'d2u 9
+\par }{1. Khi:
+\par a. M\'e9t x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t tham gia tr\'f9c ti\'d5p ho\'c6c gi\'b8n ti\'d5p v\'b5o vi\'d6c qu\'b6n l\'fd, ki\'d3m so\'b8t ho\'c6c g\'e3p v\'e8n v\'b5o m\'e9t x\'dd nghi\'d6p c\'f1a N\'ad\'edc k\'fd k\'d5t kia, ho\'c6c
+
+\par b. C\'b8c \'ae\'e8i t\'ad\'eeng c\'efng tham gia tr\'f9c ti\'d5p ho\'c6c gi\'b8n ti\'d5p v\'b5o vi\'d6c \'aei\'d2u h\'b5nh, ki\'d3m so\'b8t ho\'c6c g\'e3p v\'e8n v\'b5o m\'e9t x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t v\'b5 v\'b5o m\'e9t x\'dd
+ nghi\'d6p c\'f1a N\'ad\'edc k\'fd k\'d5t kia, v\'b5 trong c\'b6 hai tr\'ad\'eang h\'eep, trong m\'e8i quan h\'d6 t\'b5i ch\'ddnh v\'b5 th\'ad\'acng m\'b9i gi\'f7a hai x\'dd nghi\'d6p tr\'aan c\'e3 nh\'f7ng \'aei\'d2u ki\'d6n \'ae\'ad\'eec \'ae\'ada ra ho
+\'c6c \'b8p \'ae\'c6t kh\'b8c v\'edi \'aei\'d2u ki\'d6n \'ae\'ad\'eec \'ae\'ada ra gi\'f7a c\'b8c x\'dd nghi\'d6p \'ae\'e9c l\'cbp, l\'f3c \'ae\'e3 m\'e4i kho\'b6n l\'eei t\'f8c m\'b5 x\'dd nghi\'d6p c\'e3 th\'d3 thu \'ae\'ad\'eec n\'d5u kh\'abng c\'e3 nh
+\'f7ng \'aei\'d2u ki\'d6n tr\'aan nh\'adng nay v\'d7 nh\'f7ng \'aei\'d2u ki\'d6n n\'b5y m\'b5 x\'dd nghi\'d6p \'ae\'e3 kh\'abng thu \'ae\'ad\'eec, s\'cf v\'c9n b\'de m\'e9t N\'ad\'edc k\'fd k\'d5t t\'ddnh v\'b5o c\'b8c kho\'b6n l\'eei t\'f8c c\'f1a x\'dd
+ nghi\'d6p \'ae\'e3 v\'b5 b\'de \'ae\'b8nh thu\'d5 t\'ad\'acng \'f8ng.
+\par 2. Tr\'ad\'eang h\'eep m\'e9t N\'ad\'edc k\'fd k\'d5t t\'ddnh v\'b5o c\'b8c kho\'b6n l\'eei t\'f8c c\'f1a m\'e9t x\'dd nghi\'d6p c\'f1a N\'ad\'edc \'ae\'e3 v\'b5 \'ae\'b8nh thu\'d5 t\'ad\'acng \'f8ng c\'b8c kho\'b6n l\'eei t\'f8c m\'b5 m\'e9t x\'dd nghi
+\'d6p c\'f1a N\'ad\'edc kia \'ae\'b7 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc kia v\'b5 c\'b8c kho\'b6n l\'eei t\'f8c \'ae\'ad\'eec t\'ddnh v\'b5o nh\'ad v\'cby l\'b5 nh\'f7ng kho\'b6n l\'eei t\'f8c l\'cf ra thu\'e9c v\'d2 x\'dd nghi\'d6p c\'f1a N\'ad
+\'edc th\'f8 nh\'cat n\'d5u nh\'ad nh\'f7ng \'aei\'d2u ki\'d6n \'ae\'c6t ra gi\'f7a hai x\'dd nghi\'d6p tr\'aan l\'b5 nh\'f7ng \'aei\'d2u ki\'d6n l\'cbp ra gi\'f7a c\'b8c x\'dd nghi\'d6p \'ae\'e9c l\'cbp, khi \'ae\'e3 N\'ad\'edc k\'fd k\'d5t s\'cf \'aei
+\'d2u ch\'d8nh c\'b8c kho\'b6n thu\'d5 \'ae\'b8nh t\'b9i N\'ad\'edc m\'d7nh \'ae\'e8i v\'edi nh\'f7ng kho\'b6n l\'eei t\'f8c tr\'aan cho ph\'ef h\'eep. B\'cat k\'fa vi\'d6c \'aei\'d2u ch\'d8nh n\'b5o n\'aau tr\'aan s\'cf ch\'d8 \'ae\'ad\'eec th\'f9c hi
+\'d6n v\'edi th\'f1 t\'f4c tho\'b6 thu\'cbn song ph\'ad\'acng \'ae\'ad\'eec quy \'ae\'denh t\'b9i \'a7i\'d2u 25 Hi\'d6p \'ae\'denh n\'b5y v\'b5 ph\'ef h\'eep v\'edi kho\'b6n (d) c\'f1a Ngh\'de \'ae\'denh th\'ad b\'e6 sung Hi\'d6p \'ae\'denh.
+\par }{\b \'a7i\'d2u 10
+\par }{Ti\'d2n l\'b7i c\'e6 ph\'c7n:
+\par 1. Ti\'d2n l\'b7i c\'e6 ph\'c7n do m\'e9t c\'abng ty l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t tr\'b6 cho m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t kia c\'e3 th\'d3 b\'de \'ae\'b8nh thu
+\'d5 t\'b9i N\'ad\'edc kia.
+\par 2. Tuy nhi\'aan, nh\'f7ng kho\'b6n ti\'d2n l\'b7i c\'e6 ph\'c7n \'ae\'e3 c\'f2ng c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t n\'aci c\'abng ty tr\'b6 ti\'d2n l\'b7i c\'e6 ph\'c7n l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 v\'b5 ph
+\'ef h\'eep v\'edi c\'b8c lu\'cbt c\'f1a N\'ad\'edc \'ae\'e3, nh\'adng n\'d5u \'ae\'e8i t\'ad\'eeng nh\'cbn l\'b5 \'ae\'e8i t\'ad\'eeng th\'f9c h\'ad\'ebng ti\'d2n l\'b7i c\'e6 ph\'c7n th\'d7 thu\'d5 \'ae\'ad\'eec t\'ddnh khi \'ae\'e3 s\'cf kh\'abng v\'ad
+\'eet qu\'b8.
+\par a. 5 ph\'c7n tr\'a8m t\'e6ng s\'e8 ti\'d2n l\'b7i c\'e6 ph\'c7n n\'d5u \'ae\'e8i t\'ad\'eeng th\'f9c h\'ad\'ebng l\'b5 m\'e9t c\'abng ty (tr\'f5 c\'b8c t\'e6 ch\'f8c h\'efn v\'e8n), tr\'f9c ti\'d5p ki\'d3m so\'b8t \'ddt nh\'cat 70 ph\'c7n tr\'a8m v\'e8n c
+\'f1a c\'abng ty chia l\'b7i c\'e6 ph\'c7n;
+\par b. 10 ph\'c7n tr\'a8m t\'e6ng s\'e8 ti\'d2n l\'b7i c\'e6 ph\'c7n n\'d5u \'ae\'e8i t\'ad\'eeng th\'f9c h\'ad\'ebng l\'b5 m\'e9t c\'abng ty  (tr\'f5 c\'b8c t\'e6 ch\'f8c h\'efn v\'e8n) ki\'d3m so\'b8t tr\'f9c ti\'d5p 25 ph\'c7n tr\'a8m \'ae\'d5n 70 ph\'c7
+n tr\'a8m v\'e8n c\'f1a c\'abng ty tr\'b6 l\'b7i c\'e6 ph\'c7n;
+\par c. 15 ph\'c7n tr\'a8m t\'e6ng s\'e8 ti\'d2n l\'b7i c\'e6 ph\'c7n trong t\'cat c\'b6 c\'b8c tr\'ad\'eang h\'eep kh\'b8c.
+\par Nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a hai N\'ad\'edc k\'fd k\'d5t s\'cf x\'a9y d\'f9ng bi\'d6n ph\'b8p \'b8p d\'f4ng gi\'edi h\'b9n n\'b5y b\'bbng tho\'b6 thu\'cbn chung.
+\par C\'b8c quy \'ae\'denh c\'f1a kho\'b6n n\'b5y s\'cf kh\'abng \'b6nh h\'ad\'ebng t\'edi vi\'d6c \'ae\'b8nh thu\'d5 c\'abng ty \'ae\'e8i v\'edi kho\'b6n l\'eei t\'f8c \'ae\'ad\'eec d\'efng \'ae\'d3 chia ti\'d2n l\'b7i c\'e6 ph\'c7n.
+\par 3. Thu\'cbt ng\'f7 \ldblquote ti\'d2n l\'b7i c\'e6 ph\'c7n\rdblquote  \'ae\'ad\'eec s\'f6 d\'f4ng trong \'a7i\'d2u n\'b5y c\'e3 ngh\'dca l\'b5 thu nh\'cbp t\'f5 c\'e6 ph\'c7n, c\'e6 ph\'c7n \ldblquote jouissance\rdblquote  hay c\'b8c quy\'d2n l\'eei 
+\ldblquote jouissance\rdblquote , c\'e6 ph\'c7n khai th\'b8c, c\'e6 ph\'c7n s\'b8ng l\'cbp ho\'c6c c\'b8c quy\'d2n l\'eei kh\'b8c kh\'abng ph\'b6i l\'b5 c\'b8c kho\'b6n n\'ee \'ae\'ad\'eec h\'ad\'ebng l\'eei nhu\'cbn, v\'b5 thu nh\'cbp t\'f5 c\'b8c quy
+\'d2n l\'eei c\'abng ty kh\'b8c c\'f2ng ch\'deu s\'f9 \'aei\'d2u ch\'d8nh c\'f1a ch\'ddnh s\'b8ch thu\'d5 \'ae\'e8i v\'edi thu nh\'cbp t\'f5 c\'e6 ph\'c7n theo c\'b8c lu\'cbt thu\'d5 c\'f1a N\'ad\'edc n\'aci c\'abng ty chia l\'b7i c\'e6 ph\'c7n l\'b5 \'ae
+\'e8i t\'ad\'eeng c\'ad tr\'f3.
+\par 4/ Nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 v\'b5 2 s\'cf kh\'abng \'b8p d\'f4ng trong tr\'ad\'eang h\'eep \'ae\'e8i t\'ad\'eeng th\'f9c h\'ad\'ebng c\'b8c kho\'b6n ti\'d2n l\'b7i c\'e6 ph\'c7n l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad
+\'edc k\'fd k\'d5t c\'e3 ti\'d5n h\'b5nh ho\'b9t \'ae\'e9ng kinh doanh t\'b9i N\'ad\'edc k\'fd k\'d5t kia, n\'aci c\'abng ty tr\'b6 ti\'d2n l\'b7i c\'e6 ph\'c7n l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3, th\'abng qua m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3
+ n\'bbm t\'b9i N\'ad\'edc \'ae\'e3, hay ti\'d5n h\'b5nh t\'b9i N\'ad\'edc kia c\'b8c ho\'b9t \'ae\'e9ng d\'dech v\'f4 c\'b8 nh\'a9n \'ae\'e9c l\'cbp th\'abng qua m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh n\'bbm t\'b9i N\'ad\'edc kia, v\'b5 quy\'d2n n\'bem gi
+\'f7 c\'e6 ph\'c7n nh\'ea \'ae\'e3 \'ae\'ad\'eec h\'ad\'ebng ti\'d2n l\'b7i c\'e6 ph\'c7n, c\'e3 s\'f9 li\'aan h\'d6 th\'f9c t\'d5 \'ae\'d5n c\'ac s\'eb th\'ad\'eang tr\'f3 ho\'c6c c\'ac s\'eb c\'e8 \'ae\'denh n\'e3i tr\'aan. Trong tr\'ad\'eang h\'eep nh
+\'ad v\'cby, ti\'d2n l\'b7i c\'e6 ph\'c7n c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t kia theo lu\'cbt c\'f1a N\'ad\'edc \'ae\'e3.
+\par 5. Khi m\'e9t c\'abng ty l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t c\'e3 l\'eei t\'f8c hay thu nh\'cbp ph\'b8t sinh t\'f5 N\'ad\'edc k\'fd k\'d5t kia th\'d7 N\'ad\'edc kia c\'e3 th\'d3 kh\'abng \'ae\'b8nh thu\'d5 \'ae
+\'e8i v\'edi nh\'f7ng kho\'b6n ti\'d2n l\'b7i c\'e6 ph\'c7n do c\'abng ty n\'b5y tr\'b6, tr\'f5 tr\'ad\'eang h\'eep nh\'f7ng kho\'b6n ti\'d2n l\'b7i c\'e6 ph\'c7n n\'b5y \'ae\'ad\'eec tr\'b6 cho \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc kia, ho
+\'c6c quy\'d2n n\'bem gi\'f7 c\'e6 ph\'c7n c\'e3 c\'b8c kho\'b6n ti\'d2n l\'b7i c\'e6 ph\'c7n \'ae\'ad\'eec tr\'b6 c\'e3 s\'f9 li\'aan h\'d6 th\'f9c t\'d5 v\'edi m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 hay m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh n\'bbm t\'b9
+i N\'ad\'edc kia, \'ae\'e5ng th\'eai N\'ad\'edc k\'fd k\'d5t kia c\'f2ng kh\'abng bu\'e9c c\'b8c kho\'b6n l\'eei t\'f8c kh\'abng chia c\'f1a c\'abng ty tr\'aan ph\'b6i ch\'deu thu\'d5 \'ae\'e8i v\'edi nh\'f7ng kho\'b6n l\'eei t\'f8c kh\'abng chia c\'f1a c
+\'abng ty, cho d\'ef nh\'f7ng kho\'b6n ti\'d2n l\'b7i c\'e6 ph\'c7n \'ae\'ad\'eec chia ho\'c6c c\'b8c kho\'b6n l\'eei t\'f8c kh\'abng chia bao g\'e5m to\'b5n b\'e9 hay m\'e9t ph\'c7n c\'b8c kho\'b6n l\'eei t\'f8c ho\'c6c thu nh\'cbp ph\'b8t sinh t\'b9i N
+\'ad\'edc kia.
+\par }{\b \'a7i\'d2u 11
+\par }{L\'b7i t\'f5 ti\'d2n cho vay:
+\par 1. L\'b7i t\'f5 ti\'d2n cho vay ph\'b8t sinh t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t v\'b5 \'ae\'ad\'eec tr\'b6 cho \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t kia c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 ta\'de N\'ad\'edc kia.
+\par 2. Tuy nhi\'aan, kho\'b6n ti\'d2n l\'b7i n\'b5y c\'f2ng c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 \'eb N\'ad\'edc k\'fd k\'d5t n\'aci ph\'b8t sinh l\'b7i v\'b5 theo c\'b8c lu\'cbt c\'f1a N\'ad\'edc \'ae\'e3, nh\'adng n\'d5u \'ae\'e8i t\'ad\'eeng nh\'cbn l\'b5
+ \'ae\'e8i t\'ad\'eeng th\'f9c h\'ad\'ebng c\'b8c kho\'b6n ti\'d2n l\'b7i n\'b5y th\'d7 m\'f8c thu\'d5 \'ae\'ad\'eec t\'ddnh s\'cf kh\'abng v\'ad\'eet q\'f3a 10 ph\'c7n tr\'a8m t\'e6ng s\'e8 kho\'b6n l\'b7i t\'f5 ti\'d2n cho vay.
+\par 3. M\'c6c d\'ef c\'e3 nh\'f7ng quy \'ae\'denh c\'f1a kho\'b6n 2, l\'b7i t\'f5 ti\'d2n cho vay ph\'b8t sinh t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t s\'cf \'ae\'ad\'eec mi\'d4n thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3 n\'d5u:
+\par a. \'a7\'e8i t\'ad\'eeng tr\'b6 l\'b7i t\'f5 ti\'d2n cho vay l\'b5 Ch\'ddnh ph\'f1 c\'f1a N\'ad\'edc k\'fd k\'d5t \'ae\'e3 hay c\'ac quan ch\'ddnh quy\'d2n \'ae\'dea ph\'ad\'acng t\'b9i N\'ad\'edc \'ae\'e3; hay
+\par b. L\'b7i t\'f5 ti\'d2n cho vay \'ae\'ad\'eec tr\'b6 cho Ch\'ddnh ph\'f1 c\'f1a N\'ad\'edc k\'fd k\'d5t kia hay c\'ac quan ch\'ddnh quy\'d2n \'ae\'dea ph\'ad\'acng c\'f1a N\'ad\'edc \'ae\'e3 hay b\'cat k\'fa m\'e9t c\'ac quan hay m\'e9t t\'e6 ch\'f8c (k
+\'d3 c\'b6 m\'e9t t\'e6 ch\'f8c t\'b5i ch\'ddnh) do N\'ad\'edc k\'fd k\'d5t kia hay c\'ac quan ch\'ddnh quy\'d2n \'ae\'dea ph\'ad\'acng c\'f1a N\'ad\'edc \'ae\'e3 s\'eb h\'f7u to\'b5n b\'e9; hay
+\par c. L\'b7i t\'f5 ti\'d2n cho vay \'ae\'ad\'eec tr\'b6 cho b\'cat k\'fa m\'e9t c\'ac quan hay t\'e6 ch\'f8c n\'b5o kh\'b8c (k\'d3 c\'b6 m\'e9t t\'e6 ch\'f8c t\'b5i ch\'ddnh) c\'e3 li\'aan quan \'ae\'d5n c\'b8c kho\'b6n vay \'ae\'ad\'eec th\'f9c hi\'d6
+n theo m\'e9t th\'e1a thu\'cbn \'ae\'ad\'eec k\'fd k\'d5t gi\'f7a hai Ch\'ddnh ph\'f1 c\'f1a hai N\'ad\'edc k\'fd k\'d5t.
+\par 4. Thu\'cbt ng\'f7 \ldblquote l\'b7i t\'f5 ti\'d2n cho vay\rdblquote  d\'efng \'eb \'a7i\'d2u n\'b5y c\'e3 ngh\'dca l\'b5 thu nh\'cbp t\'f5 ch\'f8ng kho\'b8n c\'f1a Ch\'ddnh ph\'f1, t\'f5 tr\'b8i phi\'d5u ho\'c6c tr\'b8i phi\'d5u th\'abng th\'ad\'eang c
+\'e3 hay kh\'abng \'ae\'ad\'eec \'ae\'b6m b\'b6o b\'bbng th\'d5 ch\'cap v\'b5 c\'e3 hay kh\'abng c\'e3 quy\'d2n \'ae\'ad\'eec h\'ad\'ebng l\'eei t\'f8c v\'b5 c\'b8c kho\'b6n vay n\'ee d\'ad\'edi b\'cat k\'fa d\'b9ng n\'b5o c\'f2ng nh\'ad l\'b5 c\'b8c kho
+\'b6n thu nh\'cbp kh\'b8c t\'ad\'acng t\'f9 nh\'ad thu nh\'cbp v\'d2 ti\'d2n cho vay theo quy \'ae\'denh c\'f1a lu\'cbt thu\'d5 c\'f1a N\'ad\'edc n\'aci thu nh\'cbp ph\'b8t sinh.
+\par 5. Nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 \'ae\'d5n kho\'b6n 3 s\'cf kh\'abng \'b8p d\'f4ng n\'d5u ng\'ad\'eai th\'f9c h\'ad\'ebng c\'b8c kho\'b6n l\'b7i t\'f5 ti\'d2n cho vay l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k
+\'d5t, ti\'d5n h\'b5nh ho\'b9t \'ae\'e9ng kinh doanh t\'b9i N\'ad\'edc k\'fd k\'d5t kia n\'aci ph\'b8t sinh c\'b8c kho\'b6n l\'b7i t\'f5 ti\'d2n cho vay th\'abng qua m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 n\'bbm t\'b9i N\'ad\'edc kia ho\'c6c th\'f9c hi
+\'d6n t\'b9i N\'ad\'edc kia c\'b8c ho\'b9t \'ae\'e9ng d\'dech v\'f4 c\'b8 nh\'a9n \'ae\'e9c l\'cbp th\'abng qua m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh n\'bbm t\'b9i N\'ad\'edc kia, v\'b5 kho\'b6n n\'ee c\'e3 c\'b8c kho\'b6n ti\'d2n l\'b7i \'ae\'ad\'eec tr
+\'b6 c\'e3 s\'f9 li\'aan h\'d6 th\'f9c t\'d5 v\'edi c\'ac s\'eb th\'ad\'eang tr\'f3 hay c\'ac s\'eb c\'e8 \'ae\'denh \'ae\'e3. Trong tr\'ad\'eang h\'eep nh\'ad v\'cby kho\'b6n l\'b7i t\'f5 ti\'d2n cho vay n\'b5y s\'cf b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad
+\'edc k\'fd k\'d5t kia theo lu\'cbt c\'f1a N\'ad\'edc \'ae\'e3.
+\par 6. L\'b7i t\'f5 ti\'d2n cho vay s\'cf \'ae\'ad\'eec coi l\'b5 ph\'b8t sinh t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t khi \'ae\'e8i t\'ad\'eeng tr\'b6 ch\'ddnh l\'b5 Nh\'b5 n\'ad\'edc \'ae\'e3, c\'ac quan ch\'ddnh quy\'d2n c\'ac s\'eb hay c\'ac quan h\'b5nh ch
+\'ddnh, ch\'ddnh quy\'d2n \'ae\'dea ph\'ad\'acng ho\'c6c \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc \'ae\'e3. Tuy nhi\'aan, khi \'ae\'e8i t\'ad\'eeng tr\'b6 l\'b7i c\'e3 \'eb m\'e9t N\'ad\'edc k\'fd k\'d5t m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3
+ hay m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh li\'aan quan \'ae\'d5n c\'b8c kho\'b6n n\'ee \'ae\'b7 ph\'b8t sinh c\'b8c kho\'b6n l\'b7i n\'b5y, v\'b5 kho\'b6n ti\'d2n l\'b7i \'ae\'e3 do c\'ac s\'eb th\'ad\'eang tr\'f3 ho\'c6c c\'ac s\'eb c\'e8 \'ae\'denh \'ae
+\'e3 ch\'deu th\'d7 d\'ef \'ae\'e8i t\'ad\'eeng c\'e3 l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 cu\'b6 m\'e9t N\'ad\'edc k\'fd k\'d5t hay kh\'abng, kho\'b6n ti\'d2n l\'b7i n\'b5y s\'cf v\'c9n \'ae\'ad\'eec coi l\'b5 ph\'b8t sinh \'eb N\'ad\'edc n\'aci c
+\'ac s\'eb th\'ad\'eang tr\'f3 hay c\'ac s\'eb c\'e8 \'ae\'denh \'ae\'e3 \'ae\'e3ng.
+\par 7. Tr\'ad\'eang h\'eep do m\'e8i quan h\'d6 \'ae\'c6c bi\'d6t gi\'f7a \'ae\'e8i t\'ad\'eeng tr\'b6 l\'b7i v\'b5 \'ae\'e8i t\'ad\'eeng h\'ad\'ebng l\'b7i ho\'c6c gi\'f7a c\'b6 hai \'ae\'e8i t\'ad\'eeng tr\'aan v\'b5 c\'b8c \'ae\'e8i t\'ad\'eeng kh\'b8
+c, kho\'b6n l\'b7i t\'f5 ti\'d2n cho vay  li\'aan quan \'ae\'d5n kho\'b6n n\'ee ph\'b6i tr\'b6 ti\'d2n l\'b7i, v\'ad\'eet qu\'b8 kho\'b6n ti\'d2n c\'e3 th\'d3 \'ae\'b7 \'ae\'ad\'eec th\'e1a thu\'cbn gi\'f7a \'ae\'e8i t\'ad\'eeng \'aei vay v\'b5 \'ae\'e8
+i t\'ad\'eeng th\'f9c h\'ad\'ebng khi kh\'abng c\'e3 m\'e8i quan h\'d6 n\'b5y, th\'d7 khi \'ae\'e3, c\'b8c quy \'ae\'denh t\'b9i \'a7i\'d2u n\'b5y s\'cf ch\'d8 \'b8p d\'f4ng \'ae\'e8i v\'edi c\'b8c kho\'b6n ti\'d2n thanh to\'b8n khi kh\'abng c\'e3 m\'e8
+i quan h\'d6 \'ae\'c6c bi\'d6t tr\'aan. Trong tr\'ad\'eang h\'eep n\'b5y, ph\'c7n thanh to\'b8n v\'ad\'eet s\'cf b\'de \'ae\'b8nh thu\'d5 theo c\'b8c lu\'cbt c\'f1a t\'f5ng N\'ad\'edc k\'fd k\'d5t c\'e3 xem x\'d0t th\'ddch \'ae\'b8ng t\'edi c\'b8c quy 
+\'ae\'denh kh\'b8c c\'f1a Hi\'d6p \'ae\'denh n\'b5y.
+\par }{\b \'a7i\'d2u 12
+\par }{Ti\'d2n b\'b6n quy\'d2n v\'b5 ph\'dd d\'dech v\'f4 k\'fc thu\'cbt:
+\par 1. Ti\'d2n b\'b6n quy\'d2n v\'b5 ph\'dd d\'dech v\'f4 k\'fc thu\'cbt ph\'b8t sinh t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t v\'b5 \'ae\'ad\'eec tr\'b6 cho \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t kia c\'e3 th\'d3 b\'de \'ae\'b8nh thu
+\'d5 t\'b9i N\'ad\'edc kia.
+\par 2. Tuy nhi\'aan, nh\'f7ng kho\'b6n ti\'d2n b\'b6n quy\'d2n v\'b5 ph\'dd d\'dech v\'f4 k\'fc thu\'cbt \'ae\'e3 c\'f2ng c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t n\'aci ph\'b8t sinh, v\'b5 theo c\'b8c lu\'cbt c\'f1a N\'ad\'edc n
+\'b5y, nh\'adng n\'d5u \'ae\'e8i t\'ad\'eeng nh\'cbn l\'b5 \'ae\'e8i t\'ad\'eeng th\'f9c h\'ad\'ebng ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt, th\'d7 m\'f8c thu\'d5 \'ae\'ad\'eec t\'ddnh s\'cf kh\'abng v\'ad\'eet qu\'b8:
+\par a. Trong tr\'ad\'eang h\'eep ti\'d2n b\'b6n quy\'d2n, 10 ph\'c7n tr\'a8m t\'e6ng s\'e8 ti\'d2n b\'b6n quy\'d2n \'ae\'e3;
+\par b. Trong tr\'ad\'eang h\'eep ph\'dd d\'dech v\'f4 k\'fc thu\'cbt, 7,5 ph\'c7n tr\'a8m t\'e6ng s\'e8 ti\'d2n ph\'dd d\'dech v\'f4 \'ae\'e3.
+\par 3. Thu\'cbt ng\'f7 \ldblquote ti\'d2n b\'b6n quy\'d2n\rdblquote  \'ae\'ad\'eec s\'f6 d\'f4ng trong \'a7i\'d2u n\'b5y c\'e3 ngh\'dca l\'b5 c\'b8c kho\'b6n thanh to\'b8n \'eb b\'cat k\'fa d\'b9ng n\'b5o \'ae\'ad\'eec tr\'b6 cho vi\'d6c s\'f6 d\'f4ng, ho\'c6
+c quy\'d2n s\'f6 d\'f4ng b\'b6n quy\'d2n t\'b8c gi\'b6 c\'f1a m\'e9t t\'b8c ph\'c8m v\'a8n h\'e4c, ngh\'d6 thu\'cbt hay khoa h\'e4c, k\'d3 c\'b6 phim \'aei\'d6n \'b6nh, phim ho\'c6c b\'a8ng d\'efng trong ph\'b8t thanh ho\'c6c truy\'d2n h\'d7nh, b\'bbng ph
+\'b8t minh, nh\'b7n hi\'d6u th\'ad\'acng m\'b9i, thi\'d5t k\'d5 ho\'c6c m\'c9u, \'ae\'e5 \'b8n, c\'abng th\'f8c ho\'c6c quy tr\'d7nh b\'dd m\'cbt, hay tr\'b6 cho vi\'d6c s\'f6 d\'f4ng, quy\'d2n s\'f6 d\'f4ng thi\'d5t b\'de c\'abng nghi\'d6p, th\'ad\'ac
+ng m\'b9i hay khoa h\'e4c ho\'c6c tr\'b6 cho th\'abng tin li\'aan quan \'ae\'d5n c\'b8c kinh nghi\'d6m c\'abng nghi\'d6p, th\'ad\'acng m\'b9i ho\'c6c khoa h\'e4c.
+\par 4. Thu\'cbt ng\'f7 \ldblquote ph\'dd d\'dech v\'f4 k\'fc thu\'cbt\rdblquote  \'ae\'ad\'eec d\'efng trong \'a7i\'d2u n\'b5y c\'e3 ngh\'dca l\'b5 c\'b8c kho\'b6n thanh to\'b8n d\'ad\'edi b\'cat k\'fa d\'b9ng n\'b5o cho m\'e9t \'ae\'e8i t\'ad\'eeng tr\'f5 c
+\'b8c kho\'b6n thanh to\'b8n cho ng\'ad\'eai l\'b5m c\'abng c\'f1a \'ae\'e8i t\'ad\'eeng tr\'b6 ti\'d2n ph\'dd, cho b\'cat k\'fa c\'b8c d\'dech v\'f4 n\'b5o mang t\'ddnh ch\'cat qu\'b6n l\'fd, k\'fc thu\'cbt, t\'ad v\'can \'ae\'ad\'eec th\'f9c hi\'d6n t
+\'b9i N\'ad\'edc k\'fd k\'d5t m\'b5 \'ae\'e8i t\'ad\'eeng tr\'b6 ti\'d2n ph\'dd l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3.
+\par 5. Nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 v\'b5 2 s\'cf kh\'abng \'b8p d\'f4ng n\'d5u \'ae\'e8i t\'ad\'eeng th\'f9c h\'ad\'ebng c\'b8c kho\'b6n ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt, l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c
+\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t, ti\'d5n h\'b5nh ho\'b9t \'ae\'e9ng kinh doanh \'eb N\'ad\'edc k\'fd k\'d5t kia n\'aci c\'e3 kho\'b6n ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt ph\'b8t sinh, th\'abng quan m\'e9t c\'ac s\'eb th
+\'ad\'eang tr\'f3 n\'bbm t\'b9i N\'ad\'edc kia, ho\'c6c ti\'d5n h\'b5nh t\'b9i N\'ad\'edc kia c\'b8c ho\'b9t \'ae\'e9ng d\'dech v\'f4 c\'b8 nh\'a9n \'ae\'e9c l\'cbp th\'abng qua m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh n\'bbm t\'b9i N\'ad\'edc kia, v\'b5 quy
+\'d2n hay t\'b5i s\'b6n c\'e3 c\'b8c kho\'b6n ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt \'ae\'ad\'eec tr\'b6 c\'e3 s\'f9 li\'aan h\'d6 th\'f9c t\'d5 v\'edi c\'ac s\'eb th\'ad\'eang tr\'f3 ho\'c6c v\'edi c\'ac s\'eb c\'e8 \'ae\'denh 
+\'ae\'e3. Trong tr\'ad\'eang h\'eep nh\'ad v\'cby kho\'b6n ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt \'ae\'e3 c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t kia theo lu\'cbt c\'f1a N\'ad\'edc \'ae\'e3.
+\par 6. Ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt s\'cf \'ae\'ad\'eec coi l\'b5 ph\'b8t sinh t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t khi \'ae\'e8i t\'ad\'eeng tr\'b6 ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt ch\'ddnh l
+\'b5 Nh\'b5 n\'ad\'edc \'ae\'e3, c\'ac quan ch\'ddnh quy\'d2n c\'ac s\'eb hay c\'ac quan h\'b5nh ch\'ddnh, ch\'ddnh quy\'d2n \'ae\'dea ph\'ad\'acng ho\'c6c l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc \'ae\'e3. Tuy nhi\'aan, khi m\'e9t \'ae
+\'e8i t\'ad\'eeng tr\'b6 ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt, l\'b5 hay kh\'abng l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t, c\'e3 \'eb m\'e9t N\'ad\'edc k\'fd k\'d5t m\'e9t c\'ac s\'eb th
+\'ad\'eang tr\'f3 hay m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh li\'aan quan \'ae\'d5n tr\'b8ch nhi\'d6m tr\'b6 ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt \'ae\'b7 ph\'b8t sinh v\'b5 ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc
+ thu\'cbt \'ae\'e3 do c\'ac s\'eb th\'ad\'eang tr\'f3 hay c\'ac s\'eb c\'e8 \'ae\'denh \'ae\'e3 ch\'deu th\'d7 kho\'b6n ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt n\'b5y s\'cf v\'c9n \'ae\'ad\'eec coi l\'b5 ph\'b8t sinh \'eb N\'ad\'ed
+c n\'aci c\'ac s\'eb th\'ad\'eang tr\'f3 hay c\'ac s\'eb c\'e8 \'ae\'denh \'ae\'e3 \'ae\'e3ng.
+\par 7. Tr\'ad\'eang h\'eep v\'d7 m\'e8i quan h\'d6 \'ae\'c6c bi\'d6t gi\'f7a \'ae\'e8i t\'ad\'eeng tr\'b6 v\'b5 \'ae\'e8i t\'ad\'eeng th\'f9c h\'ad\'ebng ho\'c6c gi\'f7a c\'b6 hai \'ae\'e8i t\'ad\'eeng tr\'aan v\'edi c\'b8c \'ae\'e8i t\'ad\'eeng kh\'b8c kho
+\'b6n ti\'d2n b\'b6n quy\'d2n hay ph\'dd d\'dech v\'f4 k\'fc thu\'cbt \'ae\'ad\'eec tr\'b6 cho vi\'d6c s\'f6 d\'f4ng, quy\'d2n ho\'c6c th\'abng tin v\'ad\'eet qu\'b8 kho\'b6n ti\'d2n \'ae\'ad\'eec th\'e1a thu\'cbn gi\'f7a \'ae\'e8i t\'ad\'eeng tr\'b6 ti
+\'d2n v\'b5 \'ae\'e8i t\'ad\'eeng th\'f9c h\'ad\'ebng khi kh\'abng c\'e3 m\'e8i quan h\'d6 \'ae\'c6c bi\'d6t n\'b5y, th\'d7 c\'b8c quy \'ae\'denh c\'f1a \'a7i\'d2u n\'b5y s\'cf ch\'d8 \'b8p d\'f4ng \'ae\'e8i v\'edi kho\'b6n ti\'d2n thanh to\'b8n khi kh
+\'abng c\'e3 m\'e8i quan h\'d6 tr\'aan. Trong tr\'ad\'eang h\'eep n\'b5y, ph\'c7n thanh to\'b8n v\'ad\'eet s\'cf b\'de \'ae\'b8nh thu\'d5 theo lu\'cbt c\'f1a t\'f5ng N\'ad\'edc k\'fd k\'d5t c\'e3 xem x\'d0t t\'edi c\'b8c quy \'ae\'denh kh\'b8c c\'f1a Hi
+\'d6p \'ae\'denh n\'b5y.
+\par }{\b \'a7i\'d2u 13
+\par }{L\'eei t\'f8c t\'f5 chuy\'d3n nh\'ad\'eeng t\'b5i s\'b6n:
+\par 1. L\'eei t\'f8c t\'f5 vi\'d6c chuy\'d3n nh\'ad\'eeng b\'cat \'ae\'e9ng s\'b6n \'ae\'ad\'eec \'ae\'denh ngh\'dca t\'b9i kho\'b6n 2 \'a7i\'d2u 6 c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t n\'aci c\'e3 t\'b5i s\'b6n \'ae\'e3.
+
+\par 2. L\'eei t\'f8c t\'f5 vi\'d6c chuy\'d3n nh\'ad\'eeng \'ae\'e9ng s\'b6n l\'b5 m\'e9t ph\'c7n c\'f1a t\'b5i s\'b6n kinh doanh c\'f1a m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 m\'b5 m\'e9t x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t c\'e3 t\'b9i N
+\'ad\'edc k\'fd k\'d5t kia ho\'c6c \'ae\'e9ng s\'b6n thu\'e9c m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh c\'f1a m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t c\'e3 \'eb N\'ad\'edc k\'fd k\'d5t kia \'ae\'d3 ti\'d5n h\'b5nh ho\'b9
+t \'ae\'e9ng d\'dech v\'f4 c\'b8 nh\'a9n \'ae\'e9c l\'cbp k\'d3 c\'b6 l\'eei t\'f8c t\'f5 vi\'d6c chuy\'d3n nh\'ad\'eeng c\'ac s\'eb th\'ad\'eang tr\'f3 \'ae\'e3 (ri\'aang c\'ac s\'eb th\'ad\'eang tr\'f3 \'ae\'e3 ho\'c6c c\'efng v\'edi to\'b5n b\'e9 x\'dd
+ nghi\'d6p) ho\'c6c c\'ac s\'eb c\'e8 \'ae\'denh \'ae\'e3 c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc kia.
+\par 3. L\'eei t\'f8c t\'f5 vi\'d6c chuy\'d3n nh\'ad\'eeng c\'b8c t\'b5u th\'f1y ho\'c6c m\'b8y bay ho\'b9t \'ae\'e9ng trong v\'cbn t\'b6i qu\'e8c t\'d5, ho\'c6c \'ae\'e9ng s\'b6n g\'ben li\'d2n v\'edi ho\'b9t \'ae\'e9ng c\'f1a t\'b5u th\'f1y hay m\'b8y bay 
+\'ae\'e3, s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 \'eb N\'ad\'edc k\'fd k\'d5t n\'aci c\'e3 tr\'f4 s\'eb \'aei\'d2u h\'b5nh th\'f9c t\'d5 c\'f1a x\'dd nghi\'d6p.
+\par 4. L\'eei t\'f8c t\'f5 vi\'d6c chuy\'d3n c\'b8c c\'e6 ph\'c7n tham gia g\'e3p v\'e8n t\'e8i thi\'d3u 25 ph\'c7n tr\'a8m v\'e8n c\'e6 ph\'c7n c\'f1a m\'e9t c\'abng ty l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t c\'e3 th
+\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3.
+\par 5. L\'eei t\'f8c t\'f5 vi\'d6c chuy\'d3n nh\'ad\'eeng b\'cat k\'fa t\'b5i s\'b6n n\'b5o kh\'b8c v\'edi t\'b5i s\'b6n \'ae\'ad\'eec n\'aau t\'b9i c\'b8c kho\'b6n 1, 2, 3 v\'b5 4 s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t n\'aci 
+\'ae\'e8i t\'ad\'eeng chuy\'d3n nh\'ad\'eeng l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3.
+\par }{\b \'a7i\'d2u 14
+\par }{Ho\'b9t \'ae\'e9ng d\'dech v\'f4 c\'b8 nh\'a9n \'ae\'e9c l\'cbp:
+\par 1. Thu nh\'cbp do m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t thu \'ae\'ad\'eec t\'f5 c\'b8c ho\'b9t \'ae\'e9ng d\'dech v\'f4 ng\'b5nh ngh\'d2 hay c\'b8c ho\'b9t \'ae\'e9ng kh\'b8c c\'e3 t\'ddnh ch\'cat \'ae\'e9c l\'cb
+p s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3 tr\'f5 khi n\'d5u \'ae\'e8i t\'ad\'eeng \'ae\'e3 th\'ad\'eang xuy\'aan c\'e3 m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh \'eb N\'ad\'edc k\'fd k\'d5t kia \'ae\'d3 ti\'d5n h\'b5nh ho\'b9t \'ae\'e9
+ng c\'f1a m\'d7nh. N\'d5u \'ae\'e8i t\'ad\'eeng \'ae\'e3 c\'e3 m\'e9t c\'ac s\'eb \'ae\'e8 \'ae\'denh nh\'ad v\'cby, thu nh\'cbp c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t kia nh\'adng ch\'d8 \'ae\'e8i v\'edi ph\'c7n thu nh\'cbp 
+\'ae\'ad\'eec ph\'a9n b\'e6 cho c\'ac s\'eb c\'e8 \'ae\'denh \'ae\'e3.
+\par 2. Thu\'cbt ng\'f7 \ldblquote d\'dech v\'f4 ng\'b5nh ngh\'d2\rdblquote  bao g\'e5m ch\'f1 y\'d5u nh\'f7ng ho\'b9t \'ae\'e9ng khoa h\'e4c, v\'a8n h\'e4c, ngh\'d6 thu\'cbt, gi\'b8o d\'f4c hay gi\'b6ng d\'b9y mang t\'ddnh ch\'cat \'ae\'e9c l\'cbp nh\'ad c
+\'b8c ho\'b9t \'ae\'e9ng \'ae\'e9c l\'cbp c\'f1a c\'b8c th\'c7y thu\'e8c, b\'b8c s\'dc, lu\'cbt s\'ad, ki\'d5n tr\'f3c s\'ad, nha s\'dc v\'b5 k\'d5 to\'b8n vi\'aan.
+\par }{\b \'a7i\'d2u 15
+\par }{Ho\'b9t \'ae\'e9ng d\'dech v\'f4 c\'b8 nh\'a9n ph\'f4 thu\'e9c:
+\par 1. Th\'d3 theo c\'b8c quy \'ae\'denh t\'b9i \'a7i\'d2u 16, 18, 19, 20 v\'b5 21 c\'b8c kho\'b6n ti\'d2n l\'ad\'acng, ti\'d2n c\'abng, v\'b5 c\'b8c kho\'b6n ti\'d2n th\'ef lao t\'ad\'acng t\'f9 kh\'b8c do m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m
+\'e9t N\'ad\'edc k\'fd k\'d5t thu \'ae\'ad\'eec t\'f5 lao \'ae\'e9ng l\'b5m c\'abng s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3, tr\'f5 khi c\'abng vi\'d6c c\'f1a \'ae\'e8i t\'ad\'eeng \'ae\'e3 \'ae\'ad\'eec th\'f9c hi\'d6n t\'b9i N
+\'ad\'edc k\'fd k\'d5t kia. N\'d5u c\'abng vi\'d6c lao \'ae\'e9ng \'ae\'ad\'eec th\'f9c hi\'d6n nh\'ad v\'cby, s\'e8 ti\'d2n thu \'ae\'ad\'eec t\'f5 lao \'ae\'e9ng \'ae\'e3 c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc kia.
+\par 2. M\'c6c d\'ef c\'e3 nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1, ti\'d2n c\'abng do m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t thu \'ae\'ad\'eec t\'f5 lao \'ae\'e9ng l\'b5m c\'abng t\'b9i N\'ad\'edc k\'fd k\'d5t kia s
+\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc th\'f8 nh\'cat n\'d5u:
+\par a. Ng\'ad\'eai nh\'cbn ti\'d2n hi\'d6n c\'e3 m\'c6t t\'b9i N\'ad\'edc kia trong m\'e9t th\'eai gian ho\'c6c nhi\'d2u th\'eai gian g\'e9p l\'b9i kh\'abng q\'f3a 183 ng\'b5y trong n\'a8m t\'b5i ch\'ddnh c\'e3 li\'aan quan, v\'b5
+\par b. Ch\'f1 lao \'ae\'e9ng hay \'ae\'e8i t\'ad\'eeng \'ae\'b9i di\'d6n ch\'f1 lao \'ae\'e9ng tr\'b6 ti\'d2n c\'abng lao \'ae\'e9ng kh\'abng ph\'b6i l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 ta\'de N\'ad\'edc kia, v\'b5
+\par c. S\'e8 ti\'d2n c\'abng kh\'abng ph\'b6i ph\'b8t sinh t\'b9i m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 ho\'c6c m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh m\'b5 ng\'ad\'eai ch\'f1 lao \'ae\'e9ng c\'e3 t\'b9i N\'ad\'edc kia tr\'b6.
+\par 3. M\'c6c d\'ef c\'e3 nh\'f7ng quy \'ae\'denh tr\'aan c\'f1a \'a7i\'d2u n\'b5y, ti\'d2n c\'abng t\'f5 c\'abng t\'f5 lao \'ae\'e9ng l\'b5m tr\'aan t\'b5u th\'f1y ho\'c6c m\'b8y bay ho\'b9t \'ae\'e9ng trong v\'cbn t\'b6i qu\'e8c t\'d5 c\'e3 th\'d3 b\'de 
+\'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t n\'aci c\'e3 tr\'f4 s\'eb \'aei\'d2u h\'b5nh th\'f9c t\'d5 c\'f1a x\'dd nghi\'d6p.
+\par }{\b \'a7i\'d2u 16
+\par }{Th\'ef lao cho gi\'b8m \'ae\'e8c:
+\par C\'b8c kho\'b6n th\'ef lao cho gi\'b8m \'ae\'e8c v\'b5 c\'b8c kho\'b6n thanh to\'b8n t\'ad\'acng t\'f9 kh\'b8c do m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t nh\'cbn \'ae\'ad\'eec v\'edi t\'ad c\'b8ch l\'b5 th\'b5nh vi
+\'aan c\'f1a ban gi\'b8m \'ae\'e8c c\'f1a m\'e9t c\'abng ty l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t kia c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc kia.
+\par }{\b \'a7i\'d2u 17
+\par }{Ngh\'d6 s\'dc v\'b5 v\'cbn \'ae\'e9ng vi\'aan:
+\par 1. M\'c6c d\'ef c\'e3 nh\'f7ng quy \'ae\'denh t\'b9i \'a7i\'d2u 14 v\'b5 15, thu nh\'cbp c\'f1a m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t thu \'ae\'ad\'eec v\'edi t\'ad c\'b8ch ng\'ad\'eai bi\'d3u di\'d4n nh\'ad di
+\'d4n vi\'aan s\'a9n kh\'cau, \'aei\'d6n \'b6nh, ph\'b8t thanh hay truy\'d2n h\'d7nh, hay nh\'b9c c\'abng, ho\'c6c v\'edi t\'ad c\'b8ch l\'b5 v\'cbn \'ae\'e9ng vi\'aan, t\'f5 nh\'f7ng ho\'b9t \'ae\'e9ng c\'b8 nh\'a9n c\'f1a m\'d7nh th\'f9c hi\'d6n t\'b9
+i N\'ad\'edc k\'fd k\'d5t kia, c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 \'eb N\'ad\'edc kia.
+\par 2. Tr\'ad\'eang h\'eep thu nh\'cbp li\'aan quan \'ae\'d5n c\'b8c ho\'b9t \'ae\'e9ng tr\'d7nh di\'d4n c\'b8 nh\'a9n c\'f1a ng\'ad\'eai bi\'d3u di\'d4n ho\'c6c v\'cbn \'ae\'e9ng vi\'aan nh\'adng kh\'abng \'ae\'ad\'eec tr\'b6 cho b\'b6n th\'a9n ng\'ad\'ea
+i bi\'d3u di\'d4n ho\'c6c v\'cbn \'ae\'e9ng vi\'aan, m\'b5 tr\'b6 cho m\'e9t \'ae\'e8i t\'ad\'eeng kh\'b8c th\'d7 thu nh\'cbp n\'b5y c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t n\'aci di\'d4n ra nh\'f7ng ho\'b9t \'ae\'e9ng tr\'d7
+nh di\'d4n c\'f1a ng\'ad\'eai bi\'d3u di\'d4n ho\'c6c v\'cbn \'ae\'e9ng vi\'aan, m\'c6c d\'ef c\'e3 nh\'f7ng quy \'ae\'denh t\'b9i \'a7i\'d2u 7, 14 v\'b5 15.
+\par }{\b \'a7i\'d2u 18
+\par }{Ti\'d2n l\'ad\'acng h\'adu: 
+\par Th\'d3 theo c\'b8c quy \'ae\'denh t\'b9i kho\'b6n 2 \'a7i\'d2u 19, ti\'d2n l\'ad\'acng h\'adu v\'b5 c\'b8c kho\'b6n ti\'d2n c\'abng t\'ad\'acng t\'f9 \'ae\'ad\'eec tr\'b6 cho m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5
+t do c\'b8c c\'abng vi\'d6c \'ae\'b7 l\'b5m tr\'ad\'edc \'ae\'a9y s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 \'eb N\'ad\'edc \'ae\'e3.
+\par }{\b \'a7i\'d2u 19
+\par }{Ph\'f4c v\'f4 ch\'ddnh ph\'f1:
+\par 1.a. Ti\'d2n c\'abng lao \'ae\'e9ng, tr\'f5 ti\'d2n l\'ad\'acng h\'adu, do m\'e9t N\'ad\'edc k\'fd k\'d5t ho\'c6c m\'e9t c\'ac quan ch\'ddnh quy\'d2n c\'ac s\'eb ho\'c6c ch\'ddnh quy\'d2n \'ae\'dea ph\'ad\'acng c\'f1a N\'ad\'edc \'ae\'e3 tr\'b6 cho m\'e9
+t c\'b8 nh\'a9n \'ae\'e8i v\'edi c\'b8c c\'abng vi\'d6c ph\'f4c v\'f4 cho Nh\'b5 n\'ad\'edc, c\'ac quan ch\'ddnh quy\'d2n c\'ac s\'eb ho\'c6c ch\'ddnh quy\'d2n \'ae\'dea ph\'ad\'acng \'ae\'e3 s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 \'eb N\'ad\'edc \'ae\'e3.
+
+\par b. Tuy nhi\'aan, kho\'b6n ti\'d2n c\'abng lao \'ae\'e9ng n\'b5y s\'cf ch\'d8 b\'b9i \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t kia n\'d5u c\'abng vi\'d6c ph\'f4c v\'f4 n\'b5y \'ae\'ad\'eec th\'f9c hi\'d6n t\'b9i N\'ad\'edc kia v\'b5 n\'d5u c\'b8 nh
+\'a9n n\'b5y l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc kia, \'ae\'e5ng th\'eai:
+\par (i) L\'b5 \'ae\'e8i t\'ad\'eeng mang qu\'e8c t\'dech c\'f1a N\'ad\'edc kia; ho\'c6c
+\par (ii) Kh\'abng tr\'eb th\'b5nh \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc kia ch\'d8 \'ae\'acn thu\'c7n v\'d7 th\'f9c hi\'d6n nh\'f7ng c\'abng vi\'d6c tr\'aan.
+\par 2. a. B\'cat k\'fa kho\'b6n ti\'d2n l\'ad\'acng h\'adu n\'b5o do m\'e9t N\'ad\'edc k\'fd k\'d5t ho\'c6c m\'e9t c\'ac quan ch\'ddnh quy\'d2n c\'ac s\'eb, ho\'c6c c\'ac quan h\'b5nh ch\'ddnh, ho\'c6c ch\'ddnh quy\'d2n \'ae\'dea ph\'ad\'acng c\'f1a N\'ad\'ed
+c \'ae\'e3 ho\'c6c do c\'b8c qu\'fc c\'f1a nh\'f7ng c\'ac quan n\'b5y l\'cbp ra tr\'b6 cho m\'e9t c\'b8 nh\'a9n \'ae\'e8i v\'edi c\'b8c c\'abng vi\'d6c ph\'f4c v\'f4 cho Nh\'b5 n\'ad\'edc ho\'c6c c\'b8c c\'ac quan ch\'ddnh quy\'d2n c\'ac s\'eb hay ch\'dd
+nh quy\'d2n \'ae\'dea ph\'ad\'acng \'ae\'e3 c\'e3 th\'d3 ch\'d8 b\'de \'ae\'b8nh thu\'d5 \'eb N\'ad\'edc \'ae\'e3.
+\par b. Tuy nhi\'aan, kho\'b6n ti\'d2n l\'ad\'acng h\'adu n\'b5y s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 \'eb N\'ad\'edc k\'fd k\'d5t kia n\'d5u c\'b8 nh\'a9n n\'b5y l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3, v\'b5 l\'b5 \'ae\'e8i t\'ad\'eeng mang qu\'e8c t\'de
+ch c\'f1a N\'ad\'edc kia.
+\par }{\b \'a7i\'d2u 20
+\par }{Sinh vi\'aan v\'b5 gi\'b8o s\'ad:
+\par M\'e9t gi\'b8o s\'ad hay gi\'b8o vi\'aan l\'b5 ng\'ad\'eai t\'b9m th\'eai c\'e3 m\'c6t t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t trong th\'eai gian kh\'abng qu\'b8 2 n\'a8m \'ae\'d3 gi\'b6ng d\'b9y hay ti\'d5n h\'b5nh nghi\'aan c\'f8u t\'b9i m\'e9t tr\'ad\'ea
+ng \'ae\'b9i h\'e4c, cao \'ae\'bcng, tr\'ad\'eang trung h\'e4c hay b\'cat k\'fa t\'e6 ch\'f8c gi\'b8o d\'f4c n\'b5o kh\'b8c v\'b5 l\'b5 ng\'ad\'eai ngay tr\'ad\'edc khi \'ae\'d5n N\'ad\'edc k\'fd k\'d5t \'ae\'e3 \'ae\'b7 l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad
+ tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t kia s\'cf \'ae\'ad\'eec mi\'d4n thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t th\'f8 nh\'cat \'ae\'e8i v\'edi kho\'b6n gi\'d2n c\'abng cho vi\'d6c gi\'b6ng d\'b9y hay nghi\'aan c\'f8u \'ae\'e3.
+\par }{\b \'a7i\'d2u 21
+\par }{Sinh vi\'aan:
+\par 1. C\'b8c kho\'b6n ti\'d2n m\'b5 m\'e9t m\'e9t sinh vi\'aan hay th\'f9c t\'cbp sinh hi\'d6n \'aeang hay ngay tr\'ad\'edc khi \'ae\'d5n m\'e9t N\'ad\'edc k\'fd k\'d5t l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t kia v\'b5 hi\'d6
+n c\'e3 m\'c6t t\'b9i N\'ad\'edc k\'fd k\'d5t th\'f8 nh\'cat ch\'d8 v\'edi m\'f4c \'ae\'ddch h\'e4c t\'cbp hay \'ae\'b5o t\'b9o, nh\'cbn \'ae\'ad\'eec \'ae\'d3 trang tr\'b6i c\'b8c chi ph\'dd sinh ho\'b9t, h\'e4c t\'cbp hay \'ae\'b5o t\'b9o s\'cf kh\'ab
+ng b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3, v\'edi \'aei\'d2u ki\'d6n l\'b5 c\'b8c kho\'b6n \'ae\'e3 ph\'b8t sinh t\'f5 c\'b8c ngu\'e5n \'eb ngo\'b5i N\'ad\'edc \'ae\'e3.
+\par 2. Thu nh\'cbp m\'b5 m\'e9t sinh vi\'aan, th\'f9c t\'cbp sinh hay ng\'ad\'eai h\'e4c ngh\'d2 nh\'cbn \'ae\'ad\'eec li\'aan quan \'ae\'d5n c\'b8c ho\'b9t \'ae\'e9ng \'ae\'ad\'eec th\'f9c hi\'d6n t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t m\'b5 ng\'ad\'ea
+i sinh vi\'aan, th\'f9c t\'cbp sinh hay ng\'ad\'eai h\'e4c ngh\'d2 hi\'d6n \'aeang \'eb ch\'d8 v\'edi m\'f4c \'ae\'ddch h\'e4c t\'cbp hay \'ae\'b5o t\'b9o s\'cf kh\'abng b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3 trong m\'e9t kho\'b6ng th\'ea
+i gian th\'ddch h\'eep cho vi\'d6c h\'e4c t\'cbp hay \'ae\'b5o t\'b9o \'ae\'e3 tr\'f5 khi kho\'b6n thu nh\'cbp n\'b5y v\'ad\'eet qu\'b8 kho\'b6n ti\'d2n c\'c7n thi\'d5t cho vi\'d6c sinh ho\'b9t, gi\'b8o d\'f4c hay \'ae\'b5o t\'b9o.
+\par }{\b \'a7i\'d2u 22
+\par }{Thu nh\'cbp kh\'b8c:
+\par 1. Nh\'f7ng kho\'b6n thu nh\'cbp c\'f1a m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t, cho d\'ef ph\'b8t sinh \'eb \'ae\'a9u, ch\'ada \'ae\'ad\'eec \'ae\'d2 c\'cbp \'ae\'d5n t\'b9i nh\'f7ng \'a7i\'d2u tr\'aan c\'f1a Hi
+\'d6p \'ae\'denh n\'b5y, s\'cf ch\'d8 b\'de \'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3.
+\par 2. Nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 s\'cf kh\'abng \'b8p d\'f4ng \'ae\'e8i v\'edi thu nh\'cbp, tr\'f5 thu nh\'cbp t\'f5 b\'cat \'ae\'e9ng s\'b6n \'ae\'ad\'eec \'ae\'denh ngh\'dca t\'b9i kho\'b6n 2 \'a7i\'d2u 6, n\'d5u \'ae\'e8i t\'ad\'eeng nh\'cb
+n thu nh\'cbp l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t, c\'e3 ti\'d5n h\'b5nh ho\'b9t \'ae\'e9ng kinh doanh t\'b9i N\'ad\'edc k\'fd k\'d5t kia th\'abng qua m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 n\'bbm t\'b9i N\'ad
+\'edc kia hay th\'f9c hi\'d6n t\'b9i N\'ad\'edc kia nh\'f7ng ho\'b9t \'ae\'e9ng d\'dech v\'f4 c\'b8 nh\'a9n \'ae\'e9c l\'cbp th\'abng qua m\'e9t c\'ac s\'eb c\'e8 \'ae\'denh t\'b9i N\'ad\'edc kia, v\'b5 quy\'d2n hay t\'b5i s\'b6n li\'aan quan \'ae\'d5n s
+\'e8 thu nh\'cbp \'ae\'ad\'eec chi tr\'b6 c\'e3 s\'f9 li\'aan h\'d6 th\'f9c t\'d5 v\'edi c\'ac s\'eb th\'ad\'eang tr\'f3 hay c\'ac s\'eb c\'e8 \'ae\'denh \'ae\'e3. Trong tr\'ad\'eang h\'eep nh\'ad v\'cby, nh\'f7ng kho\'b6n thu nh\'cbp n\'b5y s\'cf b\'de 
+\'ae\'b8nh thu\'d5 t\'b9i N\'ad\'edc k\'fd k\'d5t kia theo lu\'cbt c\'f1a N\'ad\'edc \'ae\'e3.
+\par }{\b \'a7i\'d2u 23
+\par }{C\'b8c bi\'d6n ph\'b8p x\'e3a b\'e1 vi\'d6c \'ae\'b8nh thu\'d5 hai l\'c7n:
+\par 1. Hai b\'aan \'ae\'b7 th\'e1a thu\'cbn s\'cf th\'f9c hi\'d6n vi\'d6c tr\'b8nh \'ae\'b8nh thu\'d5 hai l\'c7n theo c\'b8c kho\'b6n sau \'ae\'a9y c\'f1a \'a7i\'d2u n\'b5y.
+\par 2. Trong tr\'ad\'eang h\'eep c\'f1a Vi\'d6t Nam.
+\par Tr\'ad\'eang h\'eep m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a Vi\'d6t Nam nh\'cbn \'ae\'ad\'eec thu nh\'cbp, l\'eei t\'f8c hay c\'b8c kho\'b6n l\'eei t\'f8c t\'f5 chuy\'d3n nh\'ad\'eeng t\'b5i s\'b6n m\'b5 theo lu\'cbt c\'f1a I-ta-li-a v\'b5 ph\'ef
+ h\'eep v\'edi Hi\'d6p \'ae\'denh n\'b5y c\'e3 th\'d3 b\'de \'ae\'b8nh thu\'d5 t\'b9i I-ta-li-a, Vi\'d6t Nam s\'cf cho ph\'d0p kh\'cau tr\'f5  v\'b5o s\'e8 thu\'d5 c\'f1a Vi\'d6t Nam t\'ddnh tr\'aan thu nh\'cbp, l\'eei t\'f8c hay l\'eei t\'f8c t\'f5 chuy
+\'d3n nh\'ad\'eeng t\'b5i s\'b6n \'ae\'e3 m\'e9t kho\'b6n ti\'d2n t\'ad\'acng \'ae\'ad\'acng s\'e8 thu\'d5 \'ae\'b7 n\'e9p t\'b9i I-ta-li-a. Tuy nhi\'aan, kho\'b6n thu\'d5 \'ae\'ad\'eec kh\'cau tr\'f5 s\'cf kh\'abng v\'ad\'eet qu\'b8 s\'e8 thu\'d5 Vi\'d6t
+ Nam \'ae\'ad\'eec t\'ddnh ph\'ef h\'eep v\'edi c\'b8c lu\'cbt v\'b5 quy \'ae\'denh v\'d2 thu\'d5 c\'f1a Vi\'d6t Nam tr\'aan kho\'b6n thu nh\'cbp, l\'eei t\'f8c hay l\'eei t\'f8c  t\'f5 chuy\'d3n nh\'ad\'eeng t\'b5i s\'b6n \'ae\'e3.
+\par 3. Trong tr\'ad\'eang h\'eep c\'f1a I-ta-li-a
+\par N\'d5u m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a I-ta-li-a s\'eb h\'f7u c\'b8c kho\'b6n thu nh\'cbp b\'de \'ae\'b8nh thu\'d5 t\'b9i Vi\'d6t Nam, trong khi x\'b8c \'ae\'denh c\'b8c lo\'b9i thu\'d5 thu nh\'cbp t\'b9i I-ta-lia \'ae\'ad\'eec n\'d5u t
+\'b9i \'a7i\'d2u 2 c\'f1a Hi\'d6p \'ae\'denh n\'b5y, I-ta-lia c\'e3 th\'d3 c\'e9ng c\'b8c kho\'b6n thu nh\'cbp n\'e3i tr\'aan v\'b5o c\'ac s\'eb t\'ddnh thu\'d5 t\'b9i I-ta-lia, tr\'f5 khi Hi\'d6p \'ae\'denh n\'b5y c\'e3 qui \'ae\'denh ri\'aang kh\'b8c.
+
+\par Trong tr\'ad\'eang h\'eep nh\'ad v\'cby, I-ta-lia s\'cf tr\'f5 s\'e8 thu\'d5 thu nh\'cbp \'ae\'b7 n\'e9p t\'b9i Vi\'d6t Nam v\'b5o c\'b8c kho\'b6n thu\'d5 \'ae\'ad\'eec t\'ddnh nh\'ad tr\'aan nh\'adng s\'e8 thu\'d5 \'ae\'ad\'eec tr\'f5 kh\'abng v\'ad\'ee
+t qu\'b8 t\'fb l\'d6 thu\'d5 I-ta-li-a n\'e3i tr\'aan m\'b5 c\'b8c kho\'b6n thu nh\'cbp \'ae\'e3 ph\'b6i ch\'deu \'ae\'e8i v\'edi to\'b5n b\'e9 thu nh\'cbp.
+\par Tuy nhi\'aan I-ta-li-a s\'cf kh\'abng \'b8p d\'f4ng vi\'d6c tr\'f5 thu\'d5 n\'d5u \'ae\'e8i t\'ad\'eeng nh\'cbn c\'b8c kho\'b6n thu nh\'cbp n\'b5y \'ae\'d2 ngh\'de \'b8p d\'f4ng h\'d7nh th\'f8c thu\'d5 kh\'cau tr\'f5 t\'b9i I-ta-li-a ph\'ef v\'edi lu\'cb
+t I-ta-li-a.
+\par 4. Theo n\'e9i dung kh\'cau tr\'f5 \'ae\'ad\'eec n\'aau t\'b9i kho\'b6n 2 v\'b5 3 \'a7i\'d2u n\'b5y tr\'ad\'eang h\'eep thu\'d5  \'ae\'b8nh tr\'aan l\'eei t\'f8c doanh nghi\'d6p, ti\'d2n l\'b7i c\'e6 ph\'c7n, l\'b7i t\'f5 ti\'d2n cho vay hay ti\'d2n b\'b6
+n quy\'d2n t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t \'ae\'ad\'eec mi\'d4n hay gi\'b6m thu\'d5 trong m\'e9t kho\'b6ng th\'eai gian nh\'cat \'ae\'denh ph\'ef h\'eep v\'edi c\'b8c lu\'cbt v\'b5 quy \'ae\'denh v\'d2 thu\'d5 t\'b9i N\'ad\'edc \'ae\'e3 \'ae\'d3
+ khuy\'d5n kh\'ddch \'ae\'c7u t\'ad v\'b5o n\'ad\'edc ngo\'b5i v\'edi m\'f4c \'ae\'ddch ph\'b8t tri\'d3n kinh t\'d5, s\'e8 thu\'d5 \'ae\'ad\'eec mi\'d4n hay gi\'b6m nh\'ad v\'cby s\'cf \'ae\'ad\'eec coi l\'b5 \'ae\'b7 n\'e9p \'eb m\'f8c:
+\par a. 32,5 ph\'c7n tr\'a8m s\'e8 l\'eei t\'f8c doanh nghi\'d6p \'ae\'ad\'eec n\'aau t\'b9i \'a7i\'d2u 7.
+\par b. 10 ph\'c7n tr\'a8m t\'e6ng s\'e8 ti\'d2n l\'b7i c\'e6 ph\'c7n \'ae\'ad\'eec n\'aau t\'b9i \'a7i\'d2u 10.
+\par c. 10 ph\'c7n tr\'a8m t\'e6ng s\'e8 l\'b7i t\'f5 ti\'d2n cho vay \'ae\'ad\'eec n\'aau t\'b9i \'a7i\'d2u 11.
+\par d. 10 ph\'c7n tr\'a8m t\'e6ng s\'e8 ti\'d2n b\'b6n quy\'d2n \'ae\'ad\'eec n\'aau t\'b9i \'a7i\'d2u 12.
+\par C\'b8c quy \'ae\'denh t\'b9i kho\'b6n n\'b5y s\'cf \'b8p d\'f4ng trong giai \'aeo\'b9n 10 n\'a8m \'ae\'c7u ti\'aan Hi\'d6p \'ae\'denh c\'e3 hi\'d6u l\'f9c thi h\'b5nh.
+\par }{\b \'a7i\'d2u 24
+\par }{Kh\'abng ph\'a9n bi\'d6t \'ae\'e8i x\'f6:
+\par 1. Nh\'f7ng \'ae\'e8i t\'ad\'eeng mang qu\'e8c t\'dech c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t s\'cf kh\'abng ph\'b6i ch\'deu t\'b9i N\'ad\'edc k\'fd k\'d5t kia b\'cat k\'fa h\'d7nh th\'f8c thu\'d5 n\'b5o hay b\'cat k\'fa y\'aau c\'c7u n\'b5o li\'aan quan 
+\'ae\'d5n h\'d7nh th\'f8c thu\'d5 \'ae\'e3 kh\'b8c v\'edi hay n\'c6ng h\'acn h\'d7nh th\'f8c thu\'d5 v\'b5 c\'b8c y\'aau c\'c7u li\'aan quan hi\'d6n \'aeang c\'e3 th\'d3 \'b8p d\'f4ng cho c\'b8c \'ae\'e8i t\'ad\'eeng mang qu\'e8c t\'dech c\'f1a N\'ad\'ed
+c k\'fd k\'d5t kia trong c\'efng nh\'f7ng ho\'b5n c\'b6nh nh\'ad nhau. M\'c6c d\'ef \'ae\'b7 c\'e3 nh\'f7ng quy \'ae\'denh t\'b9i \'a7i\'d2u 1, quy \'ae\'denh n\'b5y c\'f2ng s\'cf \'b8p d\'f4ng \'ae\'e8i v\'edi c\'b8c \'ae\'e8i t\'ad\'eeng kh\'abng l\'b5 
+\'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t hay c\'f1a hai N\'ad\'edc k\'fd k\'d5t.
+\par 2. H\'d7nh th\'f8c thu\'d5 \'b8p d\'f4ng \'ae\'e8i v\'edi m\'e9t c\'ac s\'eb th\'ad\'eang tr\'f3 c\'f1a m\'e9t x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t \'ae\'c6t t\'b9i N\'ad\'edc k\'fd k\'d5t kia s\'cf kh\'abng k\'d0m thu\'cbn l\'eei h\'ac
+n h\'d7nh th\'f8c thu\'d5 \'b8p d\'f4ng \'ae\'e8i v\'edi c\'b8c x\'dd nghi\'d6p c\'f1a N\'ad\'edc k\'fd k\'d5t kia c\'efng th\'f9c hi\'d6n nh\'f7ng ho\'b9t \'ae\'e9ng t\'ad\'acng t\'f9, v\'edi \'aei\'d2u ki\'d6n n\'e9i dung kho\'b6n n\'b5y s\'cf kh\'ab
+ng ng\'a8n c\'b6n N\'ad\'edc k\'fd k\'d5t kia \'ae\'b8nh thu\'d5 \'ae\'e8i v\'edi c\'b8c kho\'b6n l\'eei t\'f8c \'ae\'ad\'eec ph\'a9n b\'e6 cho c\'ac s\'eb th\'ad\'eang tr\'f3 t\'b9i N\'ad\'edc \'ae\'e3 c\'f1a c\'abng ty l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad
+ tr\'f3 t\'b9i N\'ad\'edc th\'f8 nh\'cat, v\'edi m\'f8c thu\'d5 b\'e6 sung kh\'abng v\'ad\'eet qu\'b8 10  tr\'a8m c\'b8c kho\'b6n l\'eei t\'f8c \'ae\'e3.
+\par Quy \'ae\'denh n\'b5y s\'cf kh\'abng \'ae\'ad\'eec hi\'d3u l\'b5 bu\'e9c m\'e9t N\'ad\'edc k\'fd k\'d5t cho c\'b8c \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t kia \'ae\'ad\'eec h\'ad\'ebng b\'cat k\'fa kho\'b6n mi\'d4n thu c\'b8 nh
+\'a9n, mi\'d4n thu\'d5 v\'b5 gi\'b6m thu\'d5 khi t\'ddnh thu\'d5 c\'e3 xem x\'d0t \'ae\'d5n t\'ad c\'b8ch d\'a9n s\'f9 hay tr\'b8ch nhi\'d6m gia \'ae\'d7nh m\'b5 N\'ad\'edc \'ae\'e3 cho \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 t\'b9i N\'ad\'edc m\'d7nh \'ae\'ad
+\'eec h\'ad\'ebng.
+\par 3. Tr\'f5 khi nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 \'a7i\'d2u 9, kho\'b6n 7 \'a7i\'d2u 11, hay kho\'b6n 7 \'a7i\'d2u 12 \'ae\'ad\'eec \'b8p d\'f4ng, l\'b7i t\'f5 ti\'d2n cho vay, ti\'d2n b\'b6n quy\'d2n v\'b5 c\'b8c kho\'b6n thanh to\'b8n kh\'b8
+c do m\'e9t x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t tr\'b6 cho m\'e9t \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t kia s\'cf \'ae\'ad\'eec ph\'d0p tr\'f5, \'ae\'d3 x\'b8c \'ae\'denh l\'eei t\'f8c ch\'deu thu\'d5 c
+\'f1a x\'dd nghi\'d6p \'ae\'e3, theo c\'efng c\'b8c \'aei\'d2u ki\'d6n nh\'ad l\'b5 \'ae\'ad\'eec tr\'b6 cho \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 t\'b9i N\'ad\'edc th\'f8 nh\'cat.
+\par 4. C\'b8c x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t c\'e3 to\'b5n b\'e9 hay m\'e9t ph\'c7n v\'e8n do m\'e9t hay nhi\'d2u \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 c\'f1a N\'ad\'edc k\'fd k\'d5t kia ki\'d3m so\'b8t hay s\'eb h\'f7u tr\'f9c ti\'d5
+p hay gi\'b8n ti\'d5p, s\'cf kh\'abng ph\'b6i ch\'deu t\'b9i N\'ad\'edc k\'fd k\'d5t th\'f8 nh\'cat b\'cat k\'fa h\'d7nh th\'f8c thu\'d5 hay y\'aau c\'c7u li\'aan quan \'ae\'d5n h\'d7nh th\'f8c thu\'d5 \'ae\'e3 kh\'b8c v\'edi hay n\'c6ng h\'acn h\'d7nh th
+\'f8c thu\'d5 v\'b5 nh\'f7ng y\'aau c\'c7u li\'aan quan \'ae\'ad\'eec \'b8p d\'f4ng cho c\'b8c x\'dd nghi\'d6p t\'ad\'acng t\'f9 kh\'b8c c\'f1a N\'ad\'edc th\'f8 nh\'cat.
+\par 5. Tuy nhi\'aan, c\'b8c quy \'ae\'denh \'ae\'ad\'eec n\'aau t\'b9i c\'b8c kho\'b6n tr\'aan c\'f1a \'a7i\'d2u n\'b5y s\'cf kh\'abng \'b6nh h\'ad\'ebng t\'edi c\'b8c quy \'ae\'denh trong n\'ad\'edc nh\'bbm ng\'a8n ch\'c6n vi\'d6c tr\'e8n thu\'d5 v\'b5 tr
+\'b8nh thu\'d5. \'a7\'c6c bi\'d6t c\'f4m t\'f5 \ldblquote c\'b8c quy \'ae\'denh trong n\'ad\'edc\rdblquote  s\'cf bao g\'e5m, trong m\'e4i tr\'ad\'eang h\'eep, c\'b8c quy \'ae\'denh v\'d2 gi\'edi h\'b9n tr\'f5 chi ph\'dd v\'b5 c\'b8c kho\'b6n ti\'d2n \'ae
+\'ad\'eec tr\'f5 t\'ad\'acng t\'f9 kh\'b8c t\'f5 c\'b8c ho\'b9t \'ae\'e9ng giao d\'dech gi\'f7a c\'b8c x\'dd nghi\'d6p c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t v\'b5 c\'b8c x\'dd nghi\'d6p \'ae\'e3ng t\'b9i N\'ad\'edc k\'fd k\'d5t kia.
+\par 6. Nh\'f7ng quy \'ae\'denh c\'f1a \'a7i\'d2u n\'b5y s\'cf ch\'d8 \'b8p d\'f4ng cho c\'b8c lo\'b9i thu\'d5 thu\'e9c ph\'b9m vi \'aei\'d2u ch\'d8nh c\'f1a Hi\'d6p \'ae\'denh n\'b5y.
+\par }{\b \'a7i\'d2u 25
+\par }{C\'b8c th\'f1 t\'f4c tho\'b6 thu\'cbn song ph\'ad\'acng:
+\par 1. Tr\'ad\'eang h\'eep m\'e9t \'ae\'e8i t\'ad\'eeng nh\'cbn th\'cay r\'bbng vi\'d6c gi\'b6i quy\'d5t c\'f1a m\'e9t hay c\'b6 hai N\'ad\'edc k\'fd k\'d5t l\'b5m cho hay s\'cf l\'b5m cho \'ae\'e8i t\'ad\'eeng \'ae\'e3 ph\'b6i n\'e9p thu\'d5 kh\'abng \'ae
+\'f3ng theo nh\'f7ng quy \'ae\'denh c\'f1a Hi\'d6p \'ae\'denh n\'b5y, l\'f3c \'ae\'e3 \'ae\'e8i t\'ad\'eeng n\'b5y c\'e3 th\'d3 gi\'b6i tr\'d7nh tr\'ad\'eang h\'eep c\'f1a m\'d7nh v\'edi nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a N\'ad\'edc k
+\'fd k\'d5t n\'aci \'ae\'e8i t\'ad\'eeng \'ae\'e3 \'aeang c\'ad tr\'f3 ho\'c6c n\'d5u tr\'ad\'eang h\'eep c\'f1a \'ae\'e8i t\'ad\'eeng \'ae\'e3 thu\'e9c qui \'ae\'denh t\'b9i kho\'b6n 1 \'a7i\'d2u 24 th\'d7 \'ae\'e8i t\'ad\'eeng gi\'b6i tr\'d7nh v\'edi N
+\'ad\'edc m\'b5 \'ae\'e8i t\'ad\'eeng \'ae\'e3 mang qu\'e8c t\'dech, m\'c6c d\'ef trong c\'b8c lu\'cbt trong n\'ad\'edc c\'f1a hai N\'ad\'edc k\'fd k\'d5t \'ae\'b7 quy \'ae\'denh nh\'f7ng ch\'d5 \'ae\'e9 x\'f6 l\'fd khi\'d5u n\'b9i. Tr\'ad\'eang h\'ee
+p khi\'d5u n\'b9i \'ae\'e3 ph\'b6i \'ae\'ad\'eec gi\'b6i tr\'d7nh trong th\'eai h\'b9n 2 n\'a8m k\'d3 t\'f5 l\'c7n th\'abng b\'b8o \'ae\'c7u ti\'aan d\'c9n \'ae\'d5n h\'d7nh th\'f8c thu\'d5 \'b8p d\'f4ng kh\'abng ph\'ef h\'eep v\'edi nh\'f7ng quy \'ae\'de
+nh t\'b9i Hi\'d6p \'ae\'denh.
+\par 2. Nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n s\'cf c\'e8 g\'beng, n\'d5u nh\'ad vi\'d6c khi\'d5u n\'b9i l\'b5 h\'eep l\'fd v\'b5 n\'d5u b\'b6n th\'a9n nh\'b5 ch\'f8c tr\'b8ch \'ae\'e3 kh\'abng th\'d3 \'aei \'ae\'d5n m\'e9t gi\'b6i ph\'b8p tho\'b6 
+\'ae\'b8ng, ph\'e8i h\'eep v\'edi nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a N\'ad\'edc k\'fd k\'d5t kia \'ae\'d3 c\'efng gi\'b6i quy\'d5t tr\'ad\'eang h\'eep khi\'d5u n\'b9i b\'bbng tho\'b6 thu\'cbn chung, nh\'bbm m\'f4c \'ae\'ddch tr\'b8nh 
+\'ae\'b8nh thu\'d5 kh\'abng ph\'ef h\'eep v\'edi n\'e9i dung c\'f1a Hi\'d6p \'ae\'denh n\'b5y.
+\par 3. Nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a hai N\'ad\'edc k\'fd k\'d5t s\'cf c\'e8 g\'beng gi\'b6i quy\'d5t m\'e4i kh\'e3 kh\'a8n hay v\'ad\'edng m\'bec n\'b6y sinh trong qu\'b8 tr\'d7nh gi\'b6i th\'ddch hay \'b8p d\'f4ng Hi\'d6p \'ae\'de
+nh n\'b5y b\'bbng tho\'b6 thu\'cbn chung.
+\par 4. Nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a hai N\'ad\'edc k\'fd k\'d5t c\'e3 th\'d3 tr\'f9c ti\'d5p th\'abng b\'b8o cho nhau v\'edi m\'f4c \'ae\'ddch nh\'bbm \'ae\'b9t \'ae\'ad\'eec m\'e9t tho\'b6 thu\'cbn theo n\'e9i dung c\'f1a nh\'f7
+ng kho\'b6n tr\'aan \'ae\'a9y. Khi th\'cay c\'c7n thi\'d5t ph\'b6i \'ae\'e8i tho\'b9i trao \'ae\'e6i quan \'aei\'d3m th\'d7 c\'e3 th\'d3 t\'e6 ch\'f8c trao \'ae\'e6i \'fd ki\'d5n th\'abng qua m\'e9t }{\f18 \'f1}{y ban g\'e5m c\'b8c \'ae\'b9i di\'d6n cho c
+\'b8c nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a hai N\'ad\'edc k\'fd k\'d5t.
+\par }{\b \'a7i\'d2u 26
+\par }{Trao \'ae\'e6i th\'abng tin:
+\par 1. Nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a hai N\'ad\'edc k\'fd k\'d5t s\'cf trao \'ae\'e6i v\'edi nhau nh\'f7ng th\'abng tin c\'c7n thi\'d5t cho vi\'d6c tri\'d3n khai th\'f9c hi\'d6n nh\'f7ng quy \'ae\'denh c\'f1a Hi\'d6p \'ae\'denh n\'b5
+y hay c\'b8c lu\'cbt trong n\'ad\'edc c\'f1a t\'f5ng N\'ad\'edc k\'fd k\'d5t li\'aan quan \'ae\'d5n c\'b8c lo\'b9i thu\'d5 m\'b5 Hi\'d6p \'ae\'denh n\'b5y \'b8p d\'f4ng sao cho vi\'d6c \'ae\'b8nh thu\'d5 theo c\'b8c lu\'cbt trong n\'ad\'edc s\'cf kh\'ab
+ng tr\'b8i v\'edi Hi\'d6p \'ae\'denh n\'b5y c\'f2ng nh\'ad nh\'bbm ng\'a8n ch\'c6n vi\'d6c tr\'e8n thu\'d5. Vi\'d6c trao \'ae\'e6i th\'abng tin s\'cf kh\'abng b\'de gi\'edi h\'b9n b\'ebi \'a7i\'d2u 1. M\'e4i th\'abng tin do m\'e9t N\'ad\'edc k\'fd k\'d5
+t nh\'cbn s\'cf \'ae\'ad\'eec gi\'f7 b\'dd m\'cbt gi\'e8ng nh\'ad th\'abng tin thu nh\'cbn theo lu\'cbt trong n\'ad\'edc c\'f1a N\'ad\'edc n\'b5y v\'b5 th\'abng tin \'ae\'e3 ch\'d8 \'ae\'ad\'eec cung c\'cap cho c\'b8c \'ae\'e8i t\'ad\'eeng hay c\'b8c c
+\'ac quan ch\'f8c tr\'b8ch (bao g\'e5m c\'b6 to\'b5 \'b8n v\'b5 c\'b8c c\'ac quan h\'b5nh ch\'ddnh) c\'e3 li\'aan quan \'ae\'d5n vi\'d6c t\'ddnh to\'b8n, thu, c\'ad\'ecng ch\'d5 ho\'c6c truy t\'e8, ho\'c6c x\'b8c \'ae\'denh c\'b8c khi\'d5u n\'b9i li\'aa
+n quan \'ae\'d5n c\'b8c lo\'b9i thu\'d5 m\'b5 Hi\'d6p \'ae\'denh n\'b5y \'b8p d\'f4ng. C\'b8c \'ae\'e8i t\'ad\'eeng ho\'c6c c\'b8c c\'ac quan ch\'f8c tr\'b8ch n\'b5y s\'cf ch\'d8 s\'f6 d\'f4ng th\'abng tin \'ae\'e3 v\'b5o c\'b8c m\'f4c \'ae\'ddch n\'aa
+u tr\'aan. C\'b8c \'ae\'e8i t\'ad\'eeng v\'b5 c\'b8c c\'ac quan n\'b5y c\'e3 th\'d3 cung c\'cap c\'b8c th\'abng tin \'ae\'e3 trong qu\'b8 tr\'d7nh t\'e8 t\'f4ng c\'abng khai c\'f1a to\'b5 \'b8n hay trong c\'b8c quy\'d5t \'ae\'denh c\'f1a to\'b5 \'b8n. 
+
+\par 2. Kh\'abng c\'e3 tr\'ad\'eang h\'eep n\'b5o nh\'f7ng quy \'ae\'denh t\'b9i kho\'b6n 1 \'ae\'ad\'eec gi\'b6i th\'ddch l\'b5 bu\'e9c m\'e9t N\'ad\'edc k\'fd k\'d5t c\'e3 ngh\'dca v\'f4:
+\par a. Th\'f9c hi\'d6n c\'b8c bi\'d6n ph\'b8p h\'b5nh ch\'ddnh kh\'b8c v\'edi lu\'cbt ph\'b8p hay th\'abng l\'d6 v\'d2 qu\'b6n l\'fd h\'b5nh ch\'ddnh c\'f1a N\'ad\'edc k\'fd k\'d5t \'ae\'e3 hay c\'f1a N\'ad\'edc k\'fd k\'d5t kia;
+\par b. Cung c\'cap nh\'f7ng th\'abng tin kh\'abng th\'d3 ti\'d5t l\'e9 \'ae\'ad\'eec theo c\'b8c lu\'cbt hay theo nh\'ad qu\'b8 tr\'d7nh qu\'b6n l\'fd h\'b5nh ch\'ddnh th\'abng th\'ad\'eang c\'f1a N\'ad\'edc k\'fd k\'d5t \'ae\'e3 hay c\'f1a N\'ad\'edc k\'fd k
+\'d5t kia;
+\par c. Cung c\'cap nh\'f7ng th\'abng tin c\'e3 th\'d3 l\'b5m ti\'d5t l\'e9 b\'dd m\'cbt v\'d2 m\'cbu d\'dech, kinh doanh, c\'abng nghi\'d6p, th\'ad\'acng m\'b9i hay b\'dd m\'cbt ngh\'d2 nghi\'d6p ho\'c6c c\'b8c ph\'ad\'acng th\'f8c kinh doanh, ho\'c6c cung c
+\'cap nh\'f7ng th\'abng tin m\'b5 vi\'d6c ti\'d5t l\'e9 ch\'f3ng c\'e3 th\'d3 tr\'b8i v\'edi ch\'ddnh s\'b8ch nh\'b5 n\'ad\'edc.
+\par }{\b \'a7i\'d2u 27
+\par }{Kh\'abng n\'e9i dung n\'b5o trong Hi\'d6p \'ae\'denh n\'b5y s\'cf \'b6nh h\'ad\'ebng \'ae\'d5n nh\'f7ng \'adu \'ae\'b7i v\'d2 thu\'d5 c\'f1a c\'b8c vi\'aan ch\'f8c ngo\'b9i giao ho\'c6c vi\'aan ch\'f8c l\'b7nh s\'f9 theo nh\'f7ng nguy\'aan t\'be
+c chung c\'f1a lu\'cbt ph\'b8p qu\'e8c t\'d5 hay nh\'f7ng quy \'ae\'denh trong c\'b8c Hi\'d6p \'ae\'denh \'ae\'c6c bi\'d6t.
+\par }{\b \'a7i\'d2u 28
+\par }{Ho\'b5n thu\'d5:
+\par 1. C\'b8c lo\'b9i thu\'d5 kh\'cau tr\'f5 t\'b9i ngu\'e5n t\'b9i m\'e9t N\'ad\'edc k\'fd k\'d5t s\'cf \'ae\'ad\'eec ho\'b5n tr\'b6 theo \'ae\'d2 ngh\'de c\'f1a \'ae\'e8i t\'ad\'eeng n\'e9p thu\'d5 hay c\'f1a N\'ad\'edc n\'aci \'ae\'e8i t\'ad\'eeng n\'e9
+p thu\'d5 l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 n\'d5u quy\'d2n thu c\'b8c lo\'b9i thu\'d5 n\'e3i tr\'aan \'ae\'ad\'eec \'aei\'d2u ch\'d8nh b\'ebi c\'b8c quy \'ae\'denh c\'f1a Hi\'d6p \'ae\'denh n\'b5y.
+\par 2. \'a7\'d2 ngh\'de ho\'b5n thu\'d5 \'ae\'ad\'eec \'ae\'d6 tr\'d7nh trong kho\'b6ng th\'eai gian \'can \'ae\'denh trong lu\'cbt c\'f1a N\'ad\'edc k\'fd k\'d5t c\'e3 ngh\'dca v\'f4 th\'f9c hi\'d6n vi\'d6c ho\'b5n thu\'d5 ph\'b6i \'ae\'ad\'eec g\'f6i k\'cc
+m theo gi\'cay x\'b8c nh\'cbn ch\'ddnh th\'f8c c\'f1a N\'ad\'edc k\'fd k\'d5t n\'aci \'ae\'e8i t\'ad\'eeng n\'e9p thu\'d5 l\'b5 \'ae\'e8i t\'ad\'eeng c\'ad tr\'f3 x\'b8c minh v\'d2 c\'b8c \'aei\'d2u ki\'d6n hi\'d6n t\'b9i theo quy \'ae\'denh \'ae\'d3 \'ae
+\'ad\'eec h\'ad\'ebng c\'b8c \'adu \'ae\'b7i \'ae\'ad\'eec quy \'ae\'denh t\'b9i Hi\'d6p \'ae\'denh.
+\par 3. C\'b8c nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a hai N\'ad\'edc k\'fd k\'d5t s\'cf x\'a9y d\'f9ng bi\'d6n ph\'b8p \'b8p d\'f4ng \'a7i\'d2u n\'b5y b\'bbng tho\'b6 thu\'cbn chung, ph\'ef h\'eep v\'edi c\'b8c quy \'ae\'denh t\'b9i \'a7i\'d2
+u 25 c\'f1a Hi\'d6p \'ae\'denh n\'b5y.
+\par }{\b \'a7i\'d2u 29
+\par }{Hi\'d6u l\'f9c:
+\par 1. T\'f5ng N\'ad\'edc k\'fd k\'d5t s\'cf  th\'abng b\'b8o cho N\'ad\'edc kia b\'bbng v\'a8n b\'b6n th\'abng qua \'ae\'ad\'eang ngo\'b9i giao vi\'d6c ho\'b5n th\'b5nh c\'b8c th\'f1 t\'f4c c\'c7n thi\'d5t theo n\'e9i lu\'cbt c\'f1a t\'f5ng N\'ad\'edc \'ae
+\'d3 Hi\'d6p \'ae\'denh c\'e3 hi\'d6u l\'f9c. Hi\'d6p \'ae\'denh n\'b5y s\'cf c\'e3 hi\'d6u l\'f9c k\'d3 t\'f5 ng\'b5y th\'abng b\'b8o sau c\'efng.
+\par 2. C\'b8c quy \'ae\'denh c\'f1a Hi\'d6p \'ae\'denh s\'cf c\'e3 hi\'d6u v\'b5o ng\'b5y nh\'cbn \'ae\'ad\'eec th\'abng b\'b8o sau c\'efng.
+\par a. \'a7\'e8i v\'edi c\'b8c lo\'b9i thu\'d5 kh\'cau tr\'f5 t\'b9i ngu\'e5n cho c\'b8c kho\'b6n thu nh\'cbp nh\'cbn \'ae\'ad\'eec v\'b5o ng\'b5y ho\'c6c sau ng\'b5y 1/1/1996;
+\par b) \'a7\'e8i v\'edi c\'b8c lo\'b9i thu\'d5 kh\'b8c t\'ddnh tr\'aan thu nh\'cbp cho c\'b8c kho\'b6n thu\'d5 t\'ddnh trong k\'fa thu\'d5 b\'bet \'ae\'c7u v\'b5o ng\'b5y ho\'c6c sau ng\'b5y 1/1/1996.
+\par }{\b \'a7i\'d2u 30
+\par }{K\'d5t th\'f3c Hi\'d6p \'ae\'denh:
+\par Hi\'d6p \'ae\'denh n\'b5y s\'cf v\'c9n c\'dfn hi\'d6u l\'f9c cho t\'edi khi m\'e9t N\'ad\'edc k\'fd k\'d5t tuy\'aan b\'e8 k\'d5t th\'f3c. T\'f5ng N\'ad\'edc k\'fd k\'d5t th\'abng qua \'ae\'ad\'eang ngo\'b9i giao c\'e3 th\'d3 k\'d5t th\'f3c Hi\'d6p \'ae
+\'denh b\'bbng c\'b8ch g\'f6i cho N\'ad\'edc k\'fd k\'d5t kia th\'abng b\'b8o k\'d5t th\'f3c Hi\'d6p \'ae\'denh \'ddt nh\'cat s\'b8u th\'b8ng tr\'ad\'edc khi k\'d5t th\'f3c b\'cat k\'fa n\'a8m d\'ad\'acng l\'dech n\'b5o b\'bet \'ae\'c7u t\'f5 sau th\'eai
+ h\'b9n n\'a8m n\'a8m k\'d3 t\'f5 ng\'b5y Hi\'d6p \'ae\'denh c\'e3 hi\'d6u l\'f9c. Trong tr\'ad\'eang h\'eep nh\'ad v\'cby, Hi\'d6p \'ae\'denh s\'cf ch\'cam d\'f8t hi\'d6u l\'f9c thi h\'b5nh:
+\par a. \'a7\'e8i v\'edi c\'b8c  thu\'d5 kh\'cau tr\'f5 t\'b9i ngu\'e5n cho c\'b8c kho\'b6n ti\'d2n nh\'cbn \'ae\'ad\'eec v\'b5o ng\'b5y ho\'c6c sau ng\'b5y 1 th\'b8ng 1 c\'f1a n\'a8m ti\'d5p sau n\'a8m d\'ad\'acng l\'dech g\'f6i th\'abng b\'b8o k\'d5t th\'f3
+c Hi\'d6p \'ae\'denh;
+\par b. \'a7\'e8i v\'edi c\'b8c lo\'b9i thu\'d5 kh\'b8c, li\'aan quan \'ae\'d5n thu nh\'cbp, cho c\'b8c lo\'b9i thu\'d5 t\'ddnh trong b\'cat k\'fa giai \'aeo\'b9n t\'ddnh thu\'d5 n\'b5o b\'bet \'ae\'c7u v\'b5o ng\'b5y ho\'c6c sau ng\'b5y 1 th\'b8ng 1 n\'a8m d
+\'ad\'acng l\'dech ti\'d5p sau g\'f6i th\'abng b\'b8o k\'d5t th\'f3c Hi\'d6p \'ae\'denh.
+\par \'a7\'d3 l\'b5m b\'bbng nh\'f7ng ng\'ad\'eai \'ae\'ad\'eec u\'fb quy\'d2n d\'ad\'edi \'ae\'a9y c\'f1a t\'f5ng Ch\'ddnh ph\'f1 \'ae\'b7 k\'fd v\'b5o Hi\'d6p \'ae\'denh n\'b5y.
+\par Hi\'d6p \'ae\'denh n\'b5y \'ae\'ad\'eec l\'b5m th\'b5nh hai b\'b6n t\'b9i H\'b5 N\'e9i ng\'b5y 26 th\'b8ng 11 n\'a8m m\'e9t ngh\'d7n ch\'ddn tr\'a8m ch\'ddn m\'ad\'aci s\'b8u b\'bbng ti\'d5ng Vi\'d6t, ti\'d5ng I-ta-li-a v\'b5 ti\'d5ng Anh, ba v\'a8n b\'b6
+n  \'ae\'d2u c\'e3 gi\'b8 tr\'de ngang nhau, tr\'f5 tr\'ad\'eang h\'eep kh\'abng r\'e2 r\'b5ng, khi \'ae\'e3 b\'b6n ti\'d5ng Anh s\'cf c\'e3 gi\'b8 tr\'de quy\'d5t \'ae\'denh. 
+\par }\pard\plain \s26\sb360\nowidctlpar\widctlpar\tqc\tx6237\adjustright \b\f18\fs22\lang2057\cgrid {                        TM. Ch\'ddnh ph\'f1                                                       TM. Ch\'ddnh ph\'f1 \line   N\'ad\'edc C\'e9ng h\'dfa x\'b7
+ h\'e9i ch\'f1 ngh\'dca                       N\'ad\'edc c\'e9ng ho\'b5 I-ta-li-a\line                             Vi\'d6t Nam 
+\par }\pard\plain \s22\sb1080\nowidctlpar\widctlpar\tqc\tx6237\adjustright \b\f15\fs26\lang2057\cgrid {               \'a4ng V\'f2 M\'e9ng Giao                                  Th\'ad\'eeng ngh\'de s\'dc Patrizia Toia\line              Th\'f8 tr\'ad\'ebng T
+\'b5i ch\'ddnh                                      Th\'f8 tr\'ad\'ebng Ngo\'b9i giao
+\par }\pard\plain \s29\qc\sb480\sa120\nowidctlpar\widctlpar\adjustright \b\f18\fs22\lang2057\cgrid {Ngh\'de \'ae\'denh th\'ad b\'e6 sung
+\par }\pard\plain \s28\qj\fi567\sb120\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid {Hi\'d6p \'ae\'denh gi\'f7a Ch\'ddnh ph\'f1 n\'ad\'edc C\'e9ng ho\'b5 x\'b7 h\'e9i ch\'f1 ngh\'dca Vi\'d6t Nam v\'b5 Ch\'ddnh ph\'f1 n\'ad\'edc C\'e9ng ho\'b5
+ I-ta-li-a v\'d2 tr\'b8nh \'ae\'b8nh thu\'d5 hai l\'c7n \'ae\'e8i v\'edi c\'b8c lo\'b9i thu\'d5 \'ae\'b8nh v\'b5o thu nh\'cbp v\'b5 ng\'a8n ng\'f5a vi\'d6c tr\'e8n l\'cbu thu\'d5.
+\par H\'abm n\'b5y t\'b9i th\'eai \'aei\'d3m k\'fd k\'d5t Hi\'d6p \'ae\'denh }{\fs22 gi\'f7a Ch\'ddnh ph\'f1 n\'ad\'edc C\'e9ng ho\'b5 X\'b7 h\'e9i Ch\'f1 ngh\'dca Vi\'d6t Nam v\'b5 Ch\'ddnh ph\'f1 n\'ad\'edc C\'e9ng ho\'b5 I-ta-li-a v\'d2 tr\'b8nh \'ae\'b8
+nh thu\'d5 hai l\'c7n \'ae\'e8i v\'edi c\'b8c lo\'b9i thu\'d5 \'ae\'b8nh v\'b5o thu nh\'cbp v\'b5 ng\'a8n ng\'f5a vi\'d6c tr\'e8n l\'cbu thu\'d5}{, nh\'f7ng ng\'ad\'eai k\'fd d\'ad\'edi \'ae\'a9y \'ae\'b7 th\'e8ng nh\'cat nh\'f7ng quy \'ae\'denh b\'e6
+ sung sau \'ae\'a9y s\'cf l\'b5 m\'e9t b\'e9 ph\'cbn h\'eep th\'b5nh c\'f1a Hi\'d6p \'ae\'denh n\'e3i tr\'aan.
+\par Hai b\'aan th\'e8ng nh\'cat:
+\par a. Li\'aan quan \'ae\'d5n \'a7i\'d2u 7, kh\'abng n\'e9i dung n\'b5o t\'b9i \'a7i\'d2u n\'b5y s\'cf \'b6nh h\'ad\'ebng \'ae\'d5n vi\'d6c \'b8p d\'f4ng b\'cat k\'fa lu\'cbt n\'b5o c\'f1a m\'e9t N\'ad\'edc k\'fd k\'d5t li\'aan quan \'ae\'d5n vi\'d6c x\'b8c 
+\'ae\'denh ngh\'dca v\'f4 thu\'d5 c\'f1a m\'e9t \'ae\'e8i t\'ad\'eeng trong c\'b8c tr\'ad\'eang h\'eep khi th\'abng tin m\'b5 nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'e3 \'ae\'ad\'eec cho ph\'d0p, lu\'cbt \'ae\'e3 s\'cf \'ae\'ad\'eec \'b8p d\'f4
+ng ph\'ef h\'eep v\'edi c\'b8c nguy\'aan t\'bec c\'f1a \'a7i\'d2u n\'b5y;
+\par b. Li\'aan quan \'ae\'d5n \'aei\'d2u 7, kho\'b6n 3, c\'f4m t\'f5 \ldblquote chi ph\'dd ph\'b8t sinh cho c\'ac s\'eb th\'ad\'eang tr\'f3\rdblquote  c\'e3 ngh\'dca l\'b5 c\'b8c chi ph\'dd tr\'f9c ti\'d5p g\'ben v\'edi ho\'b9t \'ae\'e9ng c\'f1a s\'ac s\'eb
+ th\'ad\'eang tr\'f3;
+\par c. Li\'aan quan \'ae\'d5n kho\'b6n 4 \'a7i\'d2u 10, kho\'b6n 5 \'a7i\'d2u 11, kho\'b6n 4 \'a7i\'d2u 12, kho\'b6n 2 \'a7i\'d2u 22, c\'a9u cu\'e8i c\'efng \'ae\'ad\'eec ghi t\'b9i c\'b8c kho\'b6n \'ae\'e3 s\'cf kh\'abng \'ae\'ad\'eec hi\'d3u l\'b5 tr\'b8i v
+\'edi c\'b8c nguy\'aan t\'bec n\'aau t\'b9i \'a7i\'d2u 7 v\'b5 14 c\'f1a Hi\'d6p \'ae\'denh n\'b5y; 
+\par d. Li\'aan quan \'ae\'d5n kho\'b6n 1 \'a7i\'d2u 25, c\'f4m t\'f5 \ldblquote m\'c6c d\'ef trong c\'b8c lu\'cbt trong n\'ad\'edc \'ae\'b7 quy \'ae\'denh nh\'f7ng ch\'d5 \'ae\'e9 x\'f6 l\'fd khi\'d5u n\'b9i\rdblquote  c\'e3 ngh\'dca l\'b5 th\'f1 t\'f4c tho
+\'b6 thu\'cbn song ph\'ad\'acng s\'cf kh\'abng l\'b5m thay \'ae\'e6i c\'b8c th\'f1 t\'f4c khi\'d5u n\'b9i qu\'e8c gia m\'b5 trong m\'e4i tr\'ad\'eang h\'eep ngay t\'f5 \'ae\'c7u c\'e3 t\'ddnh ch\'cat ng\'a8n ch\'c6n khi vi\'d6c khi\'d5u n\'b9i c\'e3 li
+\'aan quan \'ae\'d5n vi\'d6c t\'ddnh c\'b8c lo\'b9i thu\'d5 kh\'abng ph\'ef h\'eep v\'edi Hi\'d6p \'ae\'denh n\'b5y;
+\par e. Quy \'ae\'denh c\'f1a kho\'b6n 3 \'a7i\'d2u 28 s\'cf kh\'abng \'b6nh h\'ad\'ebng t\'edi vi\'d6c nh\'b5 ch\'f8c tr\'b8ch c\'e3 th\'c8m quy\'d2n c\'f1a hai N\'ad\'edc k\'fd k\'d5t th\'f9c hi\'d6n, b\'bbng tho\'b6 thu\'cbn song ph\'ad\'acng, c\'b8c bi\'d6
+n ph\'b8p kh\'b8c cho ph\'d0p gi\'b6m thu\'d5 \'ae\'ad\'eec quy \'ae\'denh trong Hi\'d6p \'ae\'denh;
+\par f. Li\'aan quan \'ae\'d5n \'a7i\'d2u 10, 11 v\'b5 12 n\'d5u t\'b9i b\'cat k\'fa Hi\'d6p \'ae\'denh n\'b5o v\'d2 tr\'b8nh \'ae\'b8nh thu\'d5 hai l\'c7n \'ae\'ad\'eec Vi\'d6t Nam v\'b5 m\'e9t N\'ad\'edc th\'f8 ba l\'b5 th\'b5nh vi\'aan c\'f1a Li\'aa
+n minh Ch\'a9u \'a9u sau ng\'b5y k\'fd k\'d5t Hi\'d6p \'ae\'denh n\'b5y, c\'b8c m\'f8c thu\'d5 su\'cat \'ae\'b7 quy \'ae\'denh t\'b9i kho\'b6n 2 \'a7i\'d2u 10, 11 v\'b5 12 n\'e3i tr\'aan ho\'c6c mi\'d4n thu\'d5 Vi\'d6t Nam cho c\'b8c kho\'b6n ti\'d2n b
+\'b6n quy\'d2n ph\'b8t sinh t\'b9i Vi\'d6t Nam, c\'b8c thu\'d5 su\'cat th\'cap hay mi\'d4n thu\'d5 nh\'ad v\'cby s\'cf nghi\'d4m nhi\'aan \'ae\'ad\'eec \'b8p d\'f4ng nh\'ad l\'b5 \'ae\'b7 \'ae\'ad\'eec ghi c\'f4 th\'d3 t\'b9i c\'b8c kho\'b6n c\'e3 li\'aa
+n quan t\'b9i c\'b8c \'a7i\'d2u n\'aau tr\'aan c\'f1a Hi\'d6p \'ae\'denh n\'b5y.
+\par Ngh\'de \'ae\'denh th\'ad \'ae\'denh l\'b5m th\'b5nh hai b\'b6n t\'b9i H\'b5 n\'e9i ng\'b5y 26 th\'b8ng 11 n\'a8m m\'e9t ngh\'d7n ch\'ddnh tr\'a8m ch\'ddn m\'ad\'aci s\'b8u b\'bbng ti\'d5ng Vi\'d6t, ti\'d5ng I-ta-li-a v\'b5 ti\'d5ng Anh, ba v\'a8n b\'b6n 
+\'ae\'d2u c\'e3 gi\'b8 tr\'de ngang nhau, tr\'f5 tr\'ad\'eang h\'eep kh\'abng r\'e2 r\'b5ng, khi \'ae\'e3 b\'b6n ti\'d5ng Anh s\'cf c\'e3 gi\'b8 tr\'de quy\'d5t \'ae\'denh.
+\par }\pard\plain \s26\sb360\nowidctlpar\widctlpar\tqc\tx6237\adjustright \b\f18\fs22\lang2057\cgrid {                      TM. Ch\'ddnh ph\'f1                                                  TM. Ch\'ddnh ph\'f1 \line  N\'ad\'edc C\'e9ng h\'dfa x\'b7 h\'e9
+i ch\'f1 ngh\'dca                 n\'ad\'edc c\'e9ng ho\'b5  I-ta-li-a\line                            Vi\'d6t Nam 
+\par }\pard\plain \s22\sb1080\nowidctlpar\widctlpar\tqc\tx6237\adjustright \b\f15\fs26\lang2057\cgrid {              \'a4ng V\'f2 M\'e9ng Giao                               Th\'ad\'eeng ngh\'de s\'dc Patrizia Toia\line             Th\'f8 tr\'ad\'ebng T\'b5i ch
+\'ddnh                                  Th\'f8 tr\'ad\'ebng Ngo\'b9i giao
+\par               B\'e9 Ngo\'b9i giao\tab  Sao y b\'b6n ch\'ddnh
+\par }\pard\plain \s27\sa120\nowidctlpar\widctlpar\tqc\tx1701\adjustright \f15\lang2057\cgrid {\tab S\'e8: 17/LPQT
+\par }\pard\plain \s21\qr\sa120\nowidctlpar\widctlpar\adjustright \i\f15\lang2057\cgrid {H\'b5 N\'e9i, ng\'b5y 26 th\'b8ng 02 n\'a8m 1999
+\par }\pard\plain \s26\sb360\nowidctlpar\widctlpar\tqc\tx6237\adjustright \b\f18\fs22\lang2057\cgrid {\tab Tl. b\'e9 tr\'ad\'ebng b\'e9 ngo\'b9i giao\line \tab KT. V\'f4 tr\'ad\'ebng V\'f4 Lu\'cbt ph\'b8p v\'b5 \'a7i\'d2u \'ad\'edc qu\'e8c t\'d5 \line \tab Ph
+\'e3 V\'f4 tr\'ad\'ebng
+\par }\pard\plain \s22\sb1080\nowidctlpar\widctlpar\tqc\tx6237\adjustright \b\f15\fs26\lang2057\cgrid {\tab Ph\'b9m H\'b5o
+\par }\pard\plain \s28\qj\fi567\sb120\nowidctlpar\widctlpar\adjustright \f15\lang2057\cgrid {\fs22 
+\par }{Ghi ch\'f3: Hi\'d6p \'ae\'denh gi\'f7a Ch\'ddnh ph\'f1 n\'ad\'edc C\'e9ng ho\'b5 X\'b7 h\'e9i ch\'f1 ngh\'dca Vi\'d6t Nam v\'b5 Ch\'ddnh ph\'f1 C\'e9ng ho\'b5 I-ta-li-a v\'d2 tr\'b8nh \'ae\'b8nh thu\'d5 hai l\'c7n \'ae\'e8i v\'edi c\'b8c lo\'b9i thu\'d5
+ \'ae\'b8nh v\'b5o thu nh\'cbp v\'b5 ng\'a8n ng\'f5a vi\'d6c tr\'e8n l\'cbu thu\'d5 b\'bet \'ae\'c7u c\'e3 hi\'d6u l\'f9c t\'f5 ng\'b5y 20 th\'b8ng 02 n\'a8m 1999.
+\par }{\fs22 
+\par 
+\par }}
